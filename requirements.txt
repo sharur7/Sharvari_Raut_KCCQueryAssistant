@@ -1,0 +1,5 @@
+chromadb
+sentence-transformers
+ftfy
+pandas
+torch

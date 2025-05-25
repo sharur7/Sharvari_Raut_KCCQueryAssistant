@@ -1,0 +1,913 @@
+chunk,source_index,structure,StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,year,month
+MAHARASHTRA,0,Doc,MAHARASHTRA,PARBHANI,GANGAKHED,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Fertilizer Use and Availability,farmer asked about fertilzer dose for cotton,डीपी दोन ते अडीच बोलून देण्यात,2025-05-04T22:02:09.183,2025,5
+MAHARASHTRA,1,Doc,MAHARASHTRA,PARBHANI,GANGAKHED,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked query about parbhani agriculture university contact number ?,"वसंतराव नाईक मराठवाडा कृषी विद्यापीठ (VNMKV), परभणीचा मुख्य संपर्क क्रमांक ०२४५२-२२३८०१ आहे.",2025-05-15T19:18:36.54,2025,5
+MAHARASHTRA,2,Doc,MAHARASHTRA,BEED,KAIJ,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT AGRICULTURE RELATED GOVERNMENT SCHEME INFORMATION ?,कृषी विभाग महाराष्ट्र शासन:- १८०० २३३ ४०००,2025-05-05T13:50:52.167,2025,5
+MAHARASHTRA,3,Doc,MAHARASHTRA,BEED,ASHTI,,AGRICULTURE,Fodder Crops,Lucerne (Alfalfa),	Plant Protection	,asked about sucking pest in lucern,घासावरील रसशोषक कीड -  कॉन्फिडोर १० मिली / १५  लिटर पाणी फवारावे ,2025-05-06T17:04:05.61,2025,5
+MAHARASHTRA,4,Doc,MAHARASHTRA,BEED,ASHTI,,AGRICULTURE,Others,Others,Government Schemes,"FARMER ASKED ABOUT CONTACT NUMBER OF WATER RESOURCES DEPARTMENT ,BEED ?","संपर्क क्रमांक जलसंपदा विभाग, महाराष्ट्र शासन, बीड :-  02442-22235",2025-05-08T10:51:22.007,2025,5
+MAHARASHTRA,5,Doc,MAHARASHTRA,BEED,KAIJ,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked about PM Kisan Sanman Nidhi Yojana STATE US ?,पी एम किसान योजनेचे स्टेटस चेक केले असता रेकॉर्ड नोट फाउंड असे दाखवत आहे,2025-05-08T11:06:53.52,2025,5
+MAHARASHTRA,6,Doc,MAHARASHTRA,BEED,AMBAJOGAI,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT PRADHANMANTRI FASAL BIMA YOJANA HELPLINE NUMBER ? ,कृषी विमा कंपनी बीड अंबेजोगाई नंदकुमार मुकुंदराव पोटभरे 9403181414,2025-05-13T14:05:17.877,2025,5
+MAHARASHTRA,7,Doc,MAHARASHTRA,BEED,PATODA,,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"हवामान अंदाज- ढगाळमय वातावरणासह सूर्यप्रकाश असेल, पाऊस तुरळक पडेल. ",2025-05-18T11:30:07.593,2025,5
+MAHARASHTRA,8,Doc,MAHARASHTRA,BEED,ASHTI,,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),Seeds,farmer asked which bio fungicide used for seed treatment ?,जैविक पद्धतीने बीज प्रक्रिया करायची असल्यास ट्रायकोडर्मा व्हिरीडी हे जैविक बुरशीनाशक 5 ते 10 मिली प्रति किलो बियाण्यास सोडावे धन्यवाद,2025-05-19T19:36:15.627,2025,5
+MAHARASHTRA,9,Doc,MAHARASHTRA,BEED,MAJALGAON,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Nutrient Management,"Farmer asked about sugarcane spraying for new branching ?
+",ऊस फवारणी - 12:61:00 - 80 ग्रॅम + सुक्ष्म अन्नद्रव्ये 30 मिली /१५ लिटर पाण्यामध्ये घेऊन फवारणी करावी.,2025-05-20T18:05:44.023,2025,5
+MAHARASHTRA,10,Doc,MAHARASHTRA,BEED,GEORAI,,HORTICULTURE,Condiments and Spices,Coriander,Seeds and Planting Material,Asking about sowing of coriander ?,धने पिकाचे लागवड करताना रगडून त्याचे लागवड करावी धन्यवाद,2025-05-21T17:00:49.15,2025,5
+MAHARASHTRA,11,Doc,MAHARASHTRA,LATUR,RENAPUR,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT CROP INSURANCE CLAIME?,"SBI GENERAL INSURANCE-.	14447
+
+व्हाट्सअप चॅटबॉट  -7065514447",2025-05-03T10:55:17.273,2025,5
+MAHARASHTRA,12,Doc,MAHARASHTRA,LATUR,RENAPUR,,AGRICULTURE,Others,Others,Government Schemes,"FARMER ASKED ABOUT CROP INSURANCE CLIAME?
+",तालुका पातळी  विमा प्रतिनिधी संपर्क -गणेश गुरमे 	9403915806,2025-05-03T10:58:09.5,2025,5
+MAHARASHTRA,13,Doc,MAHARASHTRA,LATUR,DEONI,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about contact number of fasal bima yojana ?,"कंपनीचे नाव SBI GENERAL Insurance
+देवनी
+सतीश जनार्दन सुर्यवंशी 7030881508
+तुळशीराम गंगाधर लेंडाळे 7350736692
+गजानन राजेश्वर पाटील 9096707064",2025-05-04T18:35:26.36,2025,5
+MAHARASHTRA,14,Doc,MAHARASHTRA,LATUR,CHAKUR,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Cultural Practices,FARMER  ASKED ABOUT SPRAY FOR CONTROL OF FUNGAL ATTACK ON CROP ?,"
+M45 एम ४५ ( मॅन्कोझेब ७५% WP ) हे बुरशीनाशक ३० ग्रॅम प्रति १५ लिटर पाण्यामध्ये घेऊन फवारणी करावी. धन्यवाद..! 
+",2025-05-05T17:51:16.313,2025,5
+MAHARASHTRA,15,Doc,MAHARASHTRA,LATUR,AUSA,,HORTICULTURE,Fruits,Lemon,Nutrient Management,asked about yellowing of leaves in lemon,आळवनी द्वारे  ब्ल्यु कॉपर 30 ग्रॅम + १३ ०० ४५ १०० ग्रॅम  /१५ लिटर पाण्यातून द्यावे ,2025-05-08T14:07:22.953,2025,5
+MAHARASHTRA,16,Doc,MAHARASHTRA,LATUR,AUSA,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT CONTACT NUMBER OF AGRISTACK APP?,हेल्पलाइन क्रमांक 020 25 712712,2025-05-12T12:56:20,2025,5
+MAHARASHTRA,17,Doc,MAHARASHTRA,AURANGABAD,SILLOD,,AGRICULTURE,Others,Others,Government Schemes,asked about information of goat farming ?,शेळी पालन च्या अधिक माहितीसाठी   प्रशिक्षणामध्ये माहिती विचारावे,2025-05-01T10:34:21.96,2025,5
+MAHARASHTRA,18,Doc,MAHARASHTRA,AURANGABAD,KANAND,,HORTICULTURE,Vegetables,Cauliflower,	Plant Protection	,Farmer asked about control of  Blight on Cauliflower crop ?,फुलकोबी  पिकावरील रोग नियंत्रणासाठी = कार्बेन्डाझिम ५०% WP १५ ग्रॅम / १५ लिटर पाण्यामध्ये घेऊन फवारणी  करावी ...,2025-05-09T13:54:22.827,2025,5
+MAHARASHTRA,19,Doc,MAHARASHTRA,AURANGABAD,GANGAPUR,,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),Crop Insurance,"Farmer asked about not receiving PMFBY 2024, Tur, Cotton, Mug crop insurance claim benefit ?","प्रधानमंत्री फसल बीमा योजना संदर्भात अधिक माहितीसाठी कृषिरक्षक पोर्टल 14 447 या नंबर वर संपर्क साधावा, धन्यवाद",2025-05-11T11:41:05.697,2025,5
+MAHARASHTRA,20,Doc,MAHARASHTRA,AURANGABAD,KANAND,,HORTICULTURE,Vegetables,Onion,Market Information,asked about Agricultural Produce Market Committee Lasalgaon Onion Market Price,14/05/2025 कृषी उत्पन्न बाजार समिती लासलगाव कांदा बाजार भाव 500 -1506 रुपये प्रति क्विंटल,2025-05-14T14:47:16.827,2025,5
+MAHARASHTRA,21,Doc,MAHARASHTRA,AURANGABAD,GANGAPUR,,HORTICULTURE,Condiments and Spices,Ginger,Cultural Practices,The farmer asked how many kilograms of seeds were needed per acre  ?,नमस्कार सर एकरी 400 ते 500 किलो कंद लागतात आले पिकाचे धन्यवाद,2025-05-18T13:27:47.617,2025,5
+MAHARASHTRA,22,Doc,MAHARASHTRA,AURANGABAD,GANGAPUR,,AGRICULTURE,Beekeeping,Beekeeping,Government Schemes,farmer asked about pm kisan samman nidhi yojana next installment ?,पी एम किसान सन्माननिधी योजनेचा पुढील हप्ता जून किंवा जुलै महिन्यामध्ये येण्याची शक्यता आहे धन्यवाद,2025-05-22T17:06:35.183,2025,5
+MAHARASHTRA,23,Doc,MAHARASHTRA,JALNA,GHANSAWANGI,,AGRICULTURE,Oilseeds,Soybean (bhat),Varieties,Farmers asked about early soybean varieties?,"नमस्कार सोयाबीन पिकाचे लवकर येणारा वाण : परभणी सोना (MAUS-47), ग्रीन गोल्ड ३३४४, विक्रांत, जे एस ९५-६०  धन्यवाद ",2025-05-12T12:28:48.767,2025,5
+MAHARASHTRA,24,Doc,MAHARASHTRA,GONDIYA,AMGAON,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about Toll Free no. of PM Kisan Yojana ,नमस्कार पीएम-किसान हेल्पलाइन क्रमांक : 155261 / 011-24300606 या नंबर वरती संपर्क करावा. धन्यवाद..! ,2025-05-17T08:44:58.45,2025,5
+MAHARASHTRA,25,Doc,MAHARASHTRA,NANDURBAR,NANDURBAR,,AGRICULTURE,Others,Others,Cultural Practices,FARMER ASKED ABOUT INFORMATION OF ASHWAGANDHA ?,"अश्वगंधा पिकाच्या जाती - असगंध - २० ,१३४ , १०० ,राजविजय
+",2025-05-16T16:50:59.46,2025,5
+MAHARASHTRA,26,Doc,MAHARASHTRA,PALGHAR,PALGHAR,,AGRICULTURE,Others,Others,Government Schemes,Asked for Maharashtra Agri Department Toll Free Number?,महाराष्ट्र शासन कृषी विभाग टोल फ्री क्रमांक 1800 233 4000  या क्रमांकावर संपर्क साधावा.,2025-05-11T20:54:12.073,2025,5
+MAHARASHTRA,27,Doc,MAHARASHTRA,WASHIM,MALEGAON,,AGRICULTURE,Oilseeds,Soybean (bhat),Crop Insurance,FARMER ASKED QUERY ABOUT CROP INSURANCE OF SOYABEAN AND TUR CROP IN YEAR 2024?,"--शेतकरी महोदय पिक विमा संदर्भात खाली दिलेल्या संपर्क क्रमांक वरती संपर्क साधून माहिती घ्यावी धन्यवाद
+AGRICULTURE INSURANCE COMPANY	Tollfree No.	14447
+Washim	Malegaon	Yogesh Bharat Aru	8605819534
+Anil Gangaram Akhand	9309086736
+Washim	Malegaon	Gopal Uddhav Navghare	9579716769
+Washim	Malegaon	Suresh Waman Adhao	9665019521",2025-05-03T07:39:23.7,2025,5
+MAHARASHTRA,28,Doc,MAHARASHTRA,WASHIM,MALEGAON,,AGRICULTURE,Pulses,Bengal Gram (Gram/Chick Pea/Kabuli/Chana),Market Information,Farmer asked about market rate of Gram in Washim Market ?,"वाशिम हरभरा बाजार भाव- कमीत कमी- 5400 रु/क्विंटल, जास्तीत जास्त- 5600 रु/ क्विंटल, सरासरी- 5500  रु/ क्विंटल.धन्यवाद",2025-05-05T14:42:05.427,2025,5
+MAHARASHTRA,29,Doc,MAHARASHTRA,WASHIM,WASHIM,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about farmer id registration helpline number ,शेतकरी आयडी नोंदणी हेल्पलाइन नंबर -02025712712 / 01123382926,2025-05-05T15:27:10.66,2025,5
+MAHARASHTRA,30,Doc,MAHARASHTRA,WASHIM,MALEGAON,,AGRICULTURE,Others,Others,Government Schemes, The farmer asked for information about crop insurance?,"पिक विमा बाबत अधिक माहितीसाठी - १४४४७  या नंबरला संपर्क साधावा.
+
+ धन्यवाद..",2025-05-07T15:09:35.25,2025,5
+MAHARASHTRA,31,Doc,MAHARASHTRA,WASHIM,MALEGAON,,AGRICULTURE,Pulses,Bengal Gram (Gram/Chick Pea/Kabuli/Chana),Market Information,Farmer asked query on Mandi details,हरभरा   बाजारभाव   - कमीत कमी -५३३५ जास्तीत जास्त -५३३५   सरासरी -५३३५    प्रति क्विंटल,2025-05-11T06:45:05.917,2025,5
+MAHARASHTRA,32,Doc,MAHARASHTRA,WASHIM,MALEGAON,,AGRICULTURE,Oilseeds,Soybean (bhat),Market Information,Farmer asked query on Mandi details,सोयाबीन   बाजारभाव   - कमीत कमी -3700 जास्तीत जास्त -4200   सरासरी -4000   प्रति क्विंटल,2025-05-11T06:46:07.787,2025,5
+MAHARASHTRA,33,Doc,MAHARASHTRA,WASHIM,RISOD,,HORTICULTURE,Condiments and Spices,Turmeric,Market Information,farmer asked about basmat Market Committee Market Price of Turmeric ?,"हळदीचे वसमत बाजार समिती बाजार भाव =
+कमीत कमी - 11000 रुपये प्रतिक्विंटल
+जास्तीत जास्त - 13500 रुपये प्रतिक्विंटल
+सरासरी बाजारभाव - 12252रुपये प्रतिक्विंटल धन्यवाद !",2025-05-12T16:10:15.06,2025,5
+MAHARASHTRA,34,Doc,MAHARASHTRA,WASHIM,MALEGAON,,AGRICULTURE,Pulses,Bengal Gram (Gram/Chick Pea/Kabuli/Chana),Market Information,Farmer asked about Market rate of Gram in Washim Market  ?,"हरभरा बाजार भाव- कमीत कमी - 5200 रु/क्विंटल, जास्तीत जास्त - 5600 रु/ क्विंटल, सरासरी - 5400 रु/ क्विंटल.धन्यवाद",2025-05-12T18:41:42.257,2025,5
+MAHARASHTRA,35,Doc,MAHARASHTRA,WASHIM,MALEGAON,,HORTICULTURE,Condiments and Spices,Coriander,Vegetative Propagation and Tissue Culture,FARMER ASKED ABOUT GERMINATION PERIODS IN CORIANDER CROP?,महोदय कोथिंबीर पिकाच्या उगवणी साठी सरासरी आठ दिवसाचा कालावधी लागू शकतो. धन्यवाद....!,2025-05-16T13:19:36.327,2025,5
+MAHARASHTRA,36,Doc,MAHARASHTRA,WASHIM,RISOD,,AGRICULTURE,Others,Others,Government Schemes,"asked about Dr. Panjabrao Deshmukh Krishi Vidyapeeth, Akola contact number ?","०७५८८७ ६३७८७
+डॉ.पंजाबराव देशमुख कृषी विद्यापीठ, अकोला,",2025-05-18T12:06:13.593,2025,5
+MAHARASHTRA,37,Doc,MAHARASHTRA,HINGOLI,HINGOLI,,AGRICULTURE,Oilseeds,Soybean (bhat),Nutrient Management,FARMER ASKED ABOUT NUTRIENT MANAGEMENT IN SOYABEAN?,सोयाबीन पिकासाठी खत मात्रा - १८:४६:०० - १ बॅग + युरिया - १ बॅग / एकर.,2025-05-20T20:54:15.813,2025,5
+MAHARASHTRA,38,Doc,MAHARASHTRA,PUNE,SHIRUR,,AGRICULTURE,Others,Others,Cultural Practices,TRANSFER CALL ,TRANSFER CALL ,2025-05-03T14:45:26.747,2025,5
+MAHARASHTRA,39,Doc,MAHARASHTRA,PUNE,JUNNAR,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked about PM Kisan Sanman Nidhi Yojana?,"--•	प्रधानमंत्री किसान सन्मान निधी योजना संबंधी अधिक माहितीसाठी 011-24300606
+नंबर वर संपर्क साधावा
+",2025-05-05T12:04:47.613,2025,5
+MAHARASHTRA,40,Doc,MAHARASHTRA,PUNE,DAUND,,HORTICULTURE,Vegetables,Onion,Market Information,Farmer asked about Bengaluru Onion Market rate ? ,"बेंगलोर कांदा बाजार भाव- कमीत कमी- 2000 रु/क्विंटल, जास्तीत जास्त- 2000 रु/ क्विंटल, सरासरी- 2000 रु/ क्विंटल.धन्यवाद ",2025-05-15T16:50:15.01,2025,5
+MAHARASHTRA,41,Doc,MAHARASHTRA,PUNE,SHIRUR,,AGRICULTURE,Others,Others,Agriculture Mechanization,FARMER ASKED ABOUT Mahatma Phule Krishi Vidyapeeth Rahuri CONTACT NUMBER ?,"महात्मा फुले कृषी विद्यापीठ राहुरी संपर्क क्रमांक - 02426-243345,243279,243051",2025-05-19T15:54:39.5,2025,5
+MAHARASHTRA,42,Doc,MAHARASHTRA,PUNE,JUNNAR,,AGRICULTURE,Others,Others,Government Schemes,"The farmer asked where and how to do the new application of PM Kisan Nidhi Yojana ?
+","महोदय , आपण पीएम किसान सन्माननीधीसाठी अर्ज जवळील सीएससी सेंटर येथून करू शकता अधिक माहितीसाठी तालुका कृषी अधिकारी कार्यालयात  सुद्धा भेट देऊ शकता धन्यवाद .
+",2025-05-20T16:42:27.09,2025,5
+MAHARASHTRA,43,Doc,MAHARASHTRA,JALGAON,BHUSAWAL,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT CROP INSURANCE CLAIME?,"ORIENTAL INSURANCE	Tollfree No.	14447
+
+Tehsil level Officer Details  8407918183
+",2025-05-03T09:52:17.193,2025,5
+MAHARASHTRA,44,Doc,MAHARASHTRA,AHMADNAGAR,PATHARDI,,AGRICULTURE,Others,Others,Government Schemes,The farmer asked Did not receive money under crop insurance?,"पिक विमा बाबत अधिक माहितीसाठी  -१४४४७ या नंबरला संपर्क साधावा.
+
+ धन्यवाद..",2025-05-11T14:48:41.26,2025,5
+MAHARASHTRA,45,Doc,MAHARASHTRA,AHMADNAGAR,SHRIRAMPUR,,AGRICULTURE,Others,Others,Agriculture Mechanization,Farmer Asked About Agriculture Commissionerate Contact Number ?, कृषी आयुक्तालय संपर्क नंबर 02026123648 .,2025-05-11T18:36:30.25,2025,5
+MAHARASHTRA,46,Doc,MAHARASHTRA,SATARA,KOREGAON,,HORTICULTURE,Fruits,Citrus,Fertilizer Use and Availability,FERTILIZER SPRAY FOR GROWTH OF CITRUS  CROP  ?,8767026839,2025-05-09T13:57:45.787,2025,5
+MAHARASHTRA,47,Doc,MAHARASHTRA,AHMADNAGAR,PATHARDI,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Cultural Practices,FARMER ASKED ABOUT CULTIVATION OF SUGARCANE CROP WITHOUT TILLAGE OPERATION?,जमीन भुसभुशीत असेल तर जमिनीची मशागत न करता आपण ऊस पिकाची लागवड करू शकता,2025-05-18T09:05:22.513,2025,5
+MAHARASHTRA,48,Doc,MAHARASHTRA,JALGAON,CHALISGAON,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Varieties,Farmer asked Varieties of Cotton ?,"कापूस -जाती -डॉ ब्रेंट बाहुबली, अजित - १५५, एमआरसी – ७३५१ ,ब्रह्मा ,मल्लिका,  भक्ति ,अंकुर ०९ ,जॅकपॉट, चाणक्य ,माउली, ",2025-05-12T10:45:26.663,2025,5
+MAHARASHTRA,49,Doc,MAHARASHTRA,JALGAON,CHOPDA,,AGRICULTURE,Others,Others,Government Schemes,farmer askewd about taluka krushi adhikari contact number  choda?,"तालुका कृषी अधिकारी चोपडा संपर्क क्रमांक ,चोपडा =2586 220216 .",2025-05-17T20:05:37.113,2025,5
+MAHARASHTRA,50,Doc,MAHARASHTRA,DHULE,SAKRI,,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),Market Information,Asked for market rate of groundnut?,भुईमूग शेंगांचे बाजारभाव 5000 100 ते 5900 रुपये प्रति क्विंटल आहेत,2025-05-10T18:28:19.42,2025,5
+MAHARASHTRA,51,Doc,MAHARASHTRA,DHULE,SAKRI,,HORTICULTURE,Vegetables,French Bean,Nutrient Management,Asking about nutrient spray on french bean ?,१२ ६१ ०० ६० ग्रॅम + मायक्रोला 40 मिली + साफ ३० ग्रॅम/ १५ लिटर पाण्यात घेऊन फवारणी करणे ,2025-05-11T19:06:49.43,2025,5
+MAHARASHTRA,52,Doc,MAHARASHTRA,DHULE,SHINDKHEDE,,AGRICULTURE,Others,Others,Government Schemes,other state call,other state call,2025-05-16T16:16:53.07,2025,5
+MAHARASHTRA,53,Doc,MAHARASHTRA,DHULE,DHULE,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Varieties,FARMER ASKED ABOUT VARIETIES OF COTTON ?,"कापूस जाती :-यु एस -७०६७,नवनीत ,राजा ,सुपरकोट ,अजित-१५५ ,प्रभात .",2025-05-18T13:53:18.747,2025,5
+MAHARASHTRA,54,Doc,MAHARASHTRA,NASIK,SINNAR,,HORTICULTURE,Vegetables,Onion,Fertilizer Use and Availability,asked about onion seed plot fertigation,कांदा प्लॉट -  १२  ६१  ० - ४ किलो + मायक्रोला ५०० मिली / एकर सोडावे ,2025-05-01T17:03:29.837,2025,5
+MAHARASHTRA,55,Doc,MAHARASHTRA,SOLAPUR,MADHA,,HORTICULTURE,Vegetables,Onion,Crop Insurance,farmer asked about information of Crop Insurance Scheme ?,प्रधानमंत्री पिक विमा योजनेअंतर्गत अधिक माहितीसाठी आपण कृषी रक्षक पोर्टल किंवा खालील क्रमांकावर ती संपर्क साधावा 14447,2025-05-01T09:48:12.063,2025,5
+MAHARASHTRA,56,Doc,MAHARASHTRA,SOLAPUR,SANGOLA,,HORTICULTURE,Fruits,Pomegranate,Cultural Practices,former asked about contact number of Mahatma Phule Krishi Vidyapeeth Rahuri ,महात्मा फुले कृषी विद्यापीठ राहुरी संपर्क क्रमांक 91-02426-243208  ,2025-05-01T10:47:09.92,2025,5
+MAHARASHTRA,57,Doc,MAHARASHTRA,SOLAPUR,MALSHIRAS,,HORTICULTURE,Vegetables,Cucumber,	Plant Protection	,farmer asked doses of bio 303 ?,बायो ३०३ चे प्रमाण २-२.५ मिली प्रति लिटर पाणी असे घेऊ शकता धन्यवाद ,2025-05-02T12:49:42.693,2025,5
+MAHARASHTRA,58,Doc,MAHARASHTRA,SOLAPUR,SANGOLA,,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),Varieties,Farmer Asked About Varieties of Pegion Pea Crop ?,"तूर -जाती - आयसीपीएल-८७ ,विपुला ,राजेश्वरी, बीडीएन -१ ,एकेटी-८८११ ,बिएसएम आर १७५  ,जागृती ,पी के व्ही -तारा, मारुती ",2025-05-11T10:18:19.97,2025,5
+MAHARASHTRA,59,Doc,MAHARASHTRA,SOLAPUR,SANGOLA,,HORTICULTURE,Vegetables,Cluster Bean,	Plant Protection	,farmer asked about attack of wilt on cluster bean crop?,आपण गवार पिकातील मर नियंत्रणासाठी कॉपर ऑक्सिक्लोराईड २ ग्राम प्रति लिटर पाण्यातून आळवणी करावी किंवा फवारणी करावी ,2025-05-13T14:14:14.597,2025,5
+MAHARASHTRA,60,Doc,MAHARASHTRA,SOLAPUR,MADHA,,AGRICULTURE,Pulses,Black Gram (urd bean),Sowing Time and Weather,Farmer asked about sowing time of black gram crop,उडीद या पिकाची पेरणी आपण साधारणपणे 15 जून ते 15 जुलै या कालावधीमध्ये करावी,2025-05-15T12:08:09.71,2025,5
+MAHARASHTRA,61,Doc,MAHARASHTRA,SOLAPUR,MADHA,,HORTICULTURE,Fruits,Banana,Fertilizer Use and Availability,FARMER ASKED ABOUT FERTILIZER DOSE FOR BANANA CROP?,केळी पिकासाठी १२ ६१ ०० ५ किलो   प्रति एकर ठिबक मधून द्यावा,2025-05-19T06:55:34.58,2025,5
+MAHARASHTRA,62,Doc,MAHARASHTRA,RATNAGIRI,DAPOLI,,AGRICULTURE,Others,Others,Cultural Practices,asked about contact number of nursery in Dapoli ,"कृषिधन नर्सरी दापोली संपर्क क्रमांक 
+08733956858",2025-05-11T13:13:24.81,2025,5
+MAHARASHTRA,63,Doc,MAHARASHTRA,SANGLI,MIRAJ,,AGRICULTURE,Others,Others,Government Schemes,farmer asked for information regarding the farmer's name not being displayed above the farm land group number (7-12) for obtaining a Farmer ID?,--नमस्कार शेत जमिनीचा सातबारा ऑनलाइन दाखवत नसल्याच्या कारणासाठी आपण भूमी अभिलेख कार्यालयातील अधिकाऱ्यांशी संपर्क करावा किंवा तलाठी साहेबांना जाऊन भेटावे धन्यवाद...,2025-05-21T17:36:57.587,2025,5
+MAHARASHTRA,64,Doc,MAHARASHTRA,RAIGARH,KARJAT,,HORTICULTURE,Fruits,Mango,Fertilizer Use and Availability,FARMER ASKED ABOUT FERTILIZER DOSE MANGO?,बोरॉन १ किलो + कॅल्शिअम नायट्रेट २ किलो २०० लिटर  मधून द्यावे ,2025-05-21T13:50:59.747,2025,5
+MAHARASHTRA,65,Doc,MAHARASHTRA,KOLHAPUR,,,AGRICULTURE,Others,Others,Government Schemes,asked about pmkisan,"MAHARASHTRA	NASHIK	Avinash Jagdish Khairnar	Taluka Agriculture Officer	 	7588013393	avinash[dot]khairnar[at]gov[dot]in	 
+4	MAHARASHTRA	NASHIK	Bhagvan Baburao Gorde	Taluka Agriculture Officer	 	9404587807	bhagvan[dot]gorde46[at]gov[dot]in",2025-05-03T18:10:54.22,2025,5
+MAHARASHTRA,66,Doc,MAHARASHTRA,KOLHAPUR,SHAHUWADI,,AGRICULTURE,Green Manure,Dhaincha,Cultural Practices,"FARMER ASKED ABOUT HELPLINE NUMBER OF MAHATMA PHULE KRISHI VIDYAPEETH, RAHURI. ?","Mahatma Phule Krishi Vidyapeeth (Agriculture University), Rahuri
+महात्मा फुले कृषि विद्यापीठ, राहुरी , जि. अहमदनगर 
+  उद्यानविद्या विभाग : डॉ. अनिकेत चंदनशिवे, संपर्क क्रं. ७०६५७९१११५ ",2025-05-07T16:57:45.563,2025,5
+MAHARASHTRA,67,Doc,MAHARASHTRA,KOLHAPUR,PANHALA,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Fertilizer Use and Availability,FARMER ASKED ABOUT FEWRTILIZER SPRAY FOR SUGARCANE ?,	०० ५२ ३४ ६० ग्रॅम + मायक्रोला ३० मिली  /१५ लिटर पाण्यामध्ये घेऊन फवारणी करावी.,2025-05-08T15:00:33.72,2025,5
+MAHARASHTRA,68,Doc,MAHARASHTRA,KOLHAPUR,KARVIR,,HORTICULTURE,Vegetables,Brinjal,	Plant Protection	,Farmer asked about control of shoot borer pest on Brinjal crop ?,वांगी पिकावरील शेंडा पोखरणाऱ्या अळीच्या नियंत्रणासाठी  लाम्बडा सायलोथ्रीन 5 %  -20  मिली  15  लिटर पाण्यातून फवारणी करा. ( कराटे),2025-05-19T20:27:02.353,2025,5
+MAHARASHTRA,69,Doc,MAHARASHTRA,YEVATMAL,MAHAGAON,,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),	Plant Protection	,farmer asked how to control wilting in groundnut ?,भुईमूग पिकामध्ये मर होत असल्यास आपण भुईमूग पिकाला एकरी 200 लिटर पाण्यामधून ब्ल्यू कॉपर 500 ग्रॅम मिक्स करून सोडावे धन्यवाद,2025-05-09T14:34:15.523,2025,5
+MAHARASHTRA,70,Doc,MAHARASHTRA,YEVATMAL,MAREGAON,,AGRICULTURE,Pulses,Green Gram (Moong Bean/ Moong),Market Information,asked about Agricultural Produce Market Committee Hinganghat Moong market price,09/05/2025 कृषी उत्पन्न बाजार समिती हिंगणघाट मूग बाजार भाव 6200 - 6900 रुपये प्रति क्विंटल ,2025-05-11T17:24:11.923,2025,5
+MAHARASHTRA,71,Doc,MAHARASHTRA,YEVATMAL,MAHAGAON,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKING ABOUT KISAN CALL CENTER?,आपण किसान कॉल सेंटर चा अभिप्राय दिल्याबद्दल धन्यवाद,2025-05-12T15:05:17.65,2025,5
+MAHARASHTRA,72,Doc,MAHARASHTRA,YEVATMAL,DIGRAS,,AGRICULTURE,Others,Others,Government Schemes,asked about natural calamities subsidy,आपले पीक नुकसान अनुदान लवकरच जमा होईल ,2025-05-17T17:40:51.887,2025,5
+MAHARASHTRA,73,Doc,MAHARASHTRA,YEVATMAL,DIGRAS,,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),Seeds,Farmer asked about PDKV ASHLESHA Tur Varieties Information ?,"महाबीज  तुर आश्लेषा जाती संदर्भात संपर्क -- टोल फ्री क्रमांक १८००-२३३-८८७७, (0724)-2455093, 2542060,",2025-05-22T16:09:03.463,2025,5
+MAHARASHTRA,74,Doc,MAHARASHTRA,AMRAVATI,TIWSA,,HORTICULTURE,Vegetables,Bhindi(Okra/Ladysfinger),Nutrient Management,Farmer asked about yellowing of Bhindi crop leaves ?,"भेंडी पिकामध्ये पाने पिवळी पडत असतील तर अमायनो ऍसिड (इसाबीऑन) - 25 मिली 15 लिटर पाण्यामध्ये घेऊन फवारणी करावी, धन्यवाद",2025-05-07T17:57:30.917,2025,5
+MAHARASHTRA,75,Doc,MAHARASHTRA,AMRAVATI,BHATKULI,,AGRICULTURE,Oilseeds,Sesame (Gingelly/Til)/Sesamum,	Water Management	,FARMER ASKED ABOUT SESAME CROP?,कालावधी : तिळ हे पिक ८५ ते ९० दिवसात ,2025-05-17T12:32:06.527,2025,5
+MAHARASHTRA,76,Doc,MAHARASHTRA,CHANDRAPUR,CHIMUR,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Crop Insurance,asked about crop insurance oriental insurance company contact number ?,"कंपनीचे नाव-  ओरिएंटल इन्शुरन्स टोलफ्री क्रमांक १४४४७
+चिमूर, चंद्रशेखर संभाजी रेवतकर 9975026352
+पिपळनेरी रोड, संत वैयुजी विद्यालय, साई नगर जवळ, वडला, चिमूर",2025-05-01T16:34:18.39,2025,5
+MAHARASHTRA,77,Doc,MAHARASHTRA,BULDANA,MALKAPUR,,HORTICULTURE,Vegetables,Pumpkin,Cultural Practices,Asking about removal of flowers of pumkin ?,काशीफळ भोपळ्याची फळे पोचण्यासाठी फुलांचे खोडणे करू नये धन्यवाद,2025-05-02T20:39:38.363,2025,5
+MAHARASHTRA,78,Doc,MAHARASHTRA,BULDANA,BULDANA,,AGRICULTURE,Others,Others,Crop Insurance,"Crop loss  and crop insurance information ?
+","--पीक नुकसानीबाबत आणि पिक विमा संबंधित माहितीसाठी आपल्या
+14447 संपर्क साधा,
+",2025-05-05T10:22:26.71,2025,5
+MAHARASHTRA,79,Doc,MAHARASHTRA,BULDANA,MOTALA,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about Pradhanmantri Crop Insurance Scheme information ?,प्रधानमंत्री पिक विमा योजनेबद्दल अधिक माहितीसाठी तुमच्या पिक विमा कंपनीशी संपर्क साधा धन्यवाद,2025-05-05T10:36:16.523,2025,5
+MAHARASHTRA,80,Doc,MAHARASHTRA,BULDANA,CHIKHLI,,AGRICULTURE,Others,Others,Crop Insurance,"Crop loss  and crop insurance information ?
+","पीक नुकसानीबाबत आणि पिक विमा संबंधित माहितीसाठी आपल्या
+14447 संपर्क साधा
+",2025-05-06T08:04:27.693,2025,5
+MAHARASHTRA,81,Doc,MAHARASHTRA,BULDANA,JALGAONJAMOD,,AGRICULTURE,Others,Others,Government Schemes,farmer asked consumer helpline number ?,"राष्ट्रीय ग्राहक हेल्पलाइन, राष्ट्रीय टोल फ्री क्रमांक -१८००-११-४००० ",2025-05-08T18:10:51.317,2025,5
+MAHARASHTRA,82,Doc,MAHARASHTRA,BULDANA,CHIKHLI,,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),Market Information,Farmers asked about Jalna Market Committee  price of Kabuli gram ?,"शेतकरी साहेब, हरभरा बाजारभाव  जालना  बाजार समिती : कमीत कमी  ५८०० रु/क्विटल, जास्तीत जास्त  ७८५० रु/क्विटल, सरासरी  ७१०० रु/क्विटलआहेत. धन्यवाद.",2025-05-15T08:01:58.887,2025,5
+MAHARASHTRA,83,Doc,MAHARASHTRA,BULDANA,MOTALA,,AGRICULTURE,Others,Others,Government Schemes,Crop loss  and crop insurance information ?,संबधी अधिक माहिती साठी संपर्क साधा--गाव कामगार तलाठी कार्यालय याना भेट द्या .,2025-05-15T10:36:50.417,2025,5
+MAHARASHTRA,84,Doc,MAHARASHTRA,BULDANA,DEULGAON RAJA,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked about contact number of Nanaji Deshmukh Agricultural Sanjeevani Project/Pokra ?,नानाजी देशमुख कृषी संजीवनी प्रकल्प/पोकरा संपर्क: 022-22163351/ टोल फ्री क्रमांक 1800-1036-110. ,2025-05-19T09:49:40.38,2025,5
+MAHARASHTRA,85,Doc,MAHARASHTRA,BULDANA,MOTALA,,AGRICULTURE,Others,Others,Sowing Time and Weather,FARMER ASKED ABOUT SOWING TIME OF KHARIF CROPS?,खरीप हंगामाची पेरणी 15 जून ते 15 जुलै पर्यंत करू शकता,2025-05-22T11:44:38.117,2025,5
+MAHARASHTRA,86,Doc,MAHARASHTRA,BULDANA,KHAMGAON,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Varieties,FARMER ASKED ABOUT VARIETIES OF COTTON CROP ?,"कापूस वाण: LRA 5166, NHH-44, अंकुर-651, LRA 5166, PKV रजत, अंजली, H 4 AkH 4, AKA 5. धन्यवाद!  ",2025-05-22T12:25:21.867,2025,5
+MAHARASHTRA,87,Doc,MAHARASHTRA,BULDANA,NANDURA,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Sowing Time and Weather,Farmer asked about the sowing time of cotton?,कापूस या पिकाचे पेरणी करण्यासाठी जून च्या पहिल्या आठवड्यापर्यंत करू शकता.,2025-05-22T18:37:58.297,2025,5
+MAHARASHTRA,88,Doc,MAHARASHTRA,NANDED,UMRI,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about university number ?,राहुरी कृषी विद्यापीठाचा नंबर - 02426243215 धन्यवाद,2025-05-04T13:50:18.5,2025,5
+MAHARASHTRA,89,Doc,MAHARASHTRA,NANDED,ARDHAPUR,,AGRICULTURE,Others,Others,Government Schemes,Asked for Maharashtra Agri Department Toll Free Number?,महाराष्ट्र शासन कृषी विभाग टोल फ्री क्रमांक 1800 233 4000  या क्रमांकावर संपर्क साधावा.,2025-05-05T20:26:23.133,2025,5
+MAHARASHTRA,90,Doc,MAHARASHTRA,NANDED,KINWAT,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Fertilizer Use and Availability,FARMER ASKED ABOUT FERTILIZER DOSE FOR COTTON?,कपाशी पिकासाठी खत मात्रा - १०:२६:२६ - १ बॅग + युरिया - १ बॅग / एकर.,2025-05-11T21:02:38.44,2025,5
+MAHARASHTRA,91,Doc,MAHARASHTRA,NANDED,LOHA,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Market Information,Farmer asked about the market rate of turmeric?,"हळदी बाजारभाव नांदेड  बाजार समिती : 
+कमीत कमी ११९०० रु/क्विटल,
+जास्तीत जास्त १३५०० रु/क्विटल, 
+सरासरी १२८०० रु/क्विटल आहेत. धन्यवाद..!",2025-05-16T16:51:19.05,2025,5
+MAHARASHTRA,92,Doc,MAHARASHTRA,NANDED,NAIGAON (KH),,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Fertilizer Use and Availability,FARMER ASKED ABOUT FERTILIZER DOSE OF SUGARCANE CROP ? ,ऊस पिकासाठी खते  - युरिया १ बॅग + डी ए पी - २ बॅग + महाधन शक्ती १ बॅग / एकर हे खत द्यावे . ,2025-05-17T13:57:19.3,2025,5
+MAHARASHTRA,93,Doc,MAHARASHTRA,OSMANABAD,OSMANABAD,,AGRICULTURE,Others,Others,Crop Insurance,farmer asked about HDFC ergo general insurance company contact number ?,पिक विमा बद्दल अधिक माहितीसाठी तुमच्या HDFC आरगो जनरल इन्शुरन्स कंपनीशी संपर्क साधा संपर्क क्रमांक - 022 6234 6234 /  022 6158 2020 या नंबर वर संपर्क करा धन्यवाद,2025-05-07T10:02:51.49,2025,5
+MAHARASHTRA,94,Doc,MAHARASHTRA,OSMANABAD,BHOOM,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT PHONE NO. OF KVK BARAMATI?,कृषी विघ्यान केंद्र बारामती फोन न. -  ०२११२ - २५५२२,2025-05-10T12:46:08.927,2025,5
+MAHARASHTRA,95,Doc,MAHARASHTRA,OSMANABAD,KALAMB,,HORTICULTURE,Fruits,Mango,Cultural Practices,farmer asked if he could graft a two-four year old mango tree ?,नमस्कार आपण आंब्याच्या झाडाला कलम करून घेऊ शक ता धन्यवाद,2025-05-20T14:22:32.183,2025,5
+MAHARASHTRA,96,Doc,MAHARASHTRA,WARDHA,KARANJA,,HORTICULTURE,Fruits,Orange,	Plant Protection	,farmer asked about fungicide and other fertilizer spray information in orange crop?,"संत्री पिकाबाबत अधिक माहितीसाठी पुढील क्रमांकावर संपर्क साधावा.
+डॉ. बाळासाहेब सावंत कोकण कृषी विद्यापीठ, दापोली , जि. रत्नागिरी
+
+फलोत्पादन विभाग, डॉ. BSKKV, दापोली. : ०२३५८-२८२४१५
+
+धन्यवाद..!",2025-05-10T10:55:48.4,2025,5
+MAHARASHTRA,97,Doc,MAHARASHTRA,WARDHA,ARVI,,AGRICULTURE,Others,Others,Government Schemes,The farmer asked if there are any job vacancies in  Kisan Call Center?,"किसान कॉल सेंटर जॉब पात्रतेसाठी  कृषी  संबंधित डिग्री आवश्यक आहे.
+
+ धन्यवाद....",2025-05-13T11:45:32.573,2025,5
+MAHARASHTRA,98,Doc,MAHARASHTRA,WARDHA,DEOLI,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Weed Management,asked about pre emergence weed management in cotton crop ?,कापूस पीक लावल्यानंतर आणि उगवणे अगोदर  pendimethaline तणनाशकाचे फवारणी करावे धन्यवाद,2025-05-15T17:17:03.58,2025,5
+MAHARASHTRA,99,Doc,MAHARASHTRA,NAGPUR,UMRED,,AGRICULTURE,Pulses,Green Gram (Moong Bean/ Moong),Fertilizer Use and Availability,FARMER ASKED ABOUT MIXING OF FERTILIZER FOR MOONG CROP ?,मूग पिकामध्ये पोटॅशियम शोनाइट व मायक्रोला एकत्रितपणे देऊ शकता. धन्यवाद !,2025-05-11T11:15:21.993,2025,5
+MAHARASHTRA,100,Doc,MAHARASHTRA,AKOLA,TELHARA,,AGRICULTURE,Others,Others,Government Schemes,asked about farm  borewell ,तलाठ्याकडून नोंद करून घ्या ,2025-05-03T18:13:23.68,2025,5
+MAHARASHTRA,101,Doc,MAHARASHTRA,AKOLA,AKOLA,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT MUSHROOM PROJECT AGRICULTURE COLLEGE PUNE ?,अळिंबी प्रकल्प कृषी महाविद्यालय पुणे -०२० २५५३७०३३ /०३८ ,2025-05-05T13:25:36.917,2025,5
+MAHARASHTRA,102,Doc,MAHARASHTRA,AKOLA,PATUR,,HORTICULTURE,Condiments and Spices,Turmeric,Cultural Practices,FARMER ASKED ABOUT SOWING TIME OF TURMERIC CROP? ,हळद पिकाची लागवड 15 मे ते जून चा पहिला आठवडा या कालावधीमध्ये करावी धन्यवाद!,2025-05-06T15:15:46.443,2025,5
+MAHARASHTRA,103,Doc,MAHARASHTRA,AKOLA,PATUR,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Sowing Time and Weather,farmer asked sowing time of cotton ?,कापूस पिकाची लागवड 15 मे नंतर ना आपण करू शकतात धन्यवाद,2025-05-13T19:23:43.273,2025,5
+MAHARASHTRA,104,Doc,MAHARASHTRA,AKOLA,AKOLA,,AGRICULTURE,Others,Others,Government Schemes,farmer asked query about Marathwada Agriculture University-Parbhani Helpline No.?,"वसंतराव नाईक मराठवाडा कृषी विद्यापीठ, परभणी
+(०२४५२) २२३८०१. धन्यवाद.",2025-05-16T12:18:17.977,2025,5
+MAHARASHTRA,105,Doc,MAHARASHTRA,AKOLA,BARSHITAKLI,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Varieties,FARMER ASKED ABOUT COTTON VARITYA ? ,". अजित १५५ ,राशी (RCH ७७९)    ,महिको जंगी  ,राशी (RCH ६५९)                                                          ",2025-05-21T13:31:46.99,2025,5
+MAHARASHTRA,106,Doc,MAHARASHTRA,AKOLA,PATUR,,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),Post Harvest Preservation,What to do to increase the size of the bean pods ?,"भुईमुगाच्या शेंगा  पोसण्या साठी  डीएपी  1 ,जिप्सम 100 kg एकरी द्यावे लागते .",2025-05-06T10:18:14.637,2025,5
+MAHARASHTRA,107,Doc,MAHARASHTRA,AKOLA,BARSHITAKLI,,HORTICULTURE,Vegetables,Brinjal,Seeds and Planting Material,ASKED ABOUT VARIETY OF BRINJAL CROP ?,"वांगी वान  - मांजरी गोटा ,  वैशाली",2025-05-08T20:40:03.423,2025,5
+MAHARASHTRA,108,Doc,MAHARASHTRA,AKOLA,PATUR,,HORTICULTURE,Vegetables,Bhindi(Okra/Ladysfinger),Cultural Practices,Farmer asked about planting of okra crop ?,भेंडी पिकाचे लागवड बियाणे टोपण करून करावी धन्यवाद,2025-05-10T19:24:27.657,2025,5
+MAHARASHTRA,109,Doc,MAHARASHTRA,AKOLA,AKOLA,,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),Varieties,FARMER ASKED ABOUT DR PANJABRAO DESHMUKH AGRICULTURE UNIVERSITY AKOLA  CONTACT NUMBER ?,"डॉ पंजाबराव देशमुख कृषी विद्यापीठ अकोला - ०७२४ २२५ ८३७२ 
+
+",2025-05-12T16:03:32.6,2025,5
+MAHARASHTRA,110,Doc,MAHARASHTRA,AKOLA,PATUR,,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),Market Information,Farmer Asked About Groundnut market price Nagpur Market Committee ?,"भुईमूग बाजार भाव नागपूर बाजार समिती -  कमीत कमी - 5000 रुपये ,
+जास्तीत जास्त -5700 रुपये ,
+सरासरी बाजारभाव - 5350 रुपये धन्यवाद !
+",2025-05-20T16:07:30.873,2025,5
+MAHARASHTRA,111,Doc,MAHARASHTRA,AKOLA,AKOLA,,AGRICULTURE,Others,Others,Government Schemes,ASKED ABOUT AGRISTACK CONTACT NUMBER ?,अ‍ॅग्रिस्टॅक संपर्क क्रमांक -   020 25 712 712 ,2025-05-22T14:01:33.143,2025,5
+MAHARASHTRA,112,Doc,MAHARASHTRA,WASHIM,MALEGAON,,AGRICULTURE,Others,Others,Government Schemes,asked about manrega contact info,"		MAHARASHTRA	S.R. Malpani	9604444777	022-22025349	
+26	MAHARASHTRA	S.B. Dandge	7875391838
+23	MAHARASHTRA	Abhay Tijare	9860252451		mahaefms2013[@]gmail[dot]com
+24	MAHARASHTRA	Sunil Surya Rao	9987017231	",2025-05-03T15:48:03.637,2025,5
+MAHARASHTRA,113,Doc,MAHARASHTRA,WASHIM,MALEGAON,,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),Crop Insurance,"Farmer asked not received PMFBY 2024, Tur crop insurance claim benefit  ?","प्रधानमंत्री फसल बीमा योजना 2024, तुर पिक विमा संदर्भात कृषी रक्षक पोर्टल 14 447 या नंबर वर संपर्क साधावा, धन्यवाद",2025-05-05T14:33:06.06,2025,5
+MAHARASHTRA,114,Doc,MAHARASHTRA,WASHIM,MALEGAON,,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),Market Information,Farmer asked query on Mandi details,तूर बाजारभाव  -  कमीत कमी -6300 जास्तीत जास्त -7570   सरासरी -7555   प्रति क्विंटल ,2025-05-11T06:47:27.367,2025,5
+MAHARASHTRA,115,Doc,MAHARASHTRA,WASHIM,MALEGAON,,AGRICULTURE,Pulses,Green Gram (Moong Bean/ Moong),Market Information,Farmer asked query on Mandi details,मूग  बाजारभाव   - कमीत कमी -१३०० जास्तीत जास्त -५५००    सरासरी -५४०१    प्रति क्विंटल ,2025-05-11T06:49:12.647,2025,5
+MAHARASHTRA,116,Doc,MAHARASHTRA,WASHIM,MALEGAON,,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),Market Information,"Farmer asked about Market rate of Tur in Washim Market  ? 
+","वाशिम तुर बाजार भाव- कमीत कमी - 6800 रु/क्विंटल, जास्तीत जास्त - 7400 रु/ क्विंटल, सरासरी - 7200 रु/ क्विंटल.धन्यवाद
+",2025-05-12T18:40:19.21,2025,5
+MAHARASHTRA,117,Doc,MAHARASHTRA,WASHIM,RISOD,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED KVK NUMBER OF AKOLA?,"RDRF's Agricultural Science Centre, Seesa (Udegaon), Post: Dongargaon, Distt. Akola
+RDRF चे कृषी विज्ञान केंद्र, सीसा (उदेगाव), पोस्ट: डोंगरगाव, ता.जि. अकोला-संपर्क माहिती फोन: 07038055655 ई-मेल: info@kvkakola.org 
+
+",2025-05-18T21:53:47.37,2025,5
+MAHARASHTRA,118,Doc,MAHARASHTRA,WASHIM,WASHIM,,HORTICULTURE,Condiments and Spices,Turmeric,Market Information,Farmer asked about Hingoli Turmeric Market rate ? ,"•	हिंगोली बाजारपेठेचे  शेतमाल : हळद/ हळकुंड बाजार भाव- कमीत कमी-  11100	रु/क्विंटल, जास्तीत जास्त-13300	   रु/ क्विंटल, सरासरी- 12200   रु/ क्विंटल.धन्यवाद",2025-05-22T19:22:19.56,2025,5
+MAHARASHTRA,119,Doc,MAHARASHTRA,NANDURBAR,SHAHADA,,HORTICULTURE,Fruits,Pomegranate,Seeds and Planting Material,Query about fruit quality ,किसान भाई अनार के फल की गुणवत्ता मुख्य रूप से प्रभेद पर निर्भर करती है | ,2025-05-21T07:43:14.513,2025,5
+MAHARASHTRA,120,Doc,MAHARASHTRA,NANDURBAR,SHAHADA,,AGRICULTURE,Others,Others,Government Schemes,Solution already proposed,Solution already proposed,2025-05-21T15:17:26.623,2025,5
+MAHARASHTRA,121,Doc,MAHARASHTRA,HINGOLI,HINGOLI,,HORTICULTURE,Vegetables,Bhindi(Okra/Ladysfinger),Seeds and Planting Material,FARMER ASKED ABOUT CULTIVATION OF OKRA AND ITS VARIETY,"भेंडी वाण -सरताज,शक्ती,राधिका, परभणी क्रांती आणि GVR २०९७",2025-05-11T12:32:48.033,2025,5
+MAHARASHTRA,122,Doc,MAHARASHTRA,LATUR,RENAPUR,,AGRICULTURE,Oilseeds,Soybean (bhat),Crop Insurance,"Farmer asked about not receiving PMFBY 2024, Soybean crop insurance claim benefit ?","प्रधानमंत्री फसल बीमा योजना 2024 सोयाबीन पिक विमा संदर्भात अधिक माहितीसाठी कृषी रक्षक पोर्टल 14 447 या नंबर वर संपर्क साधावा, धन्यवाद",2025-05-05T16:42:00.837,2025,5
+MAHARASHTRA,123,Doc,MAHARASHTRA,LATUR,AUSA,,HORTICULTURE,Condiments and Spices,Coriander,	Plant Protection	,Farmer asked about larval attack on coriander crop ?,कोथिंबीर पिकावर ती हिरवी आळी आली असेल तर इमामेक्टिन बेन्झोएट ७ ग्राम व बायोविटा एक्स ३० मीली १५ लिटर पाण्यामध्ये एकत्रित करून फवारणी करावी धन्यवाद,2025-05-22T12:55:54.987,2025,5
+MAHARASHTRA,124,Doc,MAHARASHTRA,NANDED,NAIGAON (KH),,AGRICULTURE,Others,Others,Fertilizer Use and Availability,Fertilizer spray for growth  for flower ?,ईसबियॉन ३० मिली /१५ लिटर पाण्यात घेवून फवारणी करावी  ,2025-05-02T07:04:45.857,2025,5
+MAHARASHTRA,125,Doc,MAHARASHTRA,NANDED,HIMAYATNAGAR,,HORTICULTURE,Condiments and Spices,Turmeric,Market Information,Nanded Market Committee Market Price of Turmeric,"हळदीचे नांदेड बाजार समिती बाजार भाव = कमीत कमी    12500 रुपये प्रति क्विंटल,
+जास्तीत जास्त -14295 रुपये प्रति क्विंटल, 
+सरासरी       - 13500 रुपये  प्रति क्विंटल,
+धन्यवाद.....
+",2025-05-04T17:51:25.43,2025,5
+MAHARASHTRA,126,Doc,MAHARASHTRA,NANDED,MAHUR,,AGRICULTURE,Others,Others,Government Schemes,Farmer know about his registration number ?,आपला प्रधानमंत्री किसान सन्मान निधीचा रजिस्ट्रेशन नंबर MH264861162 हा आहे धन्यवाद,2025-05-04T21:03:48.037,2025,5
+MAHARASHTRA,127,Doc,MAHARASHTRA,NANDED,KINWAT,,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),Varieties,FARMER ASKED ABOUT NEW VARIETY OF REDGRAM ?,"तुरीचे  नवीन वाण - 'गोदावरी' (BDN 2019-41) , 'बीडीएनपीएच १८-५' , 'BDN-716' आणि 'BDN-711' ",2025-05-10T21:11:07.767,2025,5
+MAHARASHTRA,128,Doc,MAHARASHTRA,NANDED,KINWAT,,AGRICULTURE,Oilseeds,Soybean (bhat),Varieties,FARMER ASKED ABOUT NEW SOYBEAN VARIETY ?,"सोयाबीन नवीन वाण -JS-2034 ,MACS 1407 ,DSb 21 ,MAUS 612 ,फुले किमया (KDS-753), फुले संगम (KDS-726)",2025-05-10T21:14:04.737,2025,5
+MAHARASHTRA,129,Doc,MAHARASHTRA,NANDED,ARDHAPUR,,HORTICULTURE,Fruits,Banana,Fertilizer Use and Availability,"Farmer asked about  contact number of  Vasantrao Naik Marathwada Agriculture University Parbhani ?
+","वसंतराव नाईक मराठवाडा कृषी विद्यापीठ -परभणी - ०२४५२ २२३ ००२ 
+",2025-05-11T18:15:33.687,2025,5
+MAHARASHTRA,130,Doc,MAHARASHTRA,NANDED,KINWAT,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Sowing Time and Weather,farmer asked sowing period of cotton ?,कापूस पिकाची लागवड आपण 15 मे नंतर करू शकतात धन्यवाद,2025-05-14T15:49:28.53,2025,5
+MAHARASHTRA,131,Doc,MAHARASHTRA,NANDED,NAIGAON (KH),,AGRICULTURE,Oilseeds,Soybean (bhat),Varieties,farmer asked about soybean varieties?,"सुधारित जाती : लवकर येणारा वाण : परभणी सोना (MAUS-47), ग्रीन गोल्ड ३३४४, विक्रांत, जे एस ९५-६०                                                                               ",2025-05-20T15:53:23.867,2025,5
+MAHARASHTRA,132,Doc,MAHARASHTRA,NANDED,NAIGAON (KH),,AGRICULTURE,Oilseeds,Soybean (bhat),Market Information,Farmer asked query on Mandi details,गंगाखेड सोयाबीन बाजारभाव - कमीत कमी -४३००   जास्तीत जास्त -४४००   सरासरी -४३०० प्रति क्विंटल ,2025-05-21T10:23:24.233,2025,5
+MAHARASHTRA,133,Doc,MAHARASHTRA,NANDED,HADGAON,,HORTICULTURE,Condiments and Spices,Turmeric,	Plant Protection	,farmer Asked about weed management of turmeric ?,पिकाच्या या अवस्थेमध्ये रासायनिक तणनाशकाची शिफारस केलेली नाही म्हणून सध्या खुरपणी करावी .,2025-05-21T15:12:21.433,2025,5
+MAHARASHTRA,134,Doc,MAHARASHTRA,WARDHA,DEOLI,,AGRICULTURE,Pulses,Bengal Gram (Gram/Chick Pea/Kabuli/Chana),Market Information,Farmer asked about market rate of Gram  in Hinganghat Market ?,"हिंगणघाट हरभरा बाजार भाव- कमीत कमी- 5000 रु/क्विंटल, जास्तीत जास्त- 5750 रु/ क्विंटल, सरासरी- 5750 रु/ क्विंटल.धन्यवाद",2025-05-08T21:30:23.15,2025,5
+MAHARASHTRA,135,Doc,MAHARASHTRA,WARDHA,HINGANGHAT,,AGRICULTURE,Others,Others,Government Schemes,asked about crop loan  waiver information ?,पिककर्ज माफी विषयी कोणतेही अपडेट आलेली नाही धन्यवाद   ,2025-05-22T15:22:09.657,2025,5
+MAHARASHTRA,136,Doc,MAHARASHTRA,YEVATMAL,DARWHA,,HORTICULTURE,Vegetables,Ridge Gourd,	Plant Protection	,Farmer asked about control of flower dropping on Ridge Gaurd crop ?,दोडका पिकामध्ये फुलगळ नियंत्रणासाठी अल्फा नॅपॅथलिक ऍसिटिक  ऍसिड -३ मिली/ १५ लिटर पाण्यामध्ये घेऊन फवारणी करावी. (प्लानोफिक्स ),2025-05-09T18:26:54.413,2025,5
+MAHARASHTRA,137,Doc,MAHARASHTRA,YEVATMAL,MAHAGAON,,HORTICULTURE,Fruits,Banana,Fertilizer Use and Availability,ASKED ABOUT FERTILISER FOR BANANA CROP ?,"केळी पिकाला 10 26 26 , 80 ग्रॅम +सिंगल सुपर फॉस्फेट 50 ग्रॅम / झाड खात द्या ",2025-05-11T08:34:36.43,2025,5
+MAHARASHTRA,138,Doc,MAHARASHTRA,NAGPUR,UMRED,,AGRICULTURE,Others,Others,Government Schemes,"FARMER ASKED QUERY ABOUT CONTACT DETAILS OF AGRICULTURE COMMIOSIONAIRATE PUNE ?
+",कृषी संचालनालय संपर्क क्रमांक  020 2612 3648 धन्यवाद,2025-05-03T11:37:41.653,2025,5
+MAHARASHTRA,139,Doc,MAHARASHTRA,NAGPUR,UMRED,,AGRICULTURE,Pulses,Faba Bean (Horse Bean/windsor Bean),Fertilizer Use and Availability,Farmer asked Fertilizer spray for growth ?,00.52.34 -६० ग्रॅम +सुक्ष्म अन्नद्रव्ये 30 मिली /१५ लिटर पाण्यामध्ये घेऊन फवारणी करावी,2025-05-11T10:53:46.023,2025,5
+MAHARASHTRA,140,Doc,MAHARASHTRA,NAGPUR,BHIVAPUR,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Market Information,Farmer asked about the rate of cotton?,"कापूस बाजारभाव वरोरा  बाजार समिती :
+: कमीत कमी ७२०० रु/क्विटल, जास्तीत जास्त ७५५० रु/क्विटल, 
+सरासरी ७३०० रु/क्विटल आहेत. धन्यवाद..!",2025-05-11T20:39:53.783,2025,5
+MAHARASHTRA,141,Doc,MAHARASHTRA,BULDANA,MALKAPUR,,HORTICULTURE,Fruits,Melon,"Post Harvest Management (Cleaning, Grading, Packaging, Food Processing, Cool Chain etc.)",FARMER ASKED ABOUT HARVESTING TIME ? ,खरबूज पिकाची काढणे  १००  दिवसांमध्ये केली जाते.,2025-05-01T12:22:16.75,2025,5
+MAHARASHTRA,142,Doc,MAHARASHTRA,BULDANA,JALGAONJAMOD,,HORTICULTURE,Fruits,Orange,	Plant Protection	,Farmers asked when to orange blossoms ?,संत्रा मृग बहार घेण्यासाठी तुम्हाला १५ जून पर्यन्त घ्यावे धन्यवाद..!,2025-05-04T20:47:27.787,2025,5
+MAHARASHTRA,143,Doc,MAHARASHTRA,BULDANA,LONAR,,HORTICULTURE,Condiments and Spices,Turmeric,Market Information,asked about Agricultural Produce Market Committee Lonar Turmeric Market Price,03/05/2025 कृषी उत्पन्न बाजार समिती लोणार हळद बाजार भाव 11500 - 12725 रुपये प्रति क्विंटल,2025-05-06T15:12:37.083,2025,5
+MAHARASHTRA,144,Doc,MAHARASHTRA,BULDANA,MALKAPUR,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Cultural Practices,farmer asked cotton plantation time?,नमस्कार कापूस पिकाची लागवड ही पंधरा मे पासून करावी व पाण्याचे नियोजन करावे धन्यवाद!,2025-05-06T16:27:54.973,2025,5
+MAHARASHTRA,145,Doc,MAHARASHTRA,BULDANA,BULDANA,,AGRICULTURE,Others,Others,Bio-Pesticides and Bio-Fertilizers,Asking about PUSA DCOMPOSER availabilty ?,"--पुसाडी कंपोजर मिळवण्यासाठी खालील क्रमांकावर ती संपर्क करावा
+ +91 9995826799
++91 9995140497",2025-05-13T15:45:02.197,2025,5
+MAHARASHTRA,146,Doc,MAHARASHTRA,BULDANA,MALKAPUR,,HORTICULTURE,Fruits,Papaya,Seeds and Planting Material,ASKED ABOUT VARIETY OF PAPAYA ?,पपई वान-  तैवान 786.,2025-05-15T08:12:31.523,2025,5
+MAHARASHTRA,147,Doc,MAHARASHTRA,OSMANABAD,TULJAPUR,,AGRICULTURE,Others,Others,Government Schemes,"Famer asked about Crop loss and crop insurance information?
+","पीक नुकसानीबाबत आणि पिक विमा संबंधित माहितीसाठी आपल्या तालुका कृषी अधिकारी कार्यालयात संपर्क साधा,धन्यवाद.
+",2025-05-02T08:29:16.15,2025,5
+MAHARASHTRA,148,Doc,MAHARASHTRA,OSMANABAD,BHOOM,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT FARMER ID INFORMATION?,--आपण FARMER  ID लॉगिन करीता CSC सेन्टर शी संपर्क साधावा धन्यवाद,2025-05-03T10:03:23.85,2025,5
+MAHARASHTRA,149,Doc,MAHARASHTRA,OSMANABAD,OSMANABAD,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked about When will the 20th installment of Pradhan Mantri Kisan Samman Yojana be deposited?,प्रधानमंत्री किसान सन्मान योजना चा विसावा हप्ता जून महिन्याच्या महिन्याच्या कोणत्याही आठवड्यात जमा होऊ शकतो धन्यवाद .,2025-05-10T15:30:09.6,2025,5
+MAHARASHTRA,150,Doc,MAHARASHTRA,OSMANABAD,PARANDA,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),	Plant Protection	,FARMER ASKED ABOUT ATTACK OF SUGARCANE WOOLY APHIDS OF SUGARCANE  ? ,ऊस लोकरी मावा डेनतासो 100 ग्रॉम / 200 लिटर पाण्यामध्ये घेऊन फवारणी करावी.,2025-05-13T09:51:22.11,2025,5
+MAHARASHTRA,151,Doc,MAHARASHTRA,OSMANABAD,OSMANABAD,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),	Plant Protection	,Farmer asked about organic pest management Information ?,"ऊस पिकामध्ये किड नियंत्रणासाठी आपण जैविक कीटकनाशक जसे की निंबोळी अर्क याचा वापर करू शकता ,धन्यवाद",2025-05-20T16:02:21.99,2025,5
+MAHARASHTRA,152,Doc,MAHARASHTRA,OSMANABAD,OSMANABAD,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED INFORMATION ABOUT AGRISTACK REGISTRATION?,"ॲग्री स्टॅक  रजिस्ट्रेशन साठी पुढील वेबसाईटला भेट द्यावी.
+
+mhfr.agristack.gov.in
+
+धन्यवाद..",2025-05-21T08:40:08.61,2025,5
+MAHARASHTRA,153,Doc,MAHARASHTRA,KOLHAPUR,KAGAL,,HORTICULTURE,Fruits,Mango,Fertilizer Use and Availability,asked about fert. dose for mango tree,आंब्याला एम ओ पी खत द्यावे किंवा ०  ०  ५०  द्यावे ,2025-05-02T17:07:24.6,2025,5
+MAHARASHTRA,154,Doc,MAHARASHTRA,KOLHAPUR,SHAHUWADI,,AGRICULTURE,Green Manure,Dhaincha,Sowing Time and Weather,farmer asked about dhaincha green manure sowing period?,"--शेतकरी साहेब,धैंचा पिकाचा कालावधी हा जानेवारी ते फेब्रुवारी पर्यंत असतो धन्यवाद",2025-05-07T16:55:41.57,2025,5
+MAHARASHTRA,155,Doc,MAHARASHTRA,KOLHAPUR,SHIROL,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Fertilizer Use and Availability,FARMER ASKED ABOUT FERTILIZER DOSE FOR SUGARCANE RATOON SUGARCANE ?,"खोडवा ऊस -खते युरिया 50 किलो +14:35:14 50 किलो  + म्युरेट ऑफ पोटॅश 50 किलो + सूक्ष्म अन्नद्रव्ये 20 किलो ,  /एकर द्यावे  
+
+",2025-05-13T15:52:36.847,2025,5
+MAHARASHTRA,156,Doc,MAHARASHTRA,BEED,MAJALGAON,,AGRICULTURE,Others,Others,Government Schemes,PM Kisan Cell Pune contact Number?,PM Kisan Cell Pune contact Number  - 02025538755,2025-05-02T20:21:22.887,2025,5
+MAHARASHTRA,157,Doc,MAHARASHTRA,BEED,GEORAI,,AGRICULTURE,Others,Others,Government Schemes,"FARMER ASKED QUERY ABOUT HELPLINE NUMBER OF MAHADBT PORTAL ?
+",महाडीबीटी पोर्टल संपर्क क्रमांक 02249150800 धन्यवाद शुभ दिवस  ,2025-05-15T12:15:02.007,2025,5
+MAHARASHTRA,158,Doc,MAHARASHTRA,BEED,DHARUR,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked for information about cotton and soybean subsidies?," कापूस आणि सोयाबीन अनुदान बाबत अधिक माहितीसाठी पुढील क्रमांकावर संपर्क साधावा  .
+
+०२२- ६१३१ ६४०१      
+
+ धन्यवाद..",2025-05-16T13:42:51.62,2025,5
+MAHARASHTRA,159,Doc,MAHARASHTRA,BEED,KAIJ,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Fertilizer Use and Availability,FARMER ASKED ABOUT FERTILIZER DOSE OF SUGARCANE CROP ? ,ऊस पिकासाठी खाते - युरिया १ बॅग + १०:२६:२६ २ बॅग + पोटॅश दीड बॅग + सूक्ष्म अन्नद्रव्ये १ बॅग / एकर हे खत टाकावे . ,2025-05-22T10:02:17.98,2025,5
+MAHARASHTRA,160,Doc,MAHARASHTRA,AURANGABAD,KHULTABAD,,HORTICULTURE,Vegetables,Tomato,	Plant Protection	,farmer asked about preventive measures for floer fruit dropping problem in tomato?,एम ४५  हे बुरशीनाशक ३० ग्रॅम प्रति १५  लिटर पंप घेऊन फवारणी करावी त्यासोबत फुलगळ  होऊ नये म्हणून कॅल्सीबोर  ३० ग्रॅम प्रति १५  लिटर पंप घेऊन फवारणी करावी .,2025-05-07T12:21:23,2025,5
+MAHARASHTRA,161,Doc,MAHARASHTRA,AURANGABAD,PAITHAN,,AGRICULTURE,Others,Others,Government Schemes,"Farmer asked about  contact number of  Vasantrao Naik Marathwada Agriculture University Parbhani ?
+","वसंतराव नाईक मराठवाडा कृषी विद्यापीठ -परभणी - ०२४५२ २२३ ००२ 
+",2025-05-08T12:11:00.993,2025,5
+MAHARASHTRA,162,Doc,MAHARASHTRA,AURANGABAD,VAIJAPUR,,AGRICULTURE,Others,Others,Government Schemes,"Farmer asked about Contact Number of Prdhanmantri crop insurance Scheme ? 
+",प्रधानमंत्री पीक विमा योजना -टोल फ्री नंबर -१८००२६६०७०० या नंबर वर 48 तासाच्या आत संपर्क साधावा,2025-05-08T12:17:45.33,2025,5
+MAHARASHTRA,163,Doc,MAHARASHTRA,AURANGABAD,KANAND,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about approval of farmer ID card yes or no,"महोदय आपले फार्मर आयडी कार्ड auto approval दाखवत असून आपला सेंट्रल आयडी पुढील प्रमाणे आहे धन्यवाद. 
+40244355110",2025-05-10T13:15:19.16,2025,5
+MAHARASHTRA,164,Doc,MAHARASHTRA,AURANGABAD,GANGAPUR,,AGRICULTURE,Others,Others,Training and Exposure Visits,farmer asked about kvk contact number in aurangabad ?,कृषी विज्ञान केंद्र औरंगाबाद संपर्क क्रमांक - ८२९८६४१२८५  आणि  ७९७९७८९६८७  या नंबर वर संपर्क करा धन्यवाद,2025-05-11T12:49:43.657,2025,5
+MAHARASHTRA,165,Doc,MAHARASHTRA,AURANGABAD,GANGAPUR,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Varieties,FARMER ASKED ABOUT VARIETIES OF SUGARCANE ?,"ऊस सुधारित जाती : आडसाली हंगाम : फुले-२६५, को-८६०३२ आणि कोव्हीएसआय-९८०५.
+",2025-05-13T09:30:00.793,2025,5
+MAHARASHTRA,166,Doc,MAHARASHTRA,AURANGABAD,SILLOD,,HORTICULTURE,Vegetables,Chillies,Nutrient Management,asked about nutrient management in chili,19 19 19  3 किलो + मायक्रोला 200 मिली प्रति एकर प्रति 200 लिटर पाण्यामधून ड्रीपद्वारे द्यावे  ,2025-05-14T15:26:18.62,2025,5
+MAHARASHTRA,167,Doc,MAHARASHTRA,AURANGABAD,SILLOD,,HORTICULTURE,Vegetables,Chillies,Fertilizer Use and Availability,ASKED ABOUT  DRENCHING  FOR CHILLI GROWTH ?,19:19:19 3 किलो + मिक्रोला ३०० मिलि ठिबक द्वारे प्रति एकर द्या ,2025-05-14T16:53:32.403,2025,5
+MAHARASHTRA,168,Doc,MAHARASHTRA,AURANGABAD,PAITHAN,,AGRICULTURE,Others,Others,Government Schemes,The farmer asked Did not receive money under crop insurance?,"पिक विमा बाबत अधिक माहितीसाठी  -१४४४७ या टोल फ्री नंबर ला संपर्क साधावा.
+
+ धन्यवाद......",2025-05-17T10:41:00.823,2025,5
+MAHARASHTRA,169,Doc,MAHARASHTRA,AURANGABAD,VAIJAPUR,,AGRICULTURE,Others,Others,Crop Insurance,farmer ask about information of Crop Insurance Scheme ?,प्रधानमंत्री पिक विमा योजनेअंतर्गत अधिक माहितीसाठी आपण 14 447 या क्रमांकावर ती संपर्क करावा ,2025-05-20T11:25:21.357,2025,5
+MAHARASHTRA,170,Doc,MAHARASHTRA,AURANGABAD,AURANGABAD,,AGRICULTURE,Others,Others,Government Schemes,"The farmer asked ,Check if the Farmer ID is registered or not?","फार्मर आयडी  एनरोलमेंट स्टेटस चेक करण्यासाठी आधार नंबर सांगणे आवश्यक आहे.
+
+ धन्यवाद...",2025-05-21T09:04:24.467,2025,5
+MAHARASHTRA,171,Doc,MAHARASHTRA,JALNA,AMBAD,,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),Market Information,asked about Agricultural Produce Market Committee Tur market price Jalna,कृषी उत्पन्न बाजार समिती जालना  तूर बाजार भाव  5600 - 7111 रुपये प्रति क्विंटल,2025-05-05T17:51:53.19,2025,5
+MAHARASHTRA,172,Doc,MAHARASHTRA,JALNA,JALNA,,AGRICULTURE,Others,Others,Crop Insurance,"Crop loss  and crop insurance information ?
+","पीक नुकसानीबाबत आणि पिक विमा संबंधित माहितीसाठी आपल्या
+14447 संपर्क साधा
+",2025-05-06T12:34:14.49,2025,5
+MAHARASHTRA,173,Doc,MAHARASHTRA,JALNA,GHANSAWANGI,,AGRICULTURE,Others,Others,Crop Insurance,The Farmer asked about not getting the benefit of crop insurance under PMFBY 2024 ?TR,"प्रधानमंत्री फसल बीमा योजना 2024 संदर्भात अधिक माहितीसाठी कृषिरक्षक पोर्टल 14 447 या नंबर वर संपर्क साधावा, धन्यवाद",2025-05-15T16:10:28.377,2025,5
+MAHARASHTRA,174,Doc,MAHARASHTRA,JALNA,JAFRABAD,,AGRICULTURE,Others,Others,Government Schemes,"ASKED ABOUT PM KISAN
+","पी एम किसान - सी एस सी सेंटरला  ला भेट द्या 
+",2025-05-17T15:04:20.31,2025,5
+MAHARASHTRA,175,Doc,MAHARASHTRA,RATNAGIRI,LANJA,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked about toll free number for Agristack ? ,ॲग्रीस्टाक   टोल फ्री नंबर 02025712712,2025-05-02T12:10:50.917,2025,5
+MAHARASHTRA,176,Doc,MAHARASHTRA,RATNAGIRI,RAJAPUR,,AGRICULTURE,Others,Others,Government Schemes,"Farmer asked about Beneficiary Status of Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) ?
+","साहेब आपल्या प्रधानमंत्री किसान सन्मान निधी योजनेचे पैसे आपल्या बँक खात्यामध्ये जमा झाले आहेत
+",2025-05-12T10:27:57.96,2025,5
+MAHARASHTRA,177,Doc,MAHARASHTRA,SANGLI,MIRAJ,,AGRICULTURE,Others,Others,Government Schemes,Farmer Asked About Pradhan Mantri Kisan Samman Nidhi Yojna ?,प्रधानमंत्री किसान सन्मान निधी योजना अधिक माहिती साठी टोल फ्री क्रमांक- १५५२६१/ 155261 / 1800115526 / 011-24300606 संपर्क करा.,2025-05-07T18:42:58.91,2025,5
+MAHARASHTRA,178,Doc,MAHARASHTRA,SANGLI,ATPADI,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Fertilizer Use and Availability,asked about sugarcane crop growth,s.cane - urea 50 kg + 10  26  26  - 100 kg + ferrous salfate 8 kg + zinc salfate 8 kg / acre,2025-05-13T14:58:18.593,2025,5
+MAHARASHTRA,179,Doc,MAHARASHTRA,SANGLI,MIRAJ,,AGRICULTURE,Others,Others,Government Schemes,Asking about not getting installment of PM Kisan Samman Nidhi Yojana ?,प्रधानमंत्री  किसान  सन्मान  निधी  अधिक माहितीसाठी नजीकच्या कृषी अधिकारी  / तहसील कार्यालयाशी संपर्क साधावा किंवा पी एम किसान हेल्पलाइन नंबर 155261 / 011-24300606 Email : aead[at]nic[dot]in,2025-05-14T17:58:23.83,2025,5
+MAHARASHTRA,180,Doc,MAHARASHTRA,SANGLI,TASGAON,,AGRICULTURE,Millets,Sorghum (Jowar/Great Millet),Weed Management,Farmer Asked About Weed management in Sorghum  ?,"ज्वारी  तण नाशक - २,४ -डी 80 %WP- पीक पेरणीनंतर ३-४ आठवडयांनी ४० ग्रॅम /१५ लिटर पाण्यामध्ये घेऊन फवारणी करावी  .",2025-05-15T16:21:41.483,2025,5
+MAHARASHTRA,181,Doc,MAHARASHTRA,SANGLI,VALVA-ISLAMPUR,,AGRICULTURE,Others,Others,Training and Exposure Visits,FARMER ASKED ABOUT CONTACT NUMBER OF KVK SANGLI ? ,"कृषी विगीयन केंद्र, ए/पी. कांचनपूर,
+तालुका- मिराज, dist.- संगली- 416 306
+
+फोन: 0233 - 2256925",2025-05-16T11:31:43.977,2025,5
+MAHARASHTRA,182,Doc,MAHARASHTRA,SANGLI,TASGAON,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Fertilizer Use and Availability,asked about fertilizer for sugarcane crop ?,"ऊस पिक बांधणी करण्या अगोदर 10 26 26 , दोन बॅग + सिंगल सुपर फॉस्फेट चार बॅग 
+ + युरिया एक बॅग + सूक्ष्म अन्नद्रव्य पाच किलो प्रति एकर खत देऊन बांधणी करावी",2025-05-18T16:02:16.82,2025,5
+MAHARASHTRA,183,Doc,MAHARASHTRA,PARBHANI,PARBHANI,,HORTICULTURE,Fruits,Mango,Training and Exposure Visits,FARMER ASKED ABOUT MANGO FESTIVAL IN LUCKNOW UTTARPRADESH?,https://www.lucknowfarmersmarket.com/event-details/lfm-mango-festival-2025,2025-05-03T11:30:38.143,2025,5
+MAHARASHTRA,184,Doc,MAHARASHTRA,PARBHANI,JINTUR,,HORTICULTURE,Condiments and Spices,Turmeric,Fertilizer Use and Availability,FARMER ASKED QUERY ABOUT FERTILIZER DOSE FOR TURMERIC ?,हळद  खते - 10 26 26 100 किलो  + युरिया  40 किलो / एकर द्यावे  ,2025-05-08T13:58:58.107,2025,5
+MAHARASHTRA,185,Doc,MAHARASHTRA,BEED,KAIJ,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked installment under Pradhan Mantri Kisan Samman Nidhi Yojana has not arrived?,"प्रधानमंत्री किसान सन्मान निधी योजना स्टेटस चेक करण्यासाठी  रजिस्टर मोबाईल नंबर वरती सेंड झालेला ओटीपी सांगणे आवश्यक आहे.
+
+ धन्यवाद...",2025-05-12T08:46:42.097,2025,5
+MAHARASHTRA,186,Doc,MAHARASHTRA,BEED,DHARUR,,AGRICULTURE,Others,Others,Government Schemes, Farmer Asked for information about the Prime Minister Kisan Samman Nidhi Yojana?,"प्रधानमंत्री किसान सन्मान निधी योजना पोर्टल तांत्रिक अडचण असल्यामुळे आपले स्टेटस  
+चेक होऊ शकत नाही .
+
+धन्यवाद..",2025-05-16T13:48:21.823,2025,5
+MAHARASHTRA,187,Doc,MAHARASHTRA,PARBHANI,GANGAKHED,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Fertilizer Use and Availability,Asked for fertilizer dose for Cotton?,कापूस पिकाला लागवड करते वेळी प्रति एकर 50 किलो 10 26 26 या खताचा डोस द्यावा,2025-05-22T14:52:13.303,2025,5
+MAHARASHTRA,188,Doc,MAHARASHTRA,PUNE,PURANDAR,,AGRICULTURE,Others,Others,Weed Management,Farmers asked about globed name weedicide acts on which crop?,"globe नावाचं तणनाशक हे बटाटे, कांदे, भात, भुईमूग या पिकावर चालतो..",2025-05-19T21:42:52.023,2025,5
+MAHARASHTRA,189,Doc,MAHARASHTRA,PUNE,BARAMATI,,HORTICULTURE,Condiments and Spices,Saffron,Training and Exposure Visits,FARMER ASKED ABOUT CONTACT DETAILS FOR SAFFRON FARMING?,"नमस्कार सर आपल्याला केसर शेती विषयी अधिक माहिती हवी असल्यास पुढील क्रमांकावर संपर्क करून अधिक माहिती घेऊ शकता Krishi Vigyan Kendra Baramati Tal. Baramati, Dist. Pune-413115 Maharashtra, India. Tel. Off: +91 2112 255227. ",2025-05-20T18:02:57.33,2025,5
+MAHARASHTRA,190,Doc,MAHARASHTRA,JALGAON,DHARANGAON,,AGRICULTURE,Millets,Sorghum (Jowar/Great Millet),Government Schemes,Farmer asked about Complaint about the E Pik pahani scheme?,"नमस्कार, शेतकरी साहेब ई  पीक पाहणीच्या संदर्भात अधिक माहितीसाठी जवळच्या तलाठी कार्यालयात संपर्क साधावा धन्यवाद....!",2025-05-04T14:52:22.263,2025,5
+MAHARASHTRA,191,Doc,MAHARASHTRA,JALGAON,YAWAL,,HORTICULTURE,Fruits,Banana,Agriculture Mechanization,farmer asked about banana research station contact number ?,केळी पिक लागवड तज्ञ : वसंतराव महाजन 9422976327 /प्रा. आर. व्ही. देशमुख - 9421568674 / डॉ. एस. व्ही. धुतराज - 7588612632,2025-05-05T18:52:33.177,2025,5
+MAHARASHTRA,192,Doc,MAHARASHTRA,JALGAON,CHALISGAON,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Nutrient Management,"The farmer asked about the sugarcane crop, which spray should be used for good growth?",ऊस पीक वाढीसाठी हिरवेगारपणा राहण्यासाठी १२:६१:००  ७० ग्रॅम व जिब्रेलिक ऍसिड ३०  मिली १५ लिटर पाण्यामध्ये एकत्रित करून फवारणी करावी धन्यवाद,2025-05-07T19:23:10.217,2025,5
+MAHARASHTRA,193,Doc,MAHARASHTRA,JALGAON,AMALNER,,HORTICULTURE,Vegetables,Onion,Seeds and Planting Material,FARMER ASKED ABOUT SOWING TIME ONION?,कांदा बियाणे 15 जून नंतर आपण टाकू शकतात धन्यवाद!,2025-05-08T09:40:08.61,2025,5
+MAHARASHTRA,194,Doc,MAHARASHTRA,JALGAON,AMALNER,,AGRICULTURE,Others,Others,Government Schemes,Abandoned Call 	,ખેતી લક્ષી વધુ માહીતી માટે કિસાન કોલ સેન્ટર 1800-180-1551 નંબર પર સંપર્ક કરવો ,2025-05-14T12:44:22.72,2025,5
+MAHARASHTRA,195,Doc,MAHARASHTRA,JALGAON,JALGAON,,AGRICULTURE,Others,Others,Government Schemes,asked about pradhanmantri kisan sanman nidhi yojana details / Installment ,प्रधानमंत्री  किसान  सन्मान  निधी स्थिती पाहण्यासाठी आपला पीएम किसान रजिस्ट्रेशन नंबर आवश्यक आहे. ,2025-05-18T14:42:27.793,2025,5
+MAHARASHTRA,196,Doc,MAHARASHTRA,JALGAON,CHALISGAON,,HORTICULTURE,Flowers,Lilliums,Seeds and Planting Material,FARMER ASKED ABOUT SOWING TIME MARIGOLD ? ,झेंडूची फुलं जून जुलै मध्ये लागले जातात,2025-05-22T10:53:31.863,2025,5
+MAHARASHTRA,197,Doc,MAHARASHTRA,SINDHUDURG,VAIBHAVAWADI,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT FARMER ID REGISTRATION HELPLINE NUMBER ?,शेतकरी ओळखपत्र नोंदणी हेल्पलाइन क्रमांक -02025712712,2025-05-08T18:05:51.807,2025,5
+MAHARASHTRA,198,Doc,MAHARASHTRA,SATARA,PHALTAN,,AGRICULTURE,Millets,Sorghum (Jowar/Great Millet),Weed Management,Farmer asked about weed management in jawar crop ?,आपण बाजारातून आणलेले टू फोर डी हे व्यवस्थित प्रमाण घेऊन वापरावे काळजीपूर्वक फवारणी करावी धन्यवाद,2025-05-18T15:33:49.337,2025,5
+MAHARASHTRA,199,Doc,MAHARASHTRA,SATARA,PHALTAN,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Weed Management,FARMER ASKED ATRATAF HERBICIDE IS PRE-EMERGENCE OR POST-EMERGENCE?,"नमस्कार. अट्रॅटाफ हे तननाशक ऊस, मका पिकामध्ये पीक उगवणीपूर्वीच वापरावे. धन्यवाद..",2025-05-19T09:49:29.863,2025,5
+MAHARASHTRA,200,Doc,MAHARASHTRA,SATARA,WAI,,HORTICULTURE,Vegetables,Tomato,Agriculture Mechanization,Farmer Asked About To increase the number of flowers and shoots in tomato crop ?,टोमॅटो पिकात फुलांचे प्रमाण आणि फुटव्यांची संख्या वाढविण्यासाठी - टाटा बहार 30 मिली अधिक 12 61 00  60 ग्रॅम प्रति 15 लिटर पाण्यात घेऊन फवारणी करावी .,2025-05-19T16:31:56.123,2025,5
+MAHARASHTRA,201,Doc,MAHARASHTRA,SOLAPUR,MADHA,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about pm kisan fasal bima yojna status?,--पिक विमा बद्दल अधिक माहितीसाठी आपल्या पिक विमा कंपनीशी संपर्क करावा,2025-05-12T12:33:51.183,2025,5
+MAHARASHTRA,202,Doc,MAHARASHTRA,SOLAPUR,BARSHI,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked about Government Scheme ?,शेती विषयी आणि सरकारी कृषी योजना संबधी अधिक माहिती साठी संपर्क साधा.,2025-05-12T16:00:23.58,2025,5
+MAHARASHTRA,203,Doc,MAHARASHTRA,SOLAPUR,SANGOLA,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Weed Management,"Farmer asked about  contact number of  Central Sugarcane Research Station, Padegaon , Stara ?
+","मध्यवर्ती ऊस संशोधन केंद्र, पाडेगाव, सातारा यांचा संपर्क क्रमांक फोन : ९१-५२२-२९६१३१८; २४८०७३५/३६....
+",2025-05-15T10:50:41.857,2025,5
+MAHARASHTRA,204,Doc,MAHARASHTRA,SOLAPUR,AKKALKOT,,HORTICULTURE,Fruits,Grape,	Plant Protection	,Farmer asked about Toll free number of Grape Research Center,द्राक्ष पिकाबद्दल अधिक माहितीसाठी आपण पुढील टोल फ्री नंबर वर संपर्क साधावा .020-26956000 धन्यवाद.,2025-05-18T19:05:47.37,2025,5
+MAHARASHTRA,205,Doc,MAHARASHTRA,SOLAPUR,KARMALA,,HORTICULTURE,Medicinal and Aromatic Plants,Betel Vine,Seeds and Planting Material,farmer asked about VARIETIES OF BITTER  leaf ?,"पानवेल जाती - गंगेरी, कुऱ्हे, नाबकर, पांढरी, काळी, बांगला आणि कपुरी या प्रकारांची लागवड होते. ",2025-05-19T13:39:17.89,2025,5
+MAHARASHTRA,206,Doc,MAHARASHTRA,DHULE,SAKRI,,HORTICULTURE,Vegetables,Indian Bean (Vegetable),	Plant Protection	,asked about flower drop in bean,वाल -  फुलगळ -  प्लॅनो फिक्स  ४ ते ५ मिली / १५ लिटर पाणी फवारावे ,2025-05-15T16:04:50.497,2025,5
+MAHARASHTRA,207,Doc,MAHARASHTRA,DHULE,SHIRPUR,,HORTICULTURE,Vegetables,Pumpkin,	Plant Protection	,asked about flower drop in pumpkin,"काशी भोपळा  - १२  ६१  ०  - ८० ग्राम + टाटा बहार २० मिली / १५ लिटर पाणी फवारावे 
+",2025-05-15T20:57:26.94,2025,5
+MAHARASHTRA,208,Doc,MAHARASHTRA,DHULE,SHINDKHEDE,,AGRICULTURE,Others,Others,Government Schemes,Transfer to MH,Transfer to MH,2025-05-20T11:35:38.273,2025,5
+MAHARASHTRA,209,Doc,MAHARASHTRA,DHULE,SAKRI,,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),Fertilizer Use and Availability,FARMER ASKED ABOUT FERTILIZER DOSE OF PIGEON PEA CROP ? ,तूर पिकासाठी खते -  सिंगल सुपर फॉस्पेट २ बॅग + पोटॅश २ बॅग + सूक्ष्म अन्नद्रव्ये  / एकर हे खत टाकावे . ,2025-05-21T17:10:45.113,2025,5
+MAHARASHTRA,210,Doc,MAHARASHTRA,NASIK,NANDGAON,,AGRICULTURE,Others,Others,Weather,Farmer asked about the date of monsoon  in Maharashtra?,महाराष्ट्र मध्ये साधारणपणे  जून महिन्याच्या पहिल्या आठवड्यामध्ये मान्सून  येतो. ,2025-05-02T16:04:32.09,2025,5
+MAHARASHTRA,211,Doc,MAHARASHTRA,NASIK,YEOLA,,HORTICULTURE,Vegetables,Chillies,Nutrient Management,Farmer asked about Spraying for flower dropping in chillies crop ?,मिरची पिकामधील फुलगळ नियंत्रणासाठी अल्फा नॅपॅथलिक ऍसिटिक  ऍसिड -३ मिली/ १५ लिटर पाण्यामध्ये घेऊन फवारणी करावी. (प्लानोफिक्स ) ,2025-05-04T10:40:12.01,2025,5
+MAHARASHTRA,212,Doc,MAHARASHTRA,NASIK,SINNAR,,HORTICULTURE,Vegetables,Onion,Fertilizer Use and Availability,FARMER ASKED ABOUT USE OF NUTRIENT APPLICATION THROUGH DRIP FOR DEVELOPING ONION ?,- १३ ०० ४५ हे ३ किलोप्रति एकरासाठी २०० लिटर पाण्यामधून द्यावे,2025-05-05T08:08:14.077,2025,5
+MAHARASHTRA,213,Doc,MAHARASHTRA,NASIK,YEOLA,,HORTICULTURE,Vegetables,Onion,"Post Harvest Management (Cleaning, Grading, Packaging, Food Processing, Cool Chain etc.)",Farmer asked query on Weather,"सर/मॅडम, येवला, नाशिक, महाराष्ट्रासाठी हवामानाचा सरासरी अंदाज 2.4 मिमी पाऊस, कमाल तापमान 33.2° से., किमान तापमान 22° से., वाऱ्याचा वेग ताशी 18 कि. मी. आणि अंशतः ढगाळ आकाश दर्शवितो.",2025-05-10T11:40:42.4,2025,5
+MAHARASHTRA,214,Doc,MAHARASHTRA,NASIK,MALEGAON,,HORTICULTURE,Vegetables,Tomato,Market Information,farmer asked about market information of Tomato crop from ghoti market ?,"टोमॅटो पिकाचे बाजार भाव घोटी बाजार समिती  
+कमीत कमी  १५०० रुपये प्रति क्विंटल,
+जास्तीत जास्त  १८०० रुपये प्रति क्विंटल,
+सरासरी   १६५० रुपये  प्रति क्विंटल, 
+धन्यवाद..!",2025-05-15T10:35:00.03,2025,5
+MAHARASHTRA,215,Doc,MAHARASHTRA,NASIK,BAGLAN,,AGRICULTURE,Others,Others,Government Schemes,Farmer Asked About Department of Agriculture Government of Maharashtra Toll Free No ?,--कृषी विभाग महाराष्ट्र शासन टोल फ्री क्रमांक - १८००-२३३४०००,2025-05-17T07:57:53.96,2025,5
+MAHARASHTRA,216,Doc,MAHARASHTRA,NASIK,BAGLAN,,AGRICULTURE,Others,Others,Government Schemes,asked about crop insurance contact number ?,कृषिरक्षक पोर्टल 14447,2025-05-22T16:08:32.06,2025,5
+MAHARASHTRA,217,Doc,MAHARASHTRA,AHMADNAGAR,RAHATA,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked about PM Kisan Sanman Nidhi Yojana?,"•	प्रधानमंत्री किसान सन्मान निधी योजना संबंधी अधिक माहितीसाठी 011-24300606
+नंबर वर संपर्क साधावा.
+",2025-05-03T13:09:01.537,2025,5
+MAHARASHTRA,218,Doc,MAHARASHTRA,AHMADNAGAR,RAHATA,,AGRICULTURE,Others,Others,Seeds,farmer inquiry about  cotton seeds availability and toll free number of marketing company toll free number?,--ऍग्रो स्टार कंपनी संपर्क हेल्पलाइन नंबर=९५०३०९५०३०,2025-05-13T10:40:21.773,2025,5
+MAHARASHTRA,219,Doc,MAHARASHTRA,AKOLA,PATUR,,HORTICULTURE,Vegetables,Onion,Market Information,Farmer asked about market rate of Onion in Akola Market ?,"अकोला कांदा बाजार भाव- कमीत कमी- 500 रु/क्विंटल, जास्तीत जास्त- 1300रु/ क्विंटल, सरासरी- 1000 रु/ क्विंटल.धन्यवाद",2025-05-10T18:11:35.9,2025,5
+MAHARASHTRA,220,Doc,MAHARASHTRA,AKOLA,PATUR,,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),Market Information,Farmer asked about market rate of Groundnut in Pune Market ?,"भुईमूग पुणे बाजार भाव- कमीत कमी- 9600 रु/क्विंटल, जास्तीत जास्त- 10000रु/ क्विंटल, सरासरी- 9800 रु/ क्विंटल.धन्यवाद",2025-05-10T18:13:19.82,2025,5
+MAHARASHTRA,221,Doc,MAHARASHTRA,AKOLA,AKOLA,,AGRICULTURE,Others,Others,Government Schemes,farmer asked query about maharashtra agri department toll free number?,"महाराष्ट्र शासन कृषी विभाग १८०० २३३ ४०००
+MAHADBT 020 25511479 .धन्यवाद",2025-05-16T12:13:46.317,2025,5
+MAHARASHTRA,222,Doc,MAHARASHTRA,AKOLA,AKOT,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Fertilizer Use and Availability,ASKED ABOUT FERTILIZER FOR COTTON CROP ?,कापूस पीक पेरणी करताना 10 26 26 दोन बॅग आणि युरिया 30 किलो प्रति हेक्टर खत पेरणी करा,2025-05-16T21:34:19.627,2025,5
+MAHARASHTRA,223,Doc,MAHARASHTRA,AKOLA,AKOT,,HORTICULTURE,Fruits,Orange,	Plant Protection	,asked about Defoliation for better flowering and fruiting in orange,इथ्रेल फवारावे -  १ ते दीड मिली / लिटर ,2025-05-21T17:40:13.897,2025,5
+MAHARASHTRA,224,Doc,MAHARASHTRA,LATUR,AUSA,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked when the next installment of Pradhan Mantri Kisan Samman Nidhi Yojana will come?,"प्रधानमंत्री किसान सन्मान निधी योजना पुढील हप्ता केव्हा येणार यासाठी  अधिकृत तारीख अजून जाहीर नाही.
+
+ धन्यवाद..",2025-05-11T12:24:09.137,2025,5
+MAHARASHTRA,225,Doc,MAHARASHTRA,LATUR,AHEMADPUR,,AGRICULTURE,Others,Others,Government Schemes,Farmers asked about technical difficulties they are facing while registering for Farmer ID?,नमस्कार फार्मर आयडी कार्ड काढण्यासाठी काही अडचण येत असेल तर पुढील संपर्कवर : ०२०-२५७१२७१२ संपर्क साधावा. धन्यवाद.!,2025-05-21T11:18:55.68,2025,5
+MAHARASHTRA,226,Doc,MAHARASHTRA,NANDED,HADGAON,,AGRICULTURE,Others,Others,Government Schemes,asked about pmkisan ,"Reason of ineligiblity :
+Untraceable Beneficiary",2025-05-01T15:11:20.15,2025,5
+MAHARASHTRA,227,Doc,MAHARASHTRA,NANDED,NAIGAON (KH),,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Fertilizer Use and Availability,"
+FERTILIZER DOSE FOR SUGARCANE RATOON SUGARCANE ?
+","खोडवा ऊस -खते -24 24 24 60 किलो + युरिया १ बॅग्स  + किलो /एकर द्यावे  
+
+",2025-05-06T17:57:15.147,2025,5
+MAHARASHTRA,228,Doc,MAHARASHTRA,NANDED,KINWAT,,AGRICULTURE,Oilseeds,Soybean (bhat),Fertilizer Use and Availability,FARMER ASKED ABOUT FERTILIZER DOSE FOR SOYBEAN?,सोयाबीन पिकासाठी खत मात्रा - डी.ए.पी. - १ बॅग + युरिया - १ बॅग / एकर.,2025-05-11T21:01:47.15,2025,5
+MAHARASHTRA,229,Doc,MAHARASHTRA,KOLHAPUR,SHIROL,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT CONTACT NUMBER OF FARMER ID ?,संपर्क क्रमांक फार्मर आय डी  ०२०-२५- ७१२ ७१२ ,2025-05-20T11:28:34.703,2025,5
+MAHARASHTRA,230,Doc,MAHARASHTRA,AURANGABAD,SILLOD,,HORTICULTURE,Vegetables,Chillies,	Plant Protection	,farmer asked about drenching for chilli crop?,आळवनी द्वारे  ब्ल्यु कॉपर 30 ग्रॅम + हुमिक अॅसिड 30 मिलि /१५ लिटर पाण्यातून द्यावे ,2025-05-05T17:56:46.89,2025,5
+MAHARASHTRA,231,Doc,MAHARASHTRA,AURANGABAD,GANGAPUR,,AGRICULTURE,Millets,Pearl Millet (Bajra/Bulrush Millet/Spiked Millet),Market Information,FARMER ASKED ABOUT MARKET RATE OF BAJRA ?,"बाजरी पिकाचे सिल्लोड बाजारभाव -– किमान – 2250 रु/क्विटल, कमाल -2250 रु/क्विटल, सरासरी - 2250 रु/क्विटल . धन्यवाद शुभ दिवस !",2025-05-11T18:26:58.107,2025,5
+MAHARASHTRA,232,Doc,MAHARASHTRA,AURANGABAD,PAITHAN,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Weed Management,asked about cyperus rutundus control in s.cane,ऊस -  लव्हाळा -  धनुकाचे सेम्परा  एकरी ३६ ग्राम वापरावे ,2025-05-14T17:08:53.92,2025,5
+MAHARASHTRA,233,Doc,MAHARASHTRA,AURANGABAD,GANGAPUR,,AGRICULTURE,Others,Others,Government Schemes,asked about natural calamities list,आपत्ती निवारण यादी -  सी एस सी सेंटरला  ला भेट द्या ,2025-05-15T17:09:57.147,2025,5
+MAHARASHTRA,234,Doc,MAHARASHTRA,AURANGABAD,VAIJAPUR,,AGRICULTURE,Others,Others,Government Schemes,farmer asked query about farmer id registration ?," फार्मर आयडी रजिस्ट्रेशन संदर्भात अधिक माहितीसाठी जवळील सीएससी सेंटर मध्ये जावे .
+धन्यवाद",2025-05-21T10:53:36.523,2025,5
+MAHARASHTRA,235,Doc,MAHARASHTRA,JALNA,BADNAPUR,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked about Crop loss and crop insurance information?,"तहसील स्तरीय अधिकारी तपशील विजय बोहाटे मोबाईल नं.8007351600 vijaybohote@gmail.com मोरया कॉर्नर, शिवतारा हॉस्पिटल, महाराज हॉटेलवर , 431202",2025-05-03T15:20:17.553,2025,5
+MAHARASHTRA,236,Doc,MAHARASHTRA,JALNA,BHOKARDAN,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Crop Insurance,Farmer asked about not getting PMFBY 2024 cotton crop insurance claim benefit ?,"प्रधानमंत्री फसल बीमा योजना 2024, कापूस संदर्भात अधिक माहितीसाठी कृषी रक्षक पोर्टल- 14447 या नंबर वर संपर्क साधावा, धन्यवाद",2025-05-04T11:37:01.32,2025,5
+MAHARASHTRA,237,Doc,MAHARASHTRA,JALNA,GHANSAWANGI,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Varieties,Farmers asked for early maturing varieties of cotton?,"नमस्कार कपाशीचे लवकर येणारे वाण : राशी (RCH ७७९), महिको धनदेव+(एमआरसी 7373), नुझीविडू (आशा NCH ९०११). धन्यवाद  ",2025-05-12T12:33:58.757,2025,5
+MAHARASHTRA,238,Doc,MAHARASHTRA,JALNA,AMBAD,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Fertilizer Use and Availability,ASKED ABOUT FERTILIZER FOR COTTON CROP ?,"कापूस पिकाला 10 26 26 , 1 BAG + UREA 30 KG / ACRE खत बियाणे पेरणी करताना पेरणी करा धन्यवाद",2025-05-18T21:29:39.537,2025,5
+MAHARASHTRA,239,Doc,MAHARASHTRA,JALNA,AMBAD,,AGRICULTURE,Oilseeds,Soybean (bhat),Fertilizer Use and Availability,ASKED ABOUT FERTILIZER FOR SOYBEAN CROP ?,सोयाबीन पिकाला २०-२०-00-१३ हे खत एक बॅग / ACRE पेरणी करून द्या,2025-05-18T21:30:44.357,2025,5
+MAHARASHTRA,240,Doc,MAHARASHTRA,PARBHANI,PURNA,,HORTICULTURE,Vegetables,Ridge Gourd,	Plant Protection	,farmer asked cand give choropyrophos in soil for control of soil born larva ?,जमिनीमधील अळी नियंत्रण करण्यासाठी आपण क्लोरोपायरीफॉस दहा टक्क्यांमधलं दहा गुंठ्यांसाठी अर्धा किलो वापरू शकतात धन्यवाद,2025-05-02T09:24:03.043,2025,5
+MAHARASHTRA,241,Doc,MAHARASHTRA,BEED,BEED,,HORTICULTURE,Vegetables,Tomato,Fertilizer Use and Availability,farmer asked about fertilizer spray for tomato crop?,"१९ १९ १९ ४० ग्रॅम + मायक्रोला ३० मिली  /१५ लिटर पाण्यामध्ये घेऊन फवारणी करावी
+",2025-05-15T20:11:43.28,2025,5
+MAHARASHTRA,242,Doc,MAHARASHTRA,PARBHANI,SAILU,,HORTICULTURE,Vegetables,Chillies,Cultural Practices, Farmer asked if it would be possible to keep the chilli crop after harvesting to get chilli production again  ?,नमस्कार मिरची काढणीनंतर पुन्हा उत्पादनाच्या दृष्टीने ठेवायचे असल्यास त्याला पुन्हा खत किंवा तसेच बुरशीनाशक फवारणी वगैरे करून तुम्ही ते पीक राखून ठेवू शकता धन्यवाद...,2025-05-03T18:17:49.363,2025,5
+MAHARASHTRA,243,Doc,MAHARASHTRA,PARBHANI,SAILU,,AGRICULTURE,Oilseeds,Soybean (bhat),Varieties,ASKED ABOUT VARIETY OF SOYBEAN CROP ?,सोयाबीन वान - किमया,2025-05-18T11:25:56.343,2025,5
+MAHARASHTRA,244,Doc,MAHARASHTRA,PARBHANI,PURNA,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT CONTACT NUMBER OF RCF KISAN CALL CENTRE ?,आरसीएफ किसान कॉल सेंटर - 1800 22 3044,2025-05-20T11:50:16.163,2025,5
+MAHARASHTRA,245,Doc,MAHARASHTRA,BEED,ASHTI,,AGRICULTURE,Millets,Pearl Millet (Bajra/Bulrush Millet/Spiked Millet),	Water Management	,Farmer asked about water management in bajara crop ?,बाजरी पिकाची व्यवस्थित वाढ झाली असेल दाणे भरले असतील आणि तुम्ही लगेच काढणे करणार असाल तर पाणी देऊ नये धन्यवाद,2025-05-02T16:19:06.95,2025,5
+MAHARASHTRA,246,Doc,MAHARASHTRA,BEED,DHARUR,,AGRICULTURE,Others,Others,Government Schemes,asked about kisan sanman nidhi  new registration information ?,किसान सन्मान निधी योजनेची संकेतस्थळ तांत्रिक अडचणीमुळे सध्या बंद आहे  ,2025-05-02T17:10:30.907,2025,5
+MAHARASHTRA,247,Doc,MAHARASHTRA,BEED,BEED,,HORTICULTURE,Fruits,Mango,Training and Exposure Visits,Farmer asked about the research station of mango helpline number?,"केशर आंब्याच्या नियोजनासाठी आपण आंबा संशोधन केंद्र वेंगुर्ला 9422436117, 2366262234 या नंबर वरती संपर्क साधून अधिक माहिती जाणून घेऊ शकता धन्यवाद शुभ दिवस ",2025-05-21T16:46:07.397,2025,5
+MAHARASHTRA,248,Doc,MAHARASHTRA,OSMANABAD,TULJAPUR,,HORTICULTURE,Vegetables,Cucumber,Nutrient Management,Farmer asked about Cucumber Drip fertilizer 00:52:34 & Urea Dose Information ?,"काकडी पिकासाठी 00:52:34 - 02 किलो आणि तीन ते चार दिवसाच्या अंतराने  
+ युरिया - 04  किलो 200 लिटर पाण्यातून ठिबक मधून प्रति एकरी सोडावे. ",2025-05-15T16:18:24.73,2025,5
+MAHARASHTRA,249,Doc,MAHARASHTRA,OSMANABAD,TULJAPUR,,HORTICULTURE,Vegetables,Tomato,Fertilizer Use and Availability,Farmer asked about Fertilizer Dose Information ?,"टोमॅटो पिकासाठी 10 26 26 - 01 बॅग आणि 24:24:00 - 25 किलो + मायक्रोन्यूट्रिएंट - 10 किलो प्रति एकरी द्यावे, धन्यवाद",2025-05-15T16:21:26.4,2025,5
+MAHARASHTRA,250,Doc,MAHARASHTRA,PUNE,BHOR,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked about Farmer ID resistration ?,आपले फार्मर आयडी आपण ऍग्रीस्टेक वेबसाईट वरती जाऊन तयार करू शकता धन्यवाद,2025-05-02T14:33:45.367,2025,5
+MAHARASHTRA,251,Doc,MAHARASHTRA,PUNE,MAVAL,,AGRICULTURE,Others,Others,Government Schemes,Asking about not getting installment of PM Kisan Samman Nidhi Yojana ?,प्रधानमंत्री  किसान  सन्मान  निधी  अधिक माहितीसाठी नजीकच्या कृषी अधिकारी  / तहसील कार्यालयाशी संपर्क साधावा किंवा पी एम किसान हेल्पलाइन नंबर 155261 / 011-24300606 Email : aead[at]nic[dot]in,2025-05-14T21:58:35.387,2025,5
+MAHARASHTRA,252,Doc,MAHARASHTRA,PUNE,INDAPUR,,HORTICULTURE,Fruits,Pomegranate,Fertilizer Use and Availability,"Farmer asked   for fungicide  use in  rainy season 
+?",डाळिंब पिकामध्ये पाऊस झाल्यानंतर नेटिव्ह सोबत स्टिकर चा वापर करावा,2025-05-21T08:51:20.863,2025,5
+MAHARASHTRA,253,Doc,MAHARASHTRA,SATARA,WAI,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Fertilizer Use and Availability,FARMER ASKED ABOUT FERTILIZER DOSE FOR SUGARCANE RATOON SUGARCANE ?,खोडवा ऊस -खते -युरिया १०८ किलो +सिंगल सुपर फॉस्फेट १५० किलो +म्युरेट ऑफ पोटॅश ४० किलो /एकर द्यावे  ,2025-05-07T09:16:02.24,2025,5
+MAHARASHTRA,254,Doc,MAHARASHTRA,SATARA,KARAD,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked about PM Kisam yojana information on the Pradhan Mantri Kisan Samman Nidhi Yojana," प्रधानमंत्री किसान सन्मान निधी योजना:  सुधारणा करण्यासाठी आपण जवळील सीएससी सेंटर किंवा महा-ई-सेवा केंद्र शी संपर्क साधावा  , धन्यवाद . 
+",2025-05-16T13:39:33.85,2025,5
+MAHARASHTRA,255,Doc,MAHARASHTRA,SATARA,PATAN,,AGRICULTURE,Others,Others,Government Schemes,"?	Farmer asked about PM Kisan Sanman Nidhi Yojana Installment not received ?
+","⦁	प्रधानमंत्री किसान सन्मान निधी योजना संबंधी अधिक माहितीसाठी तहसील कार्यालय संपर्क साधावा,  संपर्क नंबर - 011-24300606 
+",2025-05-16T13:54:45.187,2025,5
+MAHARASHTRA,256,Doc,MAHARASHTRA,AHMADNAGAR,PARNER,,HORTICULTURE,Vegetables,Others,Seeds and Planting Material,Farmer asked about the suitable crop for summer season?,"उन्हाळ्या हंगामामध्ये काकडी, वांगी, भेंडी, टोमॅटो  ही पिके आपण घेऊ शकता धन्यवाद शुभ दिवस",2025-05-01T16:36:17.52,2025,5
+MAHARASHTRA,257,Doc,MAHARASHTRA,AHMADNAGAR,NEVASA,,HORTICULTURE,Vegetables,Onion,"Post Harvest Management (Cleaning, Grading, Packaging, Food Processing, Cool Chain etc.)",Farmer asked about  information of onion storage house ?,कांदा चाळीमध्ये साठवणूक करताना चांगला वाळवून घ्यावा त्यानंतर सुरुवातीला जमिनीवरती किंवा जाळी वरती बीएससी पावडर किंवा कूल डस्ट पावडर वापरावी,2025-05-06T11:05:27.32,2025,5
+MAHARASHTRA,258,Doc,MAHARASHTRA,AHMADNAGAR,NEVASA,,AGRICULTURE,Others,Others,Crop Insurance,"Crop loss  and crop insurance information ?
+","पीक नुकसानीबाबत आणि पिक विमा संबंधित माहितीसाठी आपल्या
+14447 संपर्क साधा,
+",2025-05-13T08:42:10.603,2025,5
+MAHARASHTRA,259,Doc,MAHARASHTRA,AHMADNAGAR,SANGAMNER,,HORTICULTURE,Vegetables,Onion,Market Information,Farmer asked about Sangamner Onion Market rate ? ,"संगमनेर कांदा बाजार भाव- कमीत कमी- 200 रु/क्विंटल, जास्तीत जास्त- 1500 रु/ क्विंटल, सरासरी- 850 रु/ क्विंटल.धन्यवाद",2025-05-15T17:28:02.067,2025,5
+MAHARASHTRA,260,Doc,MAHARASHTRA,AHMADNAGAR,SANGAMNER,,HORTICULTURE,Vegetables,Onion,Market Information,asked about onion market rate,संगमनेर	उन्हाळी	क्विंटल	1450	200	1250	725,2025-05-17T17:06:38.033,2025,5
+MAHARASHTRA,261,Doc,MAHARASHTRA,AHMADNAGAR,AKOLE,,AGRICULTURE,Others,Others,Government Schemes,OTHER STATE CALL,CALL TRANSFER - ODISA KKC,2025-05-19T13:07:07.46,2025,5
+MAHARASHTRA,262,Doc,MAHARASHTRA,AHMADNAGAR,SHEVGAON,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about information of Kisan Sanman Nidhi scheme,प्रधानमंत्री किसान सन्मान योजना ची माहिती तपासण्यासाठी आपला आधार नंबर किंवा रजिस्ट्रेशन नंबर गरजेचा आहे,2025-05-21T11:03:42.127,2025,5
+MAHARASHTRA,263,Doc,MAHARASHTRA,AHMADNAGAR,RAHATA,,AGRICULTURE,Oilseeds,Soybean (bhat),Crop Insurance,"farmer asked about not getting insurance claim benefits  PMFBY Soybean 2024 ? 
+","प्रधानमंत्री फसल बीमा योजना 2024 सोयाबीन पिक विमा संदर्भात कृषी रक्षक पोर्टल 14 447 या नंबर वर संपर्क साधावा, धन्यवाद",2025-05-21T15:13:17.617,2025,5
+MAHARASHTRA,264,Doc,MAHARASHTRA,SINDHUDURG,KANKAVALI,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED QUERY ABOUT KISAN ID CARD ?,"--शेतकरी महोदय किसान आयडी कार्ड काढण्यासाठी आपल्या जवळच्या महा-ई-सेवा केंद्र किंवा महासेतू येथे संपर्क करावा तसेच काही अडचण आल्यास खाली दिलेले संपर्क क्रमांक वरती संपर्क साधू शकता धन्यवाद
+Department	Helpline Number	Email Support
+AgriStack National Support	1800-123-4567 (Toll-Free)
+Department	Helpline Number	Email Support
+AgriStack National Support	1800-123-4567 (Toll-Free)	support@agristack.gov.in
+PM-KISAN Helpline	011-24300606	pmkisan-ict@gov.in
+AgriStack Maharashtra	022-6789001",2025-05-04T11:10:47.79,2025,5
+MAHARASHTRA,265,Doc,MAHARASHTRA,SOLAPUR,MALSHIRAS,,HORTICULTURE,Vegetables,Cucumber,Nutrient Management,farmer asked about which spray given increasing growth of cucumber?,काकडी पिकाची वाढ होण्यासाठी बायो विटा हे टॉनिक प्रति लिटर पाण्यासाठी 1.5 मिली प्रमाण घेऊन दाट फवारणी करावी धन्यवाद ,2025-05-02T12:47:39.91,2025,5
+MAHARASHTRA,266,Doc,MAHARASHTRA,SOLAPUR,MOHOL,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Nutrient Management,FARMER ASKING ABOUT NUTRIENT MANAGEMENT FOR GROWTH OF S.CANE ?  ,"ऊस पिकाच्या वाढीसाठी  : 13 00 45 3 किलो प्रति एकरी ड्रीपद्वारे द्यावे , धन्यवाद . ",2025-05-02T13:57:39.12,2025,5
+MAHARASHTRA,267,Doc,MAHARASHTRA,SOLAPUR,MOHOL,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Varieties,VARIETIES OF SUGARCANE ?,ऊस -वाण - को -८६०३२ को -१०००१ फुले २६५ को -०३१०२ को-९४०१२ ,2025-05-14T07:54:01.85,2025,5
+MAHARASHTRA,268,Doc,MAHARASHTRA,SOLAPUR,BARSHI,,HORTICULTURE,Condiments and Spices,Coriander,Cultural Practices,farmer asked for information on how long it will take for the seeds in the coriander crop to be ready for harvesting ?,"धणे पेरल्यानंतर ३०-४५ दिवसांनी कोथिंबीरची पाने काढता येतात. धणे पेरल्यानंतर सुमारे ९०-१२० दिवसांनी कोथिंबीर कापणीसाठी तयार होते.
+धन्यवाद... ",2025-05-16T13:59:05.837,2025,5
+MAHARASHTRA,269,Doc,MAHARASHTRA,SOLAPUR,PANDHARPUR,,HORTICULTURE,Fruits,Pomegranate,Cultural Practices,asked about bahar treatment in pomegranate plant ?,डाळिंब झाडाला ताण बसला असेल तर पानगळ करून बाहेर घेऊ शकता,2025-05-18T17:08:51.733,2025,5
+MAHARASHTRA,270,Doc,MAHARASHTRA,SOLAPUR,MADHA,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Fertilizer Use and Availability,FARMER ASKED ABOUT FERTILIZER DOSE FOR SUGARCANE CROP  ?,ऊस पिकासाठी खतमात्रा - 00 52 34 किंवा 13 40 13 पाट पाण्याद्वारे देऊ शकता धन्यवाद,2025-05-20T12:47:34.037,2025,5
+MAHARASHTRA,271,Doc,MAHARASHTRA,SANGLI,VALVA-ISLAMPUR,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about next installment date of namo kisan yojana ,महोदय नमो किसान योजनेचा पुढील सातवा हप्ता जून ते जुलै या महिन्यांमध्ये मिळेल धन्यवाद,2025-05-03T08:15:07.71,2025,5
+MAHARASHTRA,272,Doc,MAHARASHTRA,SANGLI,KHANAPUR-VITA,,HORTICULTURE,Condiments and Spices,Ginger,Fertilizer Use and Availability,FARMER ASKED ABOUT FERTILIZER DOSE FOR GINGER  ?,आले एकरी 100 किलो सुपर फॉस्फेट + सल्फर 10 किलो या खताचा वापर करावा. ,2025-05-20T13:38:59.223,2025,5
+MAHARASHTRA,273,Doc,MAHARASHTRA,SANGLI,MIRAJ,,HORTICULTURE,Condiments and Spices,Turmeric,Seeds and Planting Material,FARMER ASKED ABOUT SEED RATE IN TURMERIC CROP?,बेणे : अर्धा एकरी400  ते 600 किलो बेणे ,2025-05-22T10:04:20.613,2025,5
+MAHARASHTRA,274,Doc,MAHARASHTRA,NASIK,BAGLAN,,AGRICULTURE,Others,Others,Government Schemes,Transfer to Maharashtra ,Transfer to Maharastra ,2025-05-08T17:28:49.597,2025,5
+MAHARASHTRA,275,Doc,MAHARASHTRA,NASIK,IGATPURI,,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),Cultural Practices,Farmers asked when to harvest the groundnut crop ?,लागवडीनंतर भुईमूग पिकाची काढणी  : ११० ते १२० दिवस धन्यवाद..!,2025-05-10T16:43:53.717,2025,5
+MAHARASHTRA,276,Doc,MAHARASHTRA,NASIK,SINNAR,,HORTICULTURE,Vegetables,Bottle Gourd ,	Plant Protection	,FARMER ASKED ABOUT FLOWER DROP IN BOTTLE GOURD CROP?,कॅल्सीबोर ३० ग्रॅम / १५ लिटर पाण्यात घेऊन फवारणी करणे ,2025-05-11T08:34:28.573,2025,5
+MAHARASHTRA,277,Doc,MAHARASHTRA,NASIK,NIPHAD,,HORTICULTURE,Vegetables,Cauliflower,Fertilizer Use and Availability,FARMER ASKED ABOUT FERTILIZER DOSE FOR CAULIFLOWER SIZE ? ,0.52.34 तीन किलो एका एकर साठी द्यावे धन्यवाद!,2025-05-14T10:32:32.367,2025,5
+MAHARASHTRA,278,Doc,MAHARASHTRA,NASIK,SURGANA,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT CROP INSURANCE CLAIME UNDER FASAL BIMA YOJNA?,पिक विमा नुकसान भरपाई साठी विमा कंपनी संपर्क करावा,2025-05-18T07:41:39.66,2025,5
+MAHARASHTRA,279,Doc,MAHARASHTRA,NASIK,MALEGAON,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about to check beneficiary status of Pradhan mantri Kisan Sanman Nidhi Yojana ?,प्रधानमंत्री किसान सन्मान निधी योजनेची जवळील सीएससी सेंटर मध्ये जाऊन ई केवायसी करावी. धन्यवाद,2025-05-20T12:17:13.073,2025,5
+MAHARASHTRA,280,Doc,MAHARASHTRA,DHULE,SHIRPUR,,HORTICULTURE,Vegetables,Bottle Gourd ,Fertilizer Use and Availability,FARMER ASKED ABOUT FERTILIZER DOSE FOR BOTTLE GOURD?,कॅल्शियम बोरॉन तीस मिली 15 पाण्यामध्ये घेऊन फवारणी करावी धन्यवाद!,2025-05-07T06:47:33.517,2025,5
+MAHARASHTRA,281,Doc,MAHARASHTRA,DHULE,DHULE,,HORTICULTURE,Vegetables,Others,Fertilizer Use and Availability,Farmer asked for  pest control  in  onion ? ,--फेनप्रोपॅथ्रिन ३०% ईसी मेओथ्रिन - डोस - २ ते ५ मिली - सुमितोमो केमिकल )- ३० मिली /१५ लीटर पाण्यामध्ये घेऊन फवारणी करावी.,2025-05-09T10:49:02.12,2025,5
+MAHARASHTRA,282,Doc,MAHARASHTRA,DHULE,DHULE,,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),Nutrient Management,Farmer asked about Spraying for Groundnut crop pod growth ?,भुईमूग पिकामध्ये शेंगा भरण्यासाठी -00:00:50 - 60  ग्रॅम  /१५ लिटर पाण्यामध्ये घेऊन फवारणी करावी.,2025-05-11T18:32:53.277,2025,5
+MAHARASHTRA,283,Doc,MAHARASHTRA,DHULE,SAKRI,,AGRICULTURE,Others,Others,Government Schemes,Asked about Kisan Maandhan Yojana number   ?,किसान मानधन योजना क्रमांक टोल फ्री कॉल सेंटर 1800-2676-888,2025-05-19T16:57:15.13,2025,5
+MAHARASHTRA,284,Doc,MAHARASHTRA,WARDHA,DEOLI,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Market Information,Farmer asked about market rate of cotton in Amaravati Market ?,"अमरावती कापूस बाजार भाव- कमीत कमी- 7700 रु/क्विंटल, जास्तीत जास्त- 8000 रु/ क्विंटल, सरासरी- 7900  रु/ क्विंटल.धन्यवाद ",2025-05-08T21:22:41.477,2025,5
+MAHARASHTRA,285,Doc,MAHARASHTRA,WARDHA,ARVI,,AGRICULTURE,Pulses,Bengal Gram (Gram/Chick Pea/Kabuli/Chana),Market Information,asked about Agricultural Produce Market Committee Amravati Tur market price,09/05/2025 कृषी उत्पन्न बाजार समिती अमरावती तूर बाजार भाव 6900 - 7177 रुपये प्रति क्विंटल,2025-05-09T19:03:12.173,2025,5
+MAHARASHTRA,286,Doc,MAHARASHTRA,YEVATMAL,MAHAGAON,,HORTICULTURE,Vegetables,Bhindi(Okra/Ladysfinger),"Post Harvest Management (Cleaning, Grading, Packaging, Food Processing, Cool Chain etc.)","
+FARMER ASKED ABOUT HOW MANY DAYS REQUIRED FOR FIRST HARVESTING OF VEGETABLE OKRA CROP ?
+",हिरव्या भेंडीचा पहिला तोडा हा लागवडीपासून ४५ ते ५० दिवसापासून सुरु होतो,2025-05-01T07:07:12.183,2025,5
+MAHARASHTRA,287,Doc,MAHARASHTRA,YEVATMAL,RALEGAON,,AGRICULTURE,Others,Others,Government Schemes,farmer ask about information of Namo Shetkari sanman Nidhi scheme,नमो शेतकरी सन्मान योजना चे पैसे जमा करण्यात आलेले आहे,2025-05-04T09:05:15.64,2025,5
+MAHARASHTRA,288,Doc,MAHARASHTRA,YEVATMAL,NER,,AGRICULTURE,Others,Others,Government Schemes,"
+Farmer asked about Contact Number of  PM Kisan Sanman Nidhi Yojana?
+","•	प्रधानमंत्री किसान सन्मान निधी योजना संबंधी अधिक माहितीसाठी 011-24300606
+नंबर वर संपर्क साधावा
+",2025-05-05T10:26:01.07,2025,5
+MAHARASHTRA,289,Doc,MAHARASHTRA,YEVATMAL,GHATANJI,,AGRICULTURE,Others,Others,Sowing Time and Weather,asked about kharip season crops,"--खरीप पिके -  तूर , सोयाबीन , उडीद , मूग व कपाशी ",2025-05-18T10:59:39.367,2025,5
+MAHARASHTRA,290,Doc,MAHARASHTRA,YEVATMAL,KALAMB,,HORTICULTURE,Condiments and Spices,Turmeric,Cultural Practices,farmer asked about information of turmeric seed ,साठवलेल्या हळदीच्या कंदांवरती आपण चुकून तन नाशक पावडर फवारली असेल तर ते बियाणे लागवडीसाठी वापरू नये धन्यवाद ,2025-05-21T11:44:36.06,2025,5
+MAHARASHTRA,291,Doc,MAHARASHTRA,AMRAVATI,WARUD,,AGRICULTURE,Others,Others,Government Schemes,"farmer ask about Namo shetkari maha Samman Nidhi Yojana information ?
+","नमो शेतकरी सन्मान निधी योजनेची साईड आता बंद आहे त्यामुळे आपले स्टेटस चेक करता येत नाही धन्यवाद
+",2025-05-09T11:50:08.98,2025,5
+MAHARASHTRA,292,Doc,MAHARASHTRA,AMRAVATI,CHANDUR BZ,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked about Agri Loan Wavier schemes ?,"शेतकरी कर्जमाफी संदर्भात शासनाकडून अद्याप कोणतीही माहिती उपलब्ध नाही, धन्यवाद",2025-05-13T18:21:46.347,2025,5
+MAHARASHTRA,293,Doc,MAHARASHTRA,AMRAVATI,NANDGAON KH,,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),Market Information,Farmer asked about market rate of Tur in Amaravati Market ?,"अमरावती तूर बाजार भाव- कमीत कमी- 6900 रु/क्विंटल, जास्तीत जास्त- 7220 रु/ क्विंटल, सरासरी- 7060 रु/ क्विंटल.धन्यवाद",2025-05-14T20:05:08.21,2025,5
+MAHARASHTRA,294,Doc,MAHARASHTRA,AMRAVATI,NANDGAON KH,,AGRICULTURE,Pulses,Bengal Gram (Gram/Chick Pea/Kabuli/Chana),Market Information,Farmer asked about market rate of Gram in Amaravati Market ?,"अमरावती हरभरा बाजार भाव- कमीत कमी- 5400 रु/क्विंटल, जास्तीत जास्त- 5550 रु/ क्विंटल, सरासरी- 5475 रु/ क्विंटल.धन्यवाद",2025-05-14T20:06:19.48,2025,5
+MAHARASHTRA,295,Doc,MAHARASHTRA,AMRAVATI,TIWSA,,AGRICULTURE,Pulses,Bengal Gram (Gram/Chick Pea/Kabuli/Chana),Market Information,"
+What are the market prices of gram in Amravati?",हरभऱ्याचे अमरावतीचे बाजार भाव -5200-5400 रूपये प्रति क्विंटल ,2025-05-15T18:39:07.613,2025,5
+MAHARASHTRA,296,Doc,MAHARASHTRA,AMRAVATI,TIWSA,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about to check beneficiary status of Pradhan mantri Kisan Sanman Nidhi Yojana ?,प्रधानमंत्री किसान सन्मान निधी योजनेचे  कागदपत्रे सीएससी सेंटर मध्ये अपलोड होत नसेल तर कृषी अधिकारी कार्यालय मध्ये संपर्क करावा धन्यवाद,2025-05-16T13:33:40.563,2025,5
+MAHARASHTRA,297,Doc,MAHARASHTRA,AMRAVATI,AMRAVATI,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT CONTACT NUMBER OF AGRICULTURE DEPARTMENT ?,"
+संपर्क क्रमांक कृषी विभाग :- १८००२३३४०००.",2025-05-21T13:11:27.077,2025,5
+MAHARASHTRA,298,Doc,MAHARASHTRA,BULDANA,BULDANA,,HORTICULTURE,Vegetables,Bitter Gourd,	Plant Protection	,FARMER ASKED ABOUT SILICON DOSE FOR BITTER GOURD?,सिलिकॉन एक ते दोन मिली प्रति लिटर द्यावे.,2025-05-08T12:51:11.287,2025,5
+MAHARASHTRA,299,Doc,MAHARASHTRA,BULDANA,MALKAPUR,,HORTICULTURE,Vegetables,Pumpkin,Market Information,Asking about market for small size pumkin ?,कमी आकाराच्या डांगर भोपळ्याला कमी प्रमाणामध्ये भाव मिळेल धन्यवाद,2025-05-10T19:59:39.263,2025,5
+MAHARASHTRA,300,Doc,MAHARASHTRA,BULDANA,MALKAPUR,,HORTICULTURE,Vegetables,Pumpkin,	Plant Protection	,FARMER  ASKED ABOUT SPRAY FOR CONTROL OF RUST ATTACK ON CROP ?,"SAAF Carbendazim 12% and Mancozeb 63% WP ) हे बुरशीनाशक ३० ग्रॅम प्रति १५ लिटर पाण्यामध्ये घेऊन फवारणी करावी. धन्यवाद..! 
+
+",2025-05-10T21:10:50.05,2025,5
+MAHARASHTRA,301,Doc,MAHARASHTRA,BULDANA,CHIKHLI,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT PHONE NO. OF NEW POULTRY BREED?,डॉ पंजाबराव देशमुख कृषी विद्यापीठ अकोला - ०७२४ - २२५८३७२ ,2025-05-13T15:52:37.223,2025,5
+MAHARASHTRA,302,Doc,MAHARASHTRA,BULDANA,KHAMGAON,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Cultural Practices,FARMER ASKED ABOUT ABOUT COTTON CULTIVATION IN KHARIF SEASON?,कापूस पिकाची लागवड पाण्याची सोय असेल तर करू शकता,2025-05-17T11:13:14.4,2025,5
+MAHARASHTRA,303,Doc,MAHARASHTRA,NAGPUR,UMRED,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked about Toll free number regarding well subsidy ?,विहीर अनुदान संदर्भात टोल फ्री नंबर 1800-233-2005 आहे. या नंबरवर तुम्ही संबंधित माहिती किंवा तक्रार नोंदवू शकता. धन्यवाद!!!,2025-05-03T12:00:55.767,2025,5
+MAHARASHTRA,304,Doc,MAHARASHTRA,NAGPUR,SAONER,,HORTICULTURE,Fruits,Papaya,Seeds and Planting Material,ASKED ABOUT VARIETY OF PAPAYA ?,पपई वान = तैवान 786,2025-05-18T19:16:23.057,2025,5
+MAHARASHTRA,305,Doc,MAHARASHTRA,MUMBAI,MUMBAI,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT CONTACT NUMBER OF EPFO?, Free Number : 1800118005,2025-05-21T08:41:02.717,2025,5
+MAHARASHTRA,306,Doc,MAHARASHTRA,MUMBAI,MUMBAI,,AGRICULTURE,Others,Others,Government Schemes,Farmers asked about Farmer ID registration ?,फार्मर आयडी रजिस्ट्रेशन बद्दल शेतकऱ्यांनी कॉमन सर्विस सेंटर मध्ये जाऊन चेक करावे धन्यवाद,2025-05-22T19:17:47.2,2025,5
+MAHARASHTRA,307,Doc,MAHARASHTRA,GONDIYA,SADAK ARJUNI,,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"Answer inspired 
+Hover to view link
+INDIA METEOROLOGICAL DEPARTMENT (IMD)
+Here is the weather forecast for Sadak Arjuni, Gondiya district, Maharashtra:
+
+- Saturday, 2025-05-17:
+- Rainfall: 1.0 mm
+- Max Temperature: 44.0 °C
+- Min Temperature: 26.0 °C
+
+- Sunday, 2025-05-18:
+- Rainfall: 0.0 mm
+- Max Temperature: 36.0 °C
+- Min Temperature: 24.0 °C
+
+- Monday, 2025-05-19:
+- Rainfall: 3.0 mm
+- Max Temperature: 37.0 °C
+- Min Temperature: 25.0 °C
+
+- Tuesday, 2025-05-20:
+- Rainfall: 3.0 mm
+- Max Temperature: 42.0 °C
+- Min Temperature: 25.0 °C
+
+- Wednesday, 2025-05-21:
+- Rainfall: 3.0 mm
+- Max Temperature: 41.0 °C
+- Min Temperature: 22.0 °C
+
+- Average Stats:
+- Total Rainfall: 2.0 mm
+- Max Temperature: 40.0 °C
+- Min Temperature: 24.4 °C
+
+  Summarize
+Translated to marathi
+महाराष्ट्रातील गोंदिया जिल्ह्यातील सडक अर्जुनीसाठी हवामानाचा अंदाज असा आहेः-शनिवार, 2025-05-17:-पाऊसः 1 मिमी-कमाल तापमानः 44 डिग्री सेल्सियस-किमान तापमानः 26 डिग्री सेल्सियस-रविवार, 2025-05-18-पाऊसः 0.0 मिमी-कमाल तापमानः 36 डिग्री सेल्सियस-किमान तापमानः 24 डिग्री सेल्सियस-सोमवार, 2025-05-19:-पाऊसः 3 मिमी-कमाल तापमानः 37 डिग्री सेल्सियस-किमान तापमानः 25 डिग्री सेल्सियस-मंगळवार, 2025-05-20:-पाऊसः 3 मिमी-कमाल तापमानः 42 डिग्री सेल्सियस-किमान तापमानः 25 डिग्री सेल्सियस-बुधवार, 2025-05-19",2025-05-16T21:35:39.837,2025,5
+MAHARASHTRA,308,Doc,MAHARASHTRA,WASHIM,MANORA,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked about Government Scheme?,शेतकरी कल्याण विभाग फोन: 91-11-23382401 ,2025-05-02T18:00:53.653,2025,5
+MAHARASHTRA,309,Doc,MAHARASHTRA,WASHIM,MALEGAON,,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),Market Information,Farmer asked about market rate of Tur in Washim Market ?,"वाशिम  तुर बाजार भाव- कमीत कमी- 6400 रु/क्विंटल, जास्तीत जास्त- 6800 रु/ क्विंटल, सरासरी- 6500 रु/ क्विंटल.धन्यवाद",2025-05-05T14:40:48.363,2025,5
+MAHARASHTRA,310,Doc,MAHARASHTRA,WASHIM,MALEGAON,,AGRICULTURE,Others,Others,Government Schemes, farmer asked about When will the emergency farmers' scheme be collected?,"शेतकरी साहेब, आपल्याला आपत्कालीन नैसर्गिक आपत्ती नुकसान भरपाई याचे तारीख अजून निश्चित झालेले नाही धन्यवाद.. ",2025-05-07T15:28:21.087,2025,5
+MAHARASHTRA,311,Doc,MAHARASHTRA,WASHIM,MALEGAON,,AGRICULTURE,Pulses,Bengal Gram (Gram/Chick Pea/Kabuli/Chana),Market Information,farmer asked about market information of gram?,"शेतकरी साहेब हरभरा  बाजारभाव अकोला  बाजार समती : दिनांक  : 09/05/2025- कमीत कमी 4900 क्विटल, जास्तीत जास्त 5700 रु/क्विटल, सरासरी 5675 रु/क्विटलआहेत. धन्यवाद.",2025-05-09T18:39:05.233,2025,5
+MAHARASHTRA,312,Doc,MAHARASHTRA,WASHIM,MALEGAON,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT CROP INSURANCE CLAIME UNDER FASAL BIMA YOJNA?,तालुका विमा प्रतिनिधी  अनिल अखंड -9309086736,2025-05-11T06:53:03.06,2025,5
+MAHARASHTRA,313,Doc,MAHARASHTRA,WASHIM,KARANJA,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked about PM Kisan Sanman Nidhi Yojana?,"•	प्रधानमंत्री किसान सन्मान निधी योजना संबंधी अधिक माहितीसाठी 011-24300606
+नंबर वर संपर्क साधावा
+",2025-05-12T13:02:51.597,2025,5
+MAHARASHTRA,314,Doc,MAHARASHTRA,WASHIM,KARANJA,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked to check Farmer ID registration status?,"आपले फार्मर आयडी एनरोलमेंट स्टेटस चेक केल्यावर  अप्रोवल  स्टेटस अप्रोव्हड असे दाखवत आहे.
+
+ धन्यवाद ...",2025-05-18T10:14:27.337,2025,5
+MAHARASHTRA,315,Doc,MAHARASHTRA,WASHIM,RISOD,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT CONTACT NUMBER OF PUNJABRAO DESHMUKH KRISHI VIDYAPEETH AKOLA ?,"डॉ पंजाबराव देशमुख कृषी विद्यापीठ अकोला 07242259262 
+",2025-05-18T12:07:16.263,2025,5
+MAHARASHTRA,316,Doc,MAHARASHTRA,HINGOLI,HINGOLI,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Fertilizer Use and Availability,Farmer asked about use of FYM cotton crop?,"शेणखत प्रोसेसिंग विषयी अधिक माहितीसाठी-महात्मा फुले कृषि विद्यापीठ, राहुरी , जि. अहमदनगर -जैविक खते :  ०२४२६-२४३२३१",2025-05-01T10:34:43.857,2025,5
+MAHARASHTRA,317,Doc,MAHARASHTRA,HINGOLI,BASMAT,,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),Nutrient Management,Farmer asked about Spraying for Ground Nut crop pod growth ?,भुईमूग पिकामध्ये शिंगाच्या वाढीसाठी -00:52:34 - 60  ग्रॅम + सुक्ष्म अन्नद्रव्ये 30 मिली /१५ लिटर पाण्यामध्ये घेऊन फवारणी करावी.,2025-05-04T13:20:53.19,2025,5
+MAHARASHTRA,318,Doc,MAHARASHTRA,HINGOLI,KALAMNURI,,HORTICULTURE,Condiments and Spices,Coriander,Cultural Practices,FARMER ASKED ABOUT WEED MANAGEMENT IN CORIANDER CROP ?,कोथिंबीर पिकामध्ये कोणतेही तणनाशक शिफारस नाही. धन्यवाद !,2025-05-11T12:16:10.927,2025,5
+MAHARASHTRA,319,Doc,MAHARASHTRA,HINGOLI,AUNDHA  NAGNATH,,HORTICULTURE,Condiments and Spices,Turmeric,Nutrient Management,farmer asked which fertilizer given as a basal doses for turmeric crop ?,"हळद पिकामध्ये वाफे तयार करताना आपण 10:26:26 एकरी 1 बॅग,  चीलेटेड मायक्रोन्यूट्रिएंट एकरी 5 किलोची बॅग तसेच युरियाची 1 बॅग आपण बेड वरती द्यावी धन्यवाद",2025-05-15T15:49:03.883,2025,5
+MAHARASHTRA,320,Doc,MAHARASHTRA,HINGOLI,HINGOLI,,HORTICULTURE,Condiments and Spices,Turmeric,Seeds and Planting Material,FARMER ASKED INFORMATION ABOUT BLACK TURMERIC ?,"हळद संशोधन योजना, एआरएस, कसबे डिग्रज, ता. मिरज, जि. सांगली
+फोन नंबर : ०२३३ २४३७२७४",2025-05-17T16:21:54.123,2025,5
+MAHARASHTRA,321,Doc,MAHARASHTRA,HINGOLI,KALAMNURI,,HORTICULTURE,Vegetables,Bitter Gourd,Cultural Practices,Farmer asked about sowing time of Bitter Gourd crop?,"कारले लागवड
+खरीप हंगाम-जून-जुलै.
+उन्हाळी हंगाम-फेब्रुवारी-मार्च",2025-05-18T09:44:22.103,2025,5
+MAHARASHTRA,322,Doc,MAHARASHTRA,HINGOLI,AUNDHA  NAGNATH,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Varieties,FARMER ASKED ABOUT COTTON VARITIES?,"राशी (RCH ७७९)                   
+ महिको जंगी                                                                 
+ अजित १५५  
+ यू एस ७०६७                                           ",2025-05-18T19:40:42.96,2025,5
+MAHARASHTRA,323,Doc,MAHARASHTRA,HINGOLI,AUNDHA  NAGNATH,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT FARMER ID CONTACT NUMBER?,"संपर्क क्रमांक फार्मर आय डी  ०२०-२५- ७१२ ७१२ 
+",2025-05-22T13:43:13.63,2025,5
+MAHARASHTRA,324,Doc,MAHARASHTRA,PALGHAR,DAHANU,,AGRICULTURE,Others,Others,Government Schemes,asking about status of PM Kisan Samman Nidhi Yojana ?,पंतप्रधान किसान सन्मान निधी योजनेचा आपला अर्ज तालुका लेवल ला प्रतीक्षेत आहे धन्यवाद,2025-05-04T17:15:56.393,2025,5
+MAHARASHTRA,325,Doc,MAHARASHTRA,NANDED,BHOKAR,,HORTICULTURE,Condiments and Spices,Turmeric,Cultural Practices,FARMER ASKED ABOUT SOWING OF TURMERIC CROP ?,मका काढलेल्या रानामध्ये हळद पीक लावू शकतो.,2025-05-09T11:16:07.013,2025,5
+MAHARASHTRA,326,Doc,MAHARASHTRA,NANDED,HADGAON,,HORTICULTURE,Condiments and Spices,Turmeric,Nutrient Management,Farmers asked if they could put sugarcane slurry in the fields to plant turmeriC?,नमस्कार हळद लागवड करण्यापूर्वी उसाची मळी ०५ ते १० टन एकरामध्ये आपण टाकू शकता. धन्यवाद!!,2025-05-10T12:56:26.327,2025,5
+MAHARASHTRA,327,Doc,MAHARASHTRA,NANDED,HADGAON,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about to check beneficiary status of Pradhan mantri Kisan Sanman Nidhi Yojana ?,प्रधानमंत्री किसान सन्मान निधी योजनेची जवळील सीएससी सेंटर मध्ये जाऊन ई केवायसी करून घ्यावी. धन्यवाद.,2025-05-12T12:34:53.827,2025,5
+MAHARASHTRA,328,Doc,MAHARASHTRA,NANDED,MAHUR,,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),Market Information,farmer asked about market information of Pigeon pea crop from Karanja market ?," तूर पिकाचे बाजार भाव कारंजा बाजार समिती  
+कमीत कमी  ६५४५ रुपये प्रति क्विंटल,
+जास्तीत जास्त  ७२४० रुपये प्रति क्विंटल,
+सरासरी   ६९७० रुपये  प्रति क्विंटल, 
+धन्यवाद..!",2025-05-15T12:01:57.55,2025,5
+MAHARASHTRA,329,Doc,MAHARASHTRA,NANDED,MOKHED,,AGRICULTURE,Others,Others,Agriculture Mechanization,Farmer asked how to set up the token machine?,"टोकण  यंत्र बाबत अधिक माहितीसाठी संबंधित कंपनीशी  संपर्क  करावा .
+
+धन्यवाद..",2025-05-22T09:46:32.933,2025,5
+MAHARASHTRA,330,Doc,MAHARASHTRA,AURANGABAD,KHULTABAD,,AGRICULTURE,Others,Others,Government Schemes,Farmer asking about installment of PM Kisan Samman Nidhi Yojana ?,पंतप्रधान किसान सन्मान योजना अंतर्गत आपला पहिला हप्ता जमा झालेला आहे धन्यवाद,2025-05-02T14:16:41.047,2025,5
+MAHARASHTRA,331,Doc,MAHARASHTRA,AURANGABAD,SILLOD,,HORTICULTURE,Vegetables,Chillies,	Plant Protection	,FARMER ASKED ABOUT Attack of White Grub OF CHILLI ? ,हुमणी हमला ५५० ५०० मिली / एकर / २०० लिटर पाण्यातून ठिबक मधून सोडावे ,2025-05-05T09:13:34.287,2025,5
+MAHARASHTRA,332,Doc,MAHARASHTRA,AURANGABAD,PAITHAN,,AGRICULTURE,Others,Others,Agriculture Mechanization,"Farmer has asked for the helpline number of Mobi Ocean Technology Private Limited, a fertilizer machine manufacturer ?","--MobiOcean Technologies Pvt. लि.
+-चंडक चेंबर, सातवा मजला, गुंदवली मेट्रो स्टेशन जवळ,
+अंधेरी पूर्व, मुंबई-400093
+---+91-9625214314 वर कॉल करा,
+धन्यवाद.......",2025-05-11T10:56:42.027,2025,5
+MAHARASHTRA,333,Doc,MAHARASHTRA,AURANGABAD,PAITHAN,,HORTICULTURE,Fruits,Mango,Fertilizer Use and Availability,farmer asked about fertilizer spray for increasing mango branches ?,आंबा पिकाला फुटवे फुटण्यासाठी फवारणी -19 19 19 60 ग्रॅम अधिक सागरीका 30 मिली प्रति १५ लिटर पाण्यामध्ये घेऊन फवारणी करावी .,2025-05-11T18:46:58.06,2025,5
+MAHARASHTRA,334,Doc,MAHARASHTRA,AURANGABAD,GANGAPUR,,AGRICULTURE,Pulses,Bengal Gram (Gram/Chick Pea/Kabuli/Chana),Market Information,Farmer asked about Amaravati Gram Market rate ? ,"अमरावती हरभरा बाजार भाव- कमीत कमी- 5400  रु/क्विंटल, जास्तीत जास्त- 5580 रु/ क्विंटल, सरासरी- 5450 रु/ क्विंटल.धन्यवाद",2025-05-16T19:03:07.037,2025,5
+MAHARASHTRA,335,Doc,MAHARASHTRA,AURANGABAD,GANGAPUR,,HORTICULTURE,Fruits,Mango,Seeds and Planting Material,Farmer asked about  Mango Varieties ?,"आंबा -जाती - हापूस, केसर, रत्ना, सिंधू, कोकण रुची, कोकण राजा, सुवर्णा, सम्राट, पायरी, लंगडा, वनराज",2025-05-21T20:31:18.45,2025,5
+MAHARASHTRA,336,Doc,MAHARASHTRA,JALNA,GHANSAWANGI,,AGRICULTURE,Pulses,Black Gram (urd bean),Varieties,Farmer asked about the variety of urd?,"उडीद जाती सुधारित जाती : टी ९,टीएयू १,टीएयू २,एकेयू ४",2025-05-07T19:26:02.267,2025,5
+MAHARASHTRA,337,Doc,MAHARASHTRA,JALNA,BADNAPUR,,AGRICULTURE,Others,Others,Government Schemes,"Farmer asked about  contact number of  Vasantrao Naik Marathwada Agriculture University Parbhani ?
+","वसंतराव नाईक मराठवाडा कृषी विद्यापीठ -परभणी - ०२४५२ २२३ ००२ 
+",2025-05-11T19:01:17.17,2025,5
+MAHARASHTRA,338,Doc,MAHARASHTRA,JALNA,MANTHA,,HORTICULTURE,Condiments and Spices,Fenugreek,Cultural Practices,FARMER ASKED ABOUT SOWING TIME OF FENUGREEK?,मेथीची पेरणी करू शकता धन्यवाद.,2025-05-18T21:40:33.963,2025,5
+MAHARASHTRA,339,Doc,MAHARASHTRA,OSMANABAD,TULJAPUR,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT AGRISTACK APP?,हेल्पलाइन क्रमांक 02025712712,2025-05-04T18:12:42.283,2025,5
+MAHARASHTRA,340,Doc,MAHARASHTRA,OSMANABAD,BHOOM,,HORTICULTURE,Vegetables,Mushroom,Training and Exposure Visits,"FARMER ASKED ABOUT CONTACT NUMBER OF KRISHI VIGYAN KENDRA,OSMANABAD ?","संपर्क क्रमांक कृषी विज्ञान केंद्र , उस्मानाबाद :- ०२४७१- २४३२७५ .",2025-05-05T13:56:34.6,2025,5
+MAHARASHTRA,341,Doc,MAHARASHTRA,OSMANABAD,TULJAPUR,,HORTICULTURE,Vegetables,Cucumber,Nutrient Management,asked about nutrient management in cucumber,"13 00 45 ६० ग्रॅम + मायक्रोला ३० मिली / १५ लिटर पाण्यात घेऊन फवारणी करणे. 
+
+",2025-05-09T16:44:27.423,2025,5
+MAHARASHTRA,342,Doc,MAHARASHTRA,OSMANABAD,KALAMB,,HORTICULTURE,Vegetables,Cucumber,	Plant Protection	,Farmer asked about wilting in cucumber crop ?,काकडे पिकामध्ये मर होत असेल तर ब्ल्यू कॉपर 500 ग्रॅम एकरी ट्रीप द्वारे द्यावे धन्यवाद,2025-05-09T19:04:42.717,2025,5
+MAHARASHTRA,343,Doc,MAHARASHTRA,OSMANABAD,OSMANABAD,,HORTICULTURE,Vegetables,Mushroom,Training and Exposure Visits,Farmer asked Mushroom Project Training Information ?,"अळिंबी प्रकल्प विषयी अधिक  माहिती  साठी संपर्क साधा ,अळिंबी प्रकल्प कृषी महाविद्यालय पुणे ,संपर्क क्रमांक :-०२० २५५३७०३३ /०३८",2025-05-20T16:00:48.49,2025,5
+MAHARASHTRA,344,Doc,MAHARASHTRA,BULDANA,MALKAPUR,,HORTICULTURE,Vegetables,Bottle Gourd ,Fertilizer Use and Availability,farmer asked about flower drop of bottle gourd crop?,बोरॉन अर्धा 25 Gm +कॅल्शिअम नायट्रेट 25Gm /१५ लिटर पाण्यातून फवारणी करावी,2025-05-05T21:47:29.147,2025,5
+MAHARASHTRA,345,Doc,MAHARASHTRA,BULDANA,DEULGAON RAJA,,AGRICULTURE,Others,Others,Government Schemes,farmer asked query about maharashtra agri department toll free number?,"महाराष्ट्र शासन कृषी विभाग १८०० २३३ ४०००
+MAHADBT 020 25511479 .धन्यवाद.",2025-05-16T12:15:02.197,2025,5
+MAHARASHTRA,346,Doc,MAHARASHTRA,DHULE,SAKRI,,HORTICULTURE,Vegetables,Chillies,Nutrient Management,asked about nutrient for chilli crop ?,"मिरची पिकाला 12 61 ०० , चार किलो प्रति एकर खत ठिबक मधून द्या धन्यवाद",2025-05-22T17:42:36.58,2025,5
+MAHARASHTRA,347,Doc,MAHARASHTRA,NASIK,NASHIK,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about farmer id registration helpline number ?,शेतकरी आयडी नोंदणी हेल्पलाइन नंबर - 02025712712 /011233829,2025-05-05T18:13:22.787,2025,5
+MAHARASHTRA,348,Doc,MAHARASHTRA,NASIK,YEOLA,,HORTICULTURE,Vegetables,Tomato,Seeds and Planting Material,The farmer asked for information about the variety of tomato crop?,"नमस्कार, टोमॅटो लागवडीसाठी आपण सेमिनस विरांग, अभिनव, फुलेराजा, भाग्यश्री हे वाण लागणीसाठी निवडावे. धन्यवाद!",2025-05-22T08:33:59.31,2025,5
+MAHARASHTRA,349,Doc,MAHARASHTRA,KOLHAPUR,AJARA,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about farmer id helpline number ?,शेतकरी आयडी हेल्पलाइन नंबर -020-25712712 ,2025-05-15T16:50:04.88,2025,5
+MAHARASHTRA,350,Doc,MAHARASHTRA,AHMADNAGAR,AKOLE,,HORTICULTURE,Flowers,Chrysanthemum,Cultural Practices,farmer asked university number ?,"राहुरी, ता. राहुरी, जि. अहमदनगर 413 722. महाराष्ट्र. ०२४२६-२४३२६८.",2025-05-19T18:52:31.167,2025,5
+MAHARASHTRA,351,Doc,MAHARASHTRA,SOLAPUR,SOLAPUR NORTH,,AGRICULTURE,Oilseeds,Soybean (bhat),Crop Insurance,ASKED ABOUT CROP INSURANCE COMPANY CONTACT NUMBER ?,पिक विमा कंपनी संपर्क नंबर 14 447,2025-05-06T17:13:56.913,2025,5
+MAHARASHTRA,352,Doc,MAHARASHTRA,SOLAPUR,MALSHIRAS,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked about Agristack Farmer Id Registration Information ?,"अ‍ॅग्रीस्टॅक शेतकरी आयडी नोंदणी माहितीबद्दल -- महाराष्ट्र मदत केंद्र क्रमांक: ०२० २५७१२७१२, धन्यवाद",2025-05-13T19:27:41.787,2025,5
+MAHARASHTRA,353,Doc,MAHARASHTRA,SOLAPUR,KARMALA,,HORTICULTURE,Condiments and Spices,Turmeric,Fertilizer Use and Availability,Fertilizer Application  for growth  through drip ?,19:19:19-5 किलो +ह्यूमिक ऍसिड 500 ग्रॅम /२०० लिटर पाण्यातून ठिबक मधून सोडावे /किंवा पाटाच्या पानातून सोडणे ,2025-05-15T11:46:20.923,2025,5
+MAHARASHTRA,354,Doc,MAHARASHTRA,SOLAPUR,BARSHI,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Fertilizer Use and Availability,Farmer asked about the fertilizers dose for sugarcane?,"ऊस पिकाला चांगले उत्पादन मिळण्यासाठी खताचा डोस - युरिया, 10 26 26, पोटॅश, डीएपी आणि निबोळी पेंड खताचा एकत्र करून उसाला द्यावे धन्यवाद",2025-05-18T16:28:27.48,2025,5
+MAHARASHTRA,355,Doc,MAHARASHTRA,SOLAPUR,MADHA,,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),	Plant Protection	,Farmer asked about control of  Blight on Groundnut  crop ?,भुईमूंग पिकावरील करपा नियंत्रणासाठी =  कार्बेन्डाझिम ५०% WP १५ ग्रॅम / १५ लिटर पाण्यामध्ये घेऊन फवारणी  करावी ...,2025-05-20T16:24:04.13,2025,5
+MAHARASHTRA,356,Doc,MAHARASHTRA,SOLAPUR,PANDHARPUR,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Weed Management,asked about weed control in s.cane,"ऊस -तण नाशक - २ , ४ -डी (अमाईन सॉल्ट ५८ %) ४० मिली + सेन्कोर (मेट्रीब्युझीन ७० % WP) ३० ग्रॅम  /१५ लिटर पाण्यातून फवारावे  
+",2025-05-21T16:17:56.693,2025,5
+MAHARASHTRA,357,Doc,MAHARASHTRA,SOLAPUR,BARSHI,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Fertilizer Use and Availability,The farmer asked for information about the dosage of fertilizer for the sugarcane crop?,"नमस्कार, सात महिन्याच्या ऊस पिकाला खताचा डोस एकरी अमोनियम सल्फेट एक बॅग, MOP दोन बॅग, कॉम्बी (मायक्रोनुट्रीएंट)  25 किलो एकत्रित मिसळून द्यावे. धन्यवाद!",2025-05-22T12:48:21.867,2025,5
+MAHARASHTRA,358,Doc,MAHARASHTRA,SOLAPUR,BARSHI,,HORTICULTURE,Fruits,Lemon,	Plant Protection	,farmer asked about which insecticide spray taken in lemon crop for control  of nag alli ?,लिंबू पिकावर ती नागळीचा प्रादुर्भाव असल्यास लिंबू पिकाला बायो 303 हे कीटकनाशक फवारणी करावी धन्यवाद,2025-05-22T15:54:17.907,2025,5
+MAHARASHTRA,359,Doc,MAHARASHTRA,SATARA,KHANDALA,,AGRICULTURE,Others,Others,Government Schemes,Asked about Namo Shetkari Mahasamman Nidhi scheme installment not credit in bank account ?,किसान सन्मान निधी या योजनेची रक्कम जमा होत असेल तर नमो शेतकरी महासन्मान निधी योजनेची रक्कमआपल्या बँक खात्यात जमा होऊन जाईल,2025-05-04T21:30:09.93,2025,5
+MAHARASHTRA,360,Doc,MAHARASHTRA,AHMADNAGAR,SANGAMNER,,HORTICULTURE,Vegetables,Onion,Market Information,farmer asked about market rate on onion crop?,"शेतमाल : कांदा    जुन्नर -आळेफाटा	
+आवक-7237
+कमीत कमी दर--1000	
+जास्तीत जास्त दर-1610	
+सर्वसाधारण दर-1250",2025-05-13T16:34:49.853,2025,5
+MAHARASHTRA,361,Doc,MAHARASHTRA,SATARA,PHALTAN,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Varieties,FARMER ASKED ABOUT SUARCANE VARITYA?,"लागवडीचा हंगाम  -आडसाली : १५ जुलै ते १५ ऑगस्ट.
+फुले-२६५, को-८६०३२, को-९४०१२, को-९२००५, को-८०१४,",2025-05-08T11:52:17.827,2025,5
+MAHARASHTRA,362,Doc,MAHARASHTRA,SATARA,PHALTAN,,HORTICULTURE,Vegetables,Onion,"Post Harvest Management (Cleaning, Grading, Packaging, Food Processing, Cool Chain etc.)",Farmer asked for fungicide to use while storing onions?,"नमस्कार, कांदा साठवणूक करताना फॉलीडॉल पावडर 500 ग्रॅम प्रति टन कांद्यास वापरावी धन्यवाद.",2025-05-14T09:23:19.11,2025,5
+MAHARASHTRA,363,Doc,MAHARASHTRA,AHMADNAGAR,SHRIGONDA,,AGRICULTURE,Others,Others,Government Schemes,Asking about not getting installment of PM Kisan Samman Nidhi Yojana ?,प्रधानमंत्री  किसान  सन्मान  निधी  अधिक माहितीसाठी नजीकच्या कृषी अधिकारी  / तहसील कार्यालयाशी संपर्क साधावा किंवा पी एम किसान हेल्पलाइन नंबर 155261 / 011-24300606 Email : aead[at]nic[dot]in,2025-05-14T19:22:33.657,2025,5
+MAHARASHTRA,364,Doc,MAHARASHTRA,SANGLI,PALUS,,AGRICULTURE,Others,Others,Government Schemes,asked about pmkisan,"(Disclaimer: If you have linked your Aadhaar number to your bank account recently, please wait for 15 days for it to appear on the portal.
+
+",2025-05-06T17:28:23.213,2025,5
+MAHARASHTRA,365,Doc,MAHARASHTRA,SANGLI,ATPADI,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),	Plant Protection	,asked about stress retardant in s.cane,ऊस -  मरतूक व ताण  - कॅन बायोसिस चे ताबा -  २ मिली / लिटर फवारावे ,2025-05-16T16:34:28.49,2025,5
+MAHARASHTRA,366,Doc,MAHARASHTRA,LATUR,NILANGA,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT AGRICULTURE RELATED GOVERNMENT SCHEME INFORMATION ?,कृषी विभाग महाराष्ट्र शासन:- १८०० २३३ ४०००,2025-05-07T14:22:47.96,2025,5
+MAHARASHTRA,367,Doc,MAHARASHTRA,LATUR,DEONI,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT When will the next installment of Pradhan Mantri Kisan Samman Yojana be deposited? ,प्रधानमंत्री किसान सन्मान योजना चा विसावा हप्ता जुलै अखेर जमा होण्याची शक्यता आहे .,2025-05-09T17:43:58.657,2025,5
+MAHARASHTRA,368,Doc,MAHARASHTRA,LATUR,NILANGA,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked about PM Kisan Sanman Nidhi Yojana Installment not received ?,प्रधानमंत्री किसान सन्मान योजना चे स्टेटस चेक केले असता रेकॉर्ड नोट फाउंड असे दाखवत आहे,2025-05-14T13:54:19.467,2025,5
+MAHARASHTRA,369,Doc,MAHARASHTRA,LATUR,AUSA,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Weed Management,asked about weed management for sugarcane ?,"ऊस पिकामधील तन नियंत्रणासाठी टू फोर डी , दोन मिली  + सेन्कोर  दोन ग्रॅम प्रति लिटर पाण्यातून फवारणी करा धन्यवाद",2025-05-16T12:26:25.877,2025,5
+MAHARASHTRA,370,Doc,MAHARASHTRA,YEVATMAL,MAHAGAON,,HORTICULTURE,Vegetables,Others,Seeds and Planting Material,Farmer asked about the crop suitable to summer season?,"उन्हाळ्या हंगामामध्ये काकडी, वांगी, भेंडी, टोमॅटो  ही पिके आपण घेऊ शकता धन्यवाद शुभ दिवस",2025-05-01T15:45:08.803,2025,5
+MAHARASHTRA,371,Doc,MAHARASHTRA,YEVATMAL,MAREGAON,,AGRICULTURE,Pulses,Green Gram (Moong Bean/ Moong),Market Information,"farmer asked about market information of Green gram crop from Hinganghat market ?
+","मुग पिकाचे बाजार भाव हिंगणघाट बाजार समिती  १३/०५/२०२५
+कमीत कमी  ६१०० रुपये प्रति क्विंटल,
+जास्तीत जास्त  ६७८५ रुपये प्रति क्विंटल,
+सरासरी ६३०० रुपये  प्रति क्विंटल, 
+धन्यवाद..! ",2025-05-14T09:37:14.187,2025,5
+MAHARASHTRA,372,Doc,MAHARASHTRA,YEVATMAL,MAHAGAON,,HORTICULTURE,Vegetables,Bhindi(Okra/Ladysfinger),	Plant Protection	,Farmer asked about the attack caterpillar in okra?,भेंडी या पिकातील अळी नियंत्रणासाठी फवारणी- Daman Bio-R303 दमन बायो-R303 (Nitrogen containing fertilizer & insecticide) हे औषध २० ते ३० मिली प्रति १५ लिटर पाण्यामध्ये घेऊन फवारावे. ,2025-05-15T18:07:27.9,2025,5
+MAHARASHTRA,373,Doc,MAHARASHTRA,YEVATMAL,MAHAGAON,,HORTICULTURE,Vegetables,Pumpkin,Seeds and Planting Material,asked about seed rate of  pumpkin crop ?,भोपळा पिकाचे बियाणे  = दोन ते अडीच किलो प्रती हेक्टर,2025-05-18T13:32:32.51,2025,5
+MAHARASHTRA,374,Doc,MAHARASHTRA,YEVATMAL,YAVATMAL,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT FARMER ID REGESTRATION LINK?,https://mhfr.agristack.gov.in/farmer-registry-mh/#/,2025-05-21T11:09:14.353,2025,5
+MAHARASHTRA,375,Doc,MAHARASHTRA,AMRAVATI,TIWSA,,HORTICULTURE,Vegetables,Onion,Market Information,Farmer asked about Akola Onion Market rate ? ,"अकोला कांदा बाजार भाव- कमीत कमी- 500 रु/क्विंटल, जास्तीत जास्त- 1300 रु/ क्विंटल, सरासरी- 1000 रु/ क्विंटल.धन्यवाद",2025-05-15T18:37:28.137,2025,5
+MAHARASHTRA,376,Doc,MAHARASHTRA,AMRAVATI,ACHALPUR,,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),Market Information,The farmer asked the market price of the tur crop? ,"तूर बाजारभाव अमरावती  बाजार समिती :  कमीत ६७५० रु/क्विटल, जास्तीत जास्त ६९७० रु/क्विटल, सरासरी ६८६० रु/क्विटल आहेत. धन्यवाद!",2025-05-21T10:49:05.567,2025,5
+MAHARASHTRA,377,Doc,MAHARASHTRA,CHANDRAPUR,BHADRAWATI,,AGRICULTURE,Others,Others,Government Schemes,farmer asked anout crop insurance details ? ,प्रधान  मंत्री पिक विमा योजनेच्या निधी आहे जून पर्यंत येण्यास शक्यता आहे.,2025-05-05T19:40:49.397,2025,5
+MAHARASHTRA,378,Doc,MAHARASHTRA,NANDURBAR,SHAHADA,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Government Schemes,  Asked about PM Kisan Samman Nidhi Yojana    ,"प्रधानमंत्री किसान सम्मान निधि योजना  कृपया अधिक जानकारी के लिए नोडल अधिकारी (udaipur) उदयपुर MD, CCB ( Central Cooperative Bank ) महोदय लैंडलाइन 0294-2414853 ईमेल पता ccb.udaipur@gmail.com अथवा PM-Kisan Helpline No. 155261 / 011 24300606 संपर्क करें ",2025-05-21T12:08:13.44,2025,5
+MAHARASHTRA,379,Doc,MAHARASHTRA,GADCHIROLI,ARMORI,,AGRICULTURE,Cereals,Paddy (Dhan),Market Information,Farmer asked about Armori Paddy Market rate ? ,"आरमोरी धान बाजार भाव- कमीत कमी- 2400 रु/क्विंटल, जास्तीत जास्त- 2890 रु/ क्विंटल, सरासरी- 2600 रु/ क्विंटल.धन्यवाद",2025-05-16T19:50:35.693,2025,5
+MAHARASHTRA,380,Doc,MAHARASHTRA,WARDHA,DEOLI,,AGRICULTURE,Pulses,Bengal Gram (Gram/Chick Pea/Kabuli/Chana),Market Information,Farmer asked about market rate of Gram  in Amaravati Market ?,"अमरावती  हरभरा बाजार भाव- कमीत कमी- 5400 रु/क्विंटल, जास्तीत जास्त- 5550  रु/ क्विंटल, सरासरी- 5400 रु/ क्विंटल.धन्यवाद",2025-05-08T21:29:04.907,2025,5
+MAHARASHTRA,381,Doc,MAHARASHTRA,WARDHA,ARVI,,AGRICULTURE,Oilseeds,Soybean (bhat),Market Information,asked about Agricultural Produce Market Committee Amravati Soybean Market Price,09/05/2025  कृषी उत्पन्न बाजार समिती अमरावती सोयाबीन बाजार भाव 4100 - 4300 रुपये प्रति क्विंटल,2025-05-09T19:04:27.203,2025,5
+MAHARASHTRA,382,Doc,MAHARASHTRA,HINGOLI,AUNDHA  NAGNATH,,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),Varieties,Farmer asked about the early maturity variety of tur?,"तूर पिकाच्या लवकर येणाऱ्या जाती-  टी टी 41, जवाहर तूर 189, पुसा 2002,  आयपीए 2003 यापैकी कोणत्याही एका जातीचे आपण लागवड करू शकता धन्यवाद",2025-05-06T21:12:54.04,2025,5
+MAHARASHTRA,383,Doc,MAHARASHTRA,HINGOLI,KALAMNURI,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Fertilizer Use and Availability,Farmer asked about the fertilizer dose for sugarcane?,"ऊस पिकाचे वाढ होण्यासाठी- युरिया 50 किलो, १०:२६:२६- ५० किलो, सिंगल सुपर फॉस्फेट- ५० किलो, डीएपी- 30 किलो प्रति एकर याप्रमाणे खत द्यावे धन्यवाद शुभ दिवस",2025-05-17T18:45:38.78,2025,5
+MAHARASHTRA,384,Doc,MAHARASHTRA,THANE,BHIWANDI,,AGRICULTURE,Others,Others,Seeds,Farmer asked about mulberry plants source information ?,"1)Adress: 124, JP Rd, Aram Nagar Part 2, Jeet Nagar, Versova, Andheri West, Mumbai, Maharashtra 400061
+Phone: 077100 14845
+2)Address: Happy Home, 11D, Hill Rd, near Benmarg Housing Society, Old Rajaram Wadi, Ranwar, Bandra West, Mumbai, Maharashtra 400050
+Hours: 
+Open ⋅ Closes 8 pm
+Phone: 093232 38569
+",2025-05-22T10:35:25.613,2025,5
+MAHARASHTRA,385,Doc,MAHARASHTRA,WASHIM,MALEGAON,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked about Contact Number of Pradhan Mantri crop insurance Scheme ? ,प्रधानमंत्री पीक विमा योजना -टोल फ्री नंबर 14447 या नंबर वर  संपर्क साधावा.,2025-05-04T09:24:04.35,2025,5
+MAHARASHTRA,386,Doc,MAHARASHTRA,WASHIM,MALEGAON,,AGRICULTURE,Pulses,Green Gram (Moong Bean/ Moong),Market Information,Farmer asked about Market rate of Moog in Washim Market  ? ,"मुग वाशिम बाजार भाव- कमीत कमी - 6000 रु/क्विंटल, जास्तीत जास्त - 7490 रु/ क्विंटल, सरासरी - 6900 रु/ क्विंटल.धन्यवाद",2025-05-12T18:43:48.137,2025,5
+MAHARASHTRA,387,Doc,MAHARASHTRA,WASHIM,KARANJA,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Sowing Time and Weather,asked about sowing time of cotton crop ?, कापूस पेरणे 25 मे नंतर वापसा आल्यानंतर करू शकता धन्यवाद,2025-05-22T17:20:22.31,2025,5
+MAHARASHTRA,388,Doc,MAHARASHTRA,WASHIM,KARANJA,,AGRICULTURE,Oilseeds,Soybean (bhat),Sowing Time and Weather,asked about sowing time of soybean crop ?,सोयाबीन पिकाची लागवड 15 जून नंतर करू शकता धन्यवाद,2025-05-22T17:21:57.89,2025,5
+MAHARASHTRA,389,Doc,MAHARASHTRA,PARBHANI,JINTUR,,AGRICULTURE,Others,Others,Government Schemes,Asking about not getting installment of Namo Kisan Samman Nidhi Yojana ?,प्रधानमंत्री  किसान  सन्मान  निधी  अधिक माहितीसाठी नजीकच्या कृषी अधिकारी  / तहसील कार्यालयाशी संपर्क साधावा किंवा पी एम किसान हेल्पलाइन नंबर 155261 / 011-24300606 Email : aead[at]nic[dot]in,2025-05-07T15:56:24.623,2025,5
+MAHARASHTRA,390,Doc,MAHARASHTRA,PARBHANI,MANWAT,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Varieties,FARMER ASKED DIFFERENT VARIETIES OF COTTON ? ,"कापूस पिकाच्या जाती -Aieet 155 BGIISP/RIB , अजित L52 BGll , अंकुर 651BGI, अंकुर-257 BG-ll , कॉटन MRC-7326 BG-II , RCH - 2 BGII 
+, RCH .515 BGII",2025-05-15T11:01:17.117,2025,5
+MAHARASHTRA,391,Doc,MAHARASHTRA,BEED,KAIJ,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about solar pump yojana helpline number ?,सौर पंप योजना हेल्पलाइन नंबर -18002123435 /18002333435,2025-05-04T21:33:54.65,2025,5
+MAHARASHTRA,392,Doc,MAHARASHTRA,BEED,ASHTI,,HORTICULTURE,Vegetables,Onion,Market Information,asked about Agricultural Produce Market Committee Pune Onion Market Price,05/05/2025  कृषी उत्पन्न बाजार समिती पुणे कांदा बाजार भाव 500 - 1500 रुपये प्रति क्विंटल,2025-05-05T15:44:39.287,2025,5
+MAHARASHTRA,393,Doc,MAHARASHTRA,BEED,GEORAI,,HORTICULTURE,Fruits,Mango,Training and Exposure Visits,"FARMER ASKED ABOUT Krishi Vigyan Kendra, Ambajogai Phone ?","कृषी विज्ञान केंद्र, अंबाजोगाई फोन : ०९८८१२ २४७३५",2025-05-07T21:04:42.937,2025,5
+MAHARASHTRA,394,Doc,MAHARASHTRA,BEED,GEORAI,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Nutrient Management,Asking about nutrient for sugarcane ?,ऊस पिकाचा फुटवा करण्यासाठी - 19 19 19  ६० ग्रॅम + मायक्रोला 40 मिली + ह्युमिक ऍसिड ३० ग्रॅम/ १५ लिटर पाण्यात घेऊन फवारणी करणे ,2025-05-13T18:40:54.067,2025,5
+MAHARASHTRA,395,Doc,MAHARASHTRA,BEED,KAIJ,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Varieties,"FARMER ASKED ABOUT VARIETIES OF SUGARCANE ?
+",ऊस -जाती - को -८६०३२ को -१०००१ फुले २६५ को -०३१०२ को-९४०१२ ,2025-05-15T15:26:59.897,2025,5
+MAHARASHTRA,396,Doc,MAHARASHTRA,BEED,BEED,,HORTICULTURE,Vegetables,Onion,Seeds and Planting Material,asked about variety of onion crop ?,कांदा वान - बसवंत 780,2025-05-17T21:17:43.667,2025,5
+MAHARASHTRA,397,Doc,MAHARASHTRA,BEED,MAJALGAON,,AGRICULTURE,Others,Others,Government Schemes,asked about pmkisan,You have not completed Ekyc. Please complete the Ekyc process.,2025-05-18T08:04:20.103,2025,5
+MAHARASHTRA,398,Doc,MAHARASHTRA,BEED,SHIRUR ( KA ),,AGRICULTURE,Others,Others,Government Schemes,ASKED ABOUT KISAN SANMAN NIDHI CONTACT NUMBER   ?,किसान सन्मान निधी संपर्क क्रमांक 155261,2025-05-20T14:37:04.91,2025,5
+MAHARASHTRA,399,Doc,MAHARASHTRA,BEED,ASHTI,,AGRICULTURE,Others,Others,Government Schemes,asked about agristack contact number ?,अ‍ॅग्रीस्टॅक संपर्क क्रमांक - ०२० २५ ७१२ ७१२,2025-05-22T14:56:41.61,2025,5
+MAHARASHTRA,400,Doc,MAHARASHTRA,PUNE,PURANDAR,,AGRICULTURE,Others,Others,Government Schemes,"Mahatma Phule Krishi Vidyapeeth-rahuri,Ahmednagar contact details?",महात्मा फुले कृषी विद्यापीठ राहुरी अहमदनर -०२४२६  २४३३७३ /02426 243 215,2025-05-05T14:58:36.78,2025,5
+MAHARASHTRA,401,Doc,MAHARASHTRA,PUNE,AMBEGAON,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Fertilizer Use and Availability,FARMER ASKED ABOUT FERTILIZER DOSE FOR SUGARCANE CROP ?,ऊस पिकाच्या वाढीसाठी 13:40:13 -पाच किलो व चिलेटेड मायक्रोन्युट्रिएंट  प्रति एकरी पाच किलो द्या धन्यवाद,2025-05-09T14:03:25.067,2025,5
+MAHARASHTRA,402,Doc,MAHARASHTRA,PUNE,BHOR,,HORTICULTURE,Vegetables,Curry Leaf,Agriculture Mechanization,farmer asked about curry leaf variety ?,"कढीपत्त्याच्या जाती :- सेनकांपा,डीडब्ल्यूडी-1 डीडब्ल्यूडी -2",2025-05-11T15:44:48.117,2025,5
+MAHARASHTRA,403,Doc,MAHARASHTRA,PUNE,BHOR,,AGRICULTURE,Others,Others,Agriculture Mechanization,Farmer Asked About Mahatma Phule Krishi Vidyapeeth Rahuri ?,"महात्मा फुले कृषी विद्यापीठ राहुरी संपर्क नंबर -02426 243 215 ,02426-243345,243279,243051",2025-05-11T15:49:51.117,2025,5
+MAHARASHTRA,404,Doc,MAHARASHTRA,PUNE,HAVELI,,AGRICULTURE,Others,Others,Government Schemes,The farmer asked for information about the Farmer ID?,"फार्मर आयडीबाबत अधिक माहितीसाठी पुढील क्रमांकावर संपर्क साधावा .
+
+०२० २५७१२७१२
+
+धन्यवाद..",2025-05-11T21:09:58.473,2025,5
+MAHARASHTRA,405,Doc,MAHARASHTRA,PUNE,PUNE CITY,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT HELPLINE NUMBER OF FARMER ID REGISTRATION?,शेतकरी ओळखपत्र नोंदणीसाठी हेल्पलाइन क्रमांक - 020-25712712. धन्यवाद!  ,2025-05-22T13:12:58.577,2025,5
+MAHARASHTRA,406,Doc,MAHARASHTRA,JALGAON,BHUSAWAL,,HORTICULTURE,Fruits,Mango,	Plant Protection	,FARMER ASKED ABOUT Attack of Stem Borer OF MANGO ? ,खोड कीड हमला ५५० 30 मिली / 15 लिटर पाण्यात मिसळून फवारणी करावी.,2025-05-14T10:33:48.49,2025,5
+MAHARASHTRA,407,Doc,MAHARASHTRA,JALGAON,JALGAON,,HORTICULTURE,Vegetables,Tomato,Seeds and Planting Material,Farmer asked about sowing time of tomato crop?,टोमॅटो पिकाची लागवड हंगाम : खरीप हंगामासाठी मे-जुन करू शकता ..,2025-05-19T13:30:47.43,2025,5
+MAHARASHTRA,408,Doc,MAHARASHTRA,JALGAON,DHARANGAON,,AGRICULTURE,Others,Others,Government Schemes,Farmers asked about crop insurance Kharif 2025 date has started?,"शेतकरी साहेब, पिक विमा खरीप  २०२५ अर्ज करण्याची तारीख अजून सुरू झालेली नाही .धन्यवाद...",2025-05-21T09:30:21.617,2025,5
+MAHARASHTRA,409,Doc,MAHARASHTRA,AHMADNAGAR,SANGAMNER,,HORTICULTURE,Vegetables,Onion,Market Information,Farmer asked query on Mandi details,कांदा बाजारभाव धुळे  - कमीत कमी -900  जास्तीत जास्त -1530  सरासरी -1250 प्रति क्विंटल	,2025-05-04T13:19:37.903,2025,5
+MAHARASHTRA,410,Doc,MAHARASHTRA,AHMADNAGAR,SANGAMNER,,AGRICULTURE,Millets,Maize (Makka),Weather,Farmer asked query on Weather,"Answer inspired 
+Hover to view link
+INDIA METEOROLOGICAL DEPARTMENT (IMD)
+Here is the weather forecast for Sangamner, Ahmadnagar, Maharashtra:
+
+- Wednesday, 2025-05-07:
+- Max Temperature: 39.0°C
+- Min Temperature: 20.0°C
+- Wind Speed: 19.0 kmph
+- Cloud Cover: Clear Skies
+- Max Humidity: 63.0%
+- Min Humidity: 16.0%
+
+- Thursday, 2025-05-08:
+- Max Temperature: 38.0°C
+- Min Temperature: 20.0°C
+- Wind Speed: 20.0 kmph
+- Cloud Cover: Clear Skies
+- Max Humidity: 72.0%
+- Min Humidity: 16.0%
+
+- Friday, 2025-05-09:
+- Max Temperature: 38.0°C
+- Min Temperature: 20.0°C
+- Wind Speed: 22.0 kmph
+- Cloud Cover: Clear Skies
+- Max Humidity: 71.0%
+- Min Humidity: 16.0%
+
+- Saturday, 2025-05-10:
+- Max Temperature: 36.0°C
+- Min Temperature: 19.0°C
+- Wind Speed: 15.0 kmph
+- Cloud Cover: Clear Skies
+- Max Humidity: 55.0%
+- Min Humidity: 23.0%
+
+- Sunday, 2025-05-11:
+- Max Temperature: 36.0°C
+- Min Temperature: 21.0°C
+- Wind Speed: 16.0 kmph
+- Cloud Cover: Partly Cloudy Skies
+- Max Humidity: 63.0%
+- Min Humidity: 20.0%
+
+- Average Stats:
+- Max Temperature: 37.4°C
+- Min Temperature: 20.0°C
+- Wind Speed: 18.4 kmph
+- Max Humidity: 64.8%
+- Min Humidity: 18.2%
+
+  Summarize
+Translated to marathi
+संगमनेर, अहमदनगर, महाराष्ट्रासाठी हवामानाचा अंदाज असा आहेः-बुधवार, 2025-05-07:-कमाल तापमानः 39° से.-किमान तापमानः 20° से.-वाऱ्याचा वेगः 19° से.-ढगांचे आच्छादनः स्वच्छ आकाश-कमाल आर्द्रताः 63.0%-किमान आर्द्रताः 16.0%-गुरुवार, <आयडी6:-कमाल तापमानः 38° से.-किमान तापमानः 20° से.-वाऱ्याचा वेगः 20° से.-ढगांचे आच्छादनः स्वच्छ आकाश-कमाल आर्द्रताः 72.0%-किमान आर्द्रताः 16.0%-शुक्रवार, 2025-05-09:-कमाल तापमानः 38° से.-किमान या हवामान अंदाजानुसार मका पिकाच्या काढणीनंतरचे नियोजन करावे. धन्यवाद....!",2025-05-06T08:56:07.647,2025,5
+MAHARASHTRA,411,Doc,MAHARASHTRA,AHMADNAGAR,SHRIRAMPUR,,AGRICULTURE,Others,Others,Agriculture Mechanization,farmer asked about Maharashtra State Agricultural Marketing Board contact number ?,"महाराष्ट्र राज्य कृषि पणन मंडळ प्लॉट नं.आर-7, मार्केट यार्ड, गुलटेकडी, पुणे – 411 037. 020 24528100 ,
+020 24528200 ,020 24528299
+
+ ",2025-05-11T18:34:16.91,2025,5
+MAHARASHTRA,412,Doc,MAHARASHTRA,AHMADNAGAR,SHEVGAON,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Cultural Practices,farmer asked about information of cotton sowing period?,"शेतकरी साहेब, कपाशी पिकामध्ये  लागवडीची वेळ : (बागायती २० ते ३० मे), (कोरडवाहु १५ ते ३० जून)करावे. धन्यवाद..!",2025-05-12T16:47:08.71,2025,5
+MAHARASHTRA,413,Doc,MAHARASHTRA,AHMADNAGAR,SHRIGONDA,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Fertilizer Use and Availability, FARMER ASKED ABOUT FERTILIZER SPREY FOR GROWTH OF SUGARCANE  ?,ऊस पिकासाठी फवारणी  - 12 61 00 60 ग्रॅम + मायक्रोला ३० मिली  / १५ लिटर पाण्यामध्ये घेऊन फवारणी करावी.,2025-05-13T21:05:45.403,2025,5
+MAHARASHTRA,414,Doc,MAHARASHTRA,AHMADNAGAR,NAGAR,,AGRICULTURE,Oilseeds,Soybean (bhat),Sowing Time and Weather,asked about sowing time of soybean crop ?,सोयाबीन पिकाची पेरणी दहा जून नंतर करू शकता,2025-05-14T17:09:48.56,2025,5
+MAHARASHTRA,415,Doc,MAHARASHTRA,SATARA,KARAD,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked about contact number of Jio mart tollfree number?," जिओ मार्ट टोल फ्री क्रमांक 70003 70003,1800 890 1222 या क्रमांकावर संपर्क करावा धन्यवाद",2025-05-17T16:13:43.23,2025,5
+MAHARASHTRA,416,Doc,MAHARASHTRA,AKOLA,TELHARA,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT  CONTACT NUMBER OF FARMER ID?,हेल्पलाइन क्रमांक 020 25 712712,2025-05-08T17:46:58.47,2025,5
+MAHARASHTRA,417,Doc,MAHARASHTRA,AKOLA,BARSHITAKLI,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT FARMER ID HELPLINE NUMBER ?,शेतकरी आयडी हेल्पलाइन नंबर -020-25712712,2025-05-09T14:51:29.103,2025,5
+MAHARASHTRA,418,Doc,MAHARASHTRA,AKOLA,PATUR,,AGRICULTURE,Pulses,Bengal Gram (Gram/Chick Pea/Kabuli/Chana),Market Information,The farmer asked for information about the market price of gram crop?,"नमस्कार, हरभरा पिकाचे बाजार भाव प्रतिक्विंटल साठी अकोला बाजार समिती  
+कमीत कमी ५२०० रुपये प्रतिक्विंटल 
+जास्तीत जास्त ५७५० रुपये प्रतिक्विंटल 
+सरासरी ५७०० रुपये प्रतिक्विंटल धन्यवाद!",2025-05-10T18:50:29.31,2025,5
+MAHARASHTRA,419,Doc,MAHARASHTRA,AKOLA,AKOLA,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about contact number of maharashatra state electricity board ,महाराष्ट्र राज्य विद्युत वितरण कंपनी संपर्क क्रमांक खालील प्रमाणे 1912 / 19120 / 1800-212-3435 / 1800-233-3435.,2025-05-11T08:26:24.3,2025,5
+MAHARASHTRA,420,Doc,MAHARASHTRA,AKOLA,BARSHITAKLI,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED INFORMATION ABOUT FARMER ID CARD ?,"किसान आईडी कार्ड सेंट्रल आईडी नंबर-55915257879.धन्यवाद..!
+",2025-05-17T17:59:07.68,2025,5
+MAHARASHTRA,421,Doc,MAHARASHTRA,AKOLA,PATUR,,AGRICULTURE,Oilseeds,Sesame (Gingelly/Til)/Sesamum,Market Information,Farmer Asked About Market prices in Akola Market Committee ?,"अकोला बाजार समितीतील बाजार भाव =कमीत कमी 8100 रुपये 
+जास्तीत जास्त 8800 रुपये 
+सरासरी बाजारभाव 8200 रुपये धन्यवाद !
+",2025-05-20T16:12:13.11,2025,5
+MAHARASHTRA,422,Doc,MAHARASHTRA,AKOLA,MURTIJAPUR,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about information of Kisan Sanman Nidhi scheme ,प्रधानमंत्री किसान सन्मान योजना अंतर्गत आपल्या खात्याची मंजुरी अजून मिळाली नसेल तर प्रतीक्षा करावी लागेल ,2025-05-21T10:33:31.51,2025,5
+MAHARASHTRA,423,Doc,MAHARASHTRA,AKOLA,BALAPUR,,AGRICULTURE,Oilseeds,Soybean (bhat),Varieties,Farmer asked about the best variety of soybean?,"सोयाबीन -जाती  जे एस -३३५ ,डीएस २२८(फुले कल्याणी), जे.एस.९३०५ ,एमएयूएस ७१ (समृद्धी ) फुले अग्रणी ,विक्रांत .",2025-05-21T17:46:09.61,2025,5
+MAHARASHTRA,424,Doc,MAHARASHTRA,AKOLA,BALAPUR,,AGRICULTURE,Pulses,Bengal Gram (Gram/Chick Pea/Kabuli/Chana),Market Information,Asked for Gram market price?,अकोला कृषी उत्पन्न बाजार समितीमधील हरभऱ्याचे बाजार भाव 4500 ते 5700 रुपये प्रति क्विंटल आहेत,2025-05-08T17:29:37.45,2025,5
+MAHARASHTRA,425,Doc,MAHARASHTRA,AKOLA,AKOT,,HORTICULTURE,Fruits,Orange,Cultural Practices,Farmer Asked About contact National Research Center for Citrus(NRCC)-Nagpur ?,"राष्ट्रीय लिंबूवर्गीय संशोधन केंद्र (NRCC)-नागपूर - (0712)2500249,2500615 ",2025-05-15T19:09:25.897,2025,5
+MAHARASHTRA,426,Doc,MAHARASHTRA,JALGAON,PAROLA,,HORTICULTURE,Vegetables,Brinjal,Nutrient Management,Farmer asked about Drip fertilizer for Brinjal crop growth ?,"वांगी पिकाच्या वाढीसाठी - -19:19:19 - 02  किलो + सुक्ष्म अन्नद्रव्ये - 500 मिली 200 लिटर पाण्यातून ठिबक मधून सोडावे, धन्यवाद",2025-05-02T18:50:17.407,2025,5
+MAHARASHTRA,427,Doc,MAHARASHTRA,JALGAON,PACHORA,,ANIMAL HUSBANDRY,Animal,Buffel Grass (Anjan Grass),Animal Nutrition,Farmers asked about solutions to wet animal fodder ?,"महोदय जनावरांच्या चारी विषय अधिक माहितीसाठी -पशुसंवर्धन आणि दुग्धशास्त्र विभाग, डॉ. BSKKV, दापोली. : ०२३५८-२८२४१५. ",2025-05-07T10:19:50.52,2025,5
+MAHARASHTRA,428,Doc,MAHARASHTRA,JALGAON,BHADGAON,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about farmer id regisration ? ,प्रधानमंत्री किसान सन्मान निधीचे स्टेटस चेक केले असता रेकॉर्ड नोट फाउंड असे दाखवत आहे.,2025-05-15T13:38:10.257,2025,5
+MAHARASHTRA,429,Doc,MAHARASHTRA,JALGAON,DHARANGAON,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Sowing Time and Weather,asked about sowing time of cotton crop ?,कापूस पिकाची पेरणी मे महिन्याच्या शेवटच्या आठवड्यापासून लागवड चालू करावे,2025-05-18T15:28:30.07,2025,5
+MAHARASHTRA,430,Doc,MAHARASHTRA,AHMADNAGAR,SANGAMNER,,HORTICULTURE,Vegetables,Onion,Market Information,asked about Agricultural Produce Market Committee Pune Onion Market Price,06/05/2025  कृषी उत्पन्न बाजार समिती पुणे कांदा बाजार भाव 400 - 1500 रुपये प्रति क्विंटल.,2025-05-06T17:04:21.45,2025,5
+MAHARASHTRA,431,Doc,MAHARASHTRA,AHMADNAGAR,KOPARGAON,,AGRICULTURE,Cereals,Wheat,Agriculture Mechanization, Farmer asked how long he could use the wheat for food after harvesting?,"गहू काढणी केल्यानंतर, योग्य साठवणुकीच्या पद्धती वापरल्यास, ते 8 ते 12 वर्षांपर्यंत खाण्यासाठी वापरले जाऊ शकते. ",2025-05-07T11:30:01.99,2025,5
+MAHARASHTRA,432,Doc,MAHARASHTRA,AHMADNAGAR,0   ,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked for information regarding Farmer ID registration?,"ॲग्री स्टॅक  अधिक माहितीसाठी पुढील क्रमांकावर संपर्क साधावा.
+
+020 25712712
+
+धन्यवाद...",2025-05-12T10:27:11.683,2025,5
+MAHARASHTRA,433,Doc,MAHARASHTRA,AHMADNAGAR,SHEVGAON,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Fertilizer Use and Availability,farmer asked about fertilizer dose for sugarcane?,ऊस खत व्यवस्थापन -10:26:26 - 100 किलो + युरिया 100 किलो + अमोनिअम सल्फेट 50 किलो + मॅग्नेशियम सल्फेट 10 किलो +  निंबोळी पेंड 100 किलो हे प्रति एकरी टाकावे. धन्यवाद..!,2025-05-12T11:22:24.413,2025,5
+MAHARASHTRA,434,Doc,MAHARASHTRA,AHMADNAGAR,SHRIGONDA,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Fertilizer Use and Availability, FARMER ASKED ABOUT FERTILIZER DOSE FOR SUGARCANE ?,ऊस पिकासाठी खतमात्रा - १० २६ २६ - १ बॅग  + डीएपी  १ बॅग एकरासाठी द्यावे धन्यवाद,2025-05-13T21:09:48.427,2025,5
+MAHARASHTRA,435,Doc,MAHARASHTRA,AHMADNAGAR,SANGAMNER,,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),Fertilizer Use and Availability,asked about excessive vegetative growth in g.nut,भुईमूग - अतिरिक्त वाढ रोखण्यासाठी -  ०  ५२  ३४  =  ८० ग्राम / १५ लिटर पाणी फवारावे ,2025-05-14T15:32:28.167,2025,5
+MAHARASHTRA,436,Doc,MAHARASHTRA,AHMADNAGAR,SANGAMNER,,HORTICULTURE,Vegetables,Onion,Market Information,Farmer asked query on Mandi details,राहुरी कांदा बाजारभाव  - कमीत कमी -100  जास्तीत जास्त -1500  सरासरी -800 प्रति क्विंटल	,2025-05-19T10:14:57.753,2025,5
+MAHARASHTRA,437,Doc,MAHARASHTRA,SATARA,KHANDALA,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),	Water Management	,asked about water management in sugarcane crop ?,ऊस पिकातील पाणी नियोजनासाठी जास्त भरून पाणी न देता वाफसा अवस्थेमध्ये पिकास पाणी द्यावे धन्यवाद,2025-05-01T18:48:45.227,2025,5
+MAHARASHTRA,438,Doc,MAHARASHTRA,SATARA,KARAD,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked about Agristack ? ,अ‍ॅग्री स्टॅकचा टोल फ्री क्रमांक ::02025712712 ,2025-05-06T12:42:27.873,2025,5
+MAHARASHTRA,439,Doc,MAHARASHTRA,SATARA,KHATAV,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Fertilizer Use and Availability,	FERTILIZER DOSE FOR SUGARCANE RATOON SUGARCANE ?,	खोडवा ऊस -खते -युरिया १०८ किलो +सिंगल सुपर फॉस्फेट १५० किलो +म्युरेट ऑफ पोटॅश ४० किलो /एकर द्यावे  ,2025-05-12T16:04:18.903,2025,5
+MAHARASHTRA,440,Doc,MAHARASHTRA,SATARA,PHALTAN,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Nutrient Management,ASKED ABOUT NUTRIENT FOR SUGARCANE CROP ?,खोडवा ऊस पिकावर एनपीके आणि सूक्ष्म अन्नद्रव्य एकत्रित फवारणी करू शकता धन्यवाद,2025-05-14T18:54:17.7,2025,5
+MAHARASHTRA,441,Doc,MAHARASHTRA,SOLAPUR,BARSHI,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),	Plant Protection	,FARMER ASKED ABOUT USE OF NUTRIENT APPLICATION THROUGH DRIP FOR GROWTH & MORE BRANCHING IN SUGARCANE CROP ?,5 kg Agriculture Bio Mixer+ मायक्रोनुट्रीएंट १० किलो या सर्व खतांचे योग्य मिश्रण करून प्रति एकरी द्यावे. ,2025-05-01T14:04:12.457,2025,5
+MAHARASHTRA,442,Doc,MAHARASHTRA,SOLAPUR,SANGOLA,,AGRICULTURE,Others,Others,Government Schemes,Farmer asking about installment of Namo Kisan Samman Nidhi Yojana ?,--नमकिसन सन्मान योजना चे आपल्याला हप्ता भेटत नसल्यास आपल्या कृषी विभागाशी संपर्क करावा धन्यवाद,2025-05-02T21:57:23.73,2025,5
+MAHARASHTRA,443,Doc,MAHARASHTRA,SOLAPUR,MALSHIRAS,,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),Nutrient Management,Asked about spraying for  increasing flowering in Groundnut ?,"भुईमूग फुलधारणेसाठी - टाटा बहार (नायट्रोबेंझीन २० %) ४०० मिली/२०० लिटर पाण्यामध्ये घेऊन फवारणी करावी, धन्यवाद.",2025-05-03T13:01:39.28,2025,5
+MAHARASHTRA,444,Doc,MAHARASHTRA,SOLAPUR,SOLAPUR NORTH,,AGRICULTURE,Oilseeds,Soybean (bhat),Crop Insurance,"Farmer asked about not receiving PMFBY 2024, Soybean crop insurance claim benefit ?
+","प्रधानमंत्री फसल बीमा योजना 2024, सोयाबीन संदर्भात अधिक माहितीसाठी कृषी रक्षक पोर्टल - 14447 या नंबर वर संपर्क साधावा, धन्यवाद",2025-05-06T20:31:37.363,2025,5
+MAHARASHTRA,445,Doc,MAHARASHTRA,SOLAPUR,MOHOL,,AGRICULTURE,Millets,Maize (Makka),Market Information,asked about sweet corn buyers pune,"Samarth Crop Care Hadapsar, Pune  9035274431
+
+Himir Agro Food Pvt Ltd  Camp, Pune
+07383647381",2025-05-06T20:38:06.6,2025,5
+MAHARASHTRA,446,Doc,MAHARASHTRA,SOLAPUR,MOHOL,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT APP FOR  AGRICULTURE SPRAY TIME TABLE ?,भारत ॲग्री ॲप संपर्क क्रमांक- 090759 07522,2025-05-09T15:16:58.383,2025,5
+MAHARASHTRA,447,Doc,MAHARASHTRA,SOLAPUR,KARMALA,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Cultural Practices,FARMER ASKED ABOUT PLANT TO PLANT DISTANCE OF SUGARCANE?,ऊस पिकाच्या लागवडीसाठी दोन रोपांमधील अंतर 45 ते 60 सेंटिमीटर ठेवावे धन्यवाद,2025-05-12T09:26:56.72,2025,5
+MAHARASHTRA,448,Doc,MAHARASHTRA,SOLAPUR,MADHA,,AGRICULTURE,Others,Others,Crop Insurance,"Farmer asked Crop loss  and crop insurance information ?
+","पीक नुकसानीबाबत आणि पिक विमा संबंधित माहितीसाठी आपल्या
+14447 संपर्क साधा,
+",2025-05-12T12:26:13.91,2025,5
+MAHARASHTRA,449,Doc,MAHARASHTRA,SOLAPUR,KARMALA,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Fertilizer Use and Availability,Farmer asked about the fertilizer dose for increase the growth in sugarcane ?,"ऊस या पिकाची चांगली वाढ होण्यासाठी- युरिया- 60 किलो, 10 :26: 26- 30 किलो आणि डीएपी-  30 किलो प्रति एकर याप्रमाणे आपण  रासायनिक खताचा डोस घेऊ शकता धन्यवाद शुभ दिवस",2025-05-12T18:43:41.62,2025,5
+MAHARASHTRA,450,Doc,MAHARASHTRA,SOLAPUR,BARSHI,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Weed Management,WEED MANAGEMENT IN SUGARCANE ?,ऊस -तण नाशक - त्रिशुक 1200 ग्रॅम 200 लिटर पाण्यासाठी घेऊन फवारणी करावी धन्यवाद,2025-05-13T08:18:19.477,2025,5
+MAHARASHTRA,451,Doc,MAHARASHTRA,SOLAPUR,MADHA,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Fertilizer Use and Availability,FARMER ASKED ABOUT USE OF NUTRIENT APPLICATION THROUGH SPRAY FOR INCREASING SIZE & QUALITY OF POD/FRUIT IN CROP ?,00:00:50 3 किलो प्रति २०० लिटर पाण्यातून ठिबक किंवा पाट पाण्यातून एका एकरासाठी सोडावे. धन्यवाद..!,2025-05-15T12:14:06.253,2025,5
+MAHARASHTRA,452,Doc,MAHARASHTRA,SOLAPUR,SANGOLA,,AGRICULTURE,Millets,Pearl Millet (Bajra/Bulrush Millet/Spiked Millet),Sowing Time and Weather,asked about variety of bajara crop ?,"बाजरी वान -  श्रद्धा , सबुरी .",2025-05-16T12:46:45.913,2025,5
+MAHARASHTRA,453,Doc,MAHARASHTRA,SOLAPUR,MADHA,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Fertilizer Use and Availability,FARMER ASKED ABOUT FERTILIZER DOSE FOR SUGARCANE CROP  ?,ऊस - खते -१० २६ २६ २ बॅग्स + युरिया २ बॅग्स + सूक्ष्म अन्न द्रव्ये १० किलो + ह्यूमिक ऍसिड ५ किलो + निंबोळी पेंड ४० किलो / एकर टाकावे  ,2025-05-20T12:48:06.867,2025,5
+MAHARASHTRA,454,Doc,MAHARASHTRA,SOLAPUR,SANGOLA,,AGRICULTURE,Millets,Maize (Makka),Government Schemes,Farmer asked about fertilizer management in maize crop ?,"मका पिकामध्ये पेरणी करताना डी ए पी , युरिया अशा खतांची मात्रा द्यावी धन्यवाद",2025-05-22T09:33:06.11,2025,5
+MAHARASHTRA,455,Doc,MAHARASHTRA,NAGPUR,UMRED,,AGRICULTURE,Others,Others,Government Schemes,Asked about agristack contact number ?,अ‍ॅग्रीस्टॅक संपर्क क्रमांक - 020 25 712 712 ,2025-05-15T16:23:56.847,2025,5
+MAHARASHTRA,456,Doc,MAHARASHTRA,WARDHA,DEOLI,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Market Information,Farmer asked about market rate of cotton in Hinganghat  Market ?,"हिंगणघाट कापूस  बाजार भाव- कमीत कमी- 6900 रु/क्विंटल, जास्तीत जास्त- 7900 रु/ क्विंटल, सरासरी- 7300  रु/ क्विंटल.धन्यवाद ",2025-05-08T21:24:19.997,2025,5
+MAHARASHTRA,457,Doc,MAHARASHTRA,WARDHA,SAMUDRAPUR,,AGRICULTURE,Others,Others,Government Schemes,Please provide information about when the loan waiver will take place ?,कर्जमाफी होणार नाही प्रत्यक्ष शेतकऱ्याला त्याचे जे कर्ज आहे ते भरावे लागेल असे अर्थमंत्री यांनी जाहीर केलेला आहे.,2025-05-13T15:58:49.213,2025,5
+MAHARASHTRA,458,Doc,MAHARASHTRA,WARDHA,KARANJA,,HORTICULTURE,Fruits,Orange,Nutrient Management,Asked about Can I spray a mixture of Zero Sixty Twenty and micronutrients on an orange tree? ,संत्रा झाडावर 00 60 20 आणि सूक्ष्म अन्नद्रव्य मिक्स करून फवारणी करू शकता.,2025-05-15T09:57:02.187,2025,5
+MAHARASHTRA,459,Doc,MAHARASHTRA,YEVATMAL,UMARKHED,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Sowing Time and Weather,FARMER ASKED ABOUT SPACNG BETWEEN ROW TO ROW AND PLANT TO PLANT?,नमस्कार आपण कापूस हे पीक ३ फूट बाय २ फूट या प्रमाणे लागवड करू शकता धन्यवाद..!,2025-05-19T19:39:41.957,2025,5
+MAHARASHTRA,460,Doc,MAHARASHTRA,YEVATMAL,PUSAD,,AGRICULTURE,Others,Others,Government Schemes,The farmer asked for information about crop insurance?,"पिक विमा बाबत अधिक माहितीसाठी पुढील क्रमांकावर संपर्क साधावा - १४४४७
+
+  धन्यवाद...",2025-05-20T12:31:11.097,2025,5
+MAHARASHTRA,461,Doc,MAHARASHTRA,YEVATMAL,MAHAGAON,,AGRICULTURE,Others,Others,Nutrient Management,farmer ask about information of fertilizer,शेतकरी महोदयआपण सांगितलेले निर्माण कंपनीचे बुलेट प्लस हे खत पिकांच्या वाढीसाठी उपयुक्त आहे,2025-05-20T13:09:11.167,2025,5
+MAHARASHTRA,462,Doc,MAHARASHTRA,YEVATMAL,ARNI,,AGRICULTURE,Others,Others,Government Schemes,asked about crop insurance company cantact number ?, कृषिरक्षक पोर्टल संपर्क नंबर = 14447 ,2025-05-20T20:45:05.457,2025,5
+MAHARASHTRA,463,Doc,MAHARASHTRA,BULDANA,MALKAPUR,,HORTICULTURE,Vegetables,Pumpkin,	Plant Protection	,farmer asked about fungal infection of pumpkin crop?,"¬साफ ३० ग्रॅम / १५ लिटर पाण्यामध्ये घेऊन फवारणी करावी ( कार्बेन्डाझिम १२ % + मॅन्कोझेब ६३ % ) युपीएल 
+
+",2025-05-05T21:50:15.01,2025,5
+MAHARASHTRA,464,Doc,MAHARASHTRA,BULDANA,MALKAPUR,,HORTICULTURE,Vegetables,Pumpkin,Fertilizer Use and Availability,farmer asked about flower drop of pumpkin crop?,"बोरॉन ३० ग्रॅम  + कॅल्शिअम नायट्रेट ३० ग्रॅम / १५ लिटर पाण्यात घेऊन फवारणी करणे 
+      -------------------
+",2025-05-05T21:51:36.85,2025,5
+MAHARASHTRA,465,Doc,MAHARASHTRA,BULDANA,JALGAONJAMOD,,AGRICULTURE,Others,Others,Government Schemes,"Farmer Asked About Maharashtra State Agricultural Marketing Board, Divisional Office, Amravati Cantact Number ?","महाराष्ट्र राज्य कृषि पणन मंडळ, विभागिय कार्यालय, अमरावती
+ शेतकरी भवन, दुसरा मजला,
+स्टेट बँकेच्या वर, जुने कॉटन मार्केट,
+अमरावती – 444 601 0721-2573537
+ divawati@msamb.com धन्यवाद..!",2025-05-08T08:35:34.943,2025,5
+MAHARASHTRA,466,Doc,MAHARASHTRA,BULDANA,DEULGAON RAJA,,AGRICULTURE,Others,Others,Crop Insurance,asked about crop insurance,पीक विमा १४४४७ या क्रमांकावर कॉल करा ,2025-05-08T17:22:05.19,2025,5
+MAHARASHTRA,467,Doc,MAHARASHTRA,BULDANA,KHAMGAON,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Varieties,"FARMER ASKED QUERY ABOUT VARITIES OF COTTON ?
+",निर्मल बियाणे संपर्क तपशील 91-2596-244366 धन्यवाद शुभ दिवस  ,2025-05-08T18:03:17.14,2025,5
+MAHARASHTRA,468,Doc,MAHARASHTRA,BULDANA,DEULGAON RAJA,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about Where to file a complaint about a tree being cut down while constructing a road?,रोड बनवताना झाड कापले गेलेला आहे त्याची कंप्लेंट आपण तहसीलदार कार्यालय यांच्याशी करावी . ,2025-05-09T13:21:42.033,2025,5
+MAHARASHTRA,469,Doc,MAHARASHTRA,BULDANA,KHAMGAON,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT FARMER ID CREATION PROCESS?,ॲग्रीस्टॅक  वेबसाईट टोल फ्री क्रमांक=०२०-२५७१२७१२,2025-05-19T10:57:29.103,2025,5
+MAHARASHTRA,470,Doc,MAHARASHTRA,BULDANA,JALGAONJAMOD,,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),Sowing Time and Weather,FARMER ASKED ABOUT SOWING TIME OF RED GRAM?,तूर पिकाचा कालावधी - जून मध्ये तूर पिकाची लागवड करू शकता.,2025-05-22T15:25:06.59,2025,5
+MAHARASHTRA,471,Doc,MAHARASHTRA,BHANDARA,SAKOLI,,AGRICULTURE,Others,Others,Government Schemes,Asked for Maharashtra Agri Department Toll Free Number?,महाराष्ट्र शासन कृषी विभाग टोल फ्री क्रमांक 1800 233 4000 या क्रमांकावर संपर्क साधावा.,2025-05-08T14:47:56.117,2025,5
+MAHARASHTRA,472,Doc,MAHARASHTRA,AMRAVATI,AMRAVATI,,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"हवामान अंदाज- ढगाळमय वातावरणासह सूर्यप्रकाश असेल, पाऊस  तुरळक पडेल. ",2025-05-18T09:20:14.74,2025,5
+MAHARASHTRA,473,Doc,MAHARASHTRA,AMRAVATI,DARYAPUR,,HORTICULTURE,Vegetables,Onion,Seeds and Planting Material,FARMER ASKED ABOUT VARITIES OF ONION CROP?,"कांदा  सुधारित जाती : 
+खरीप : फुले समर्थ, बसवंत-७८०, अग्री फाऊंड डार्क रेड, भीमा डार्क रेड
+",2025-05-18T12:29:34.28,2025,5
+MAHARASHTRA,474,Doc,MAHARASHTRA,AMRAVATI,CHANDUR BZ,,AGRICULTURE,Others,Others,Government Schemes,ASKED ABOUT AGRISTACK CONTACT NUMBER ?,अ‍ॅग्रिस्टॅक संपर्क क्रमांक = 020 25 712 712,2025-05-18T20:49:01.393,2025,5
+MAHARASHTRA,475,Doc,MAHARASHTRA,CHANDRAPUR,CHIMUR,,AGRICULTURE,Others,Others,Training and Exposure Visits,FARMER ASKED ABOUT CONTACT DETAIL OF KRISHI VIDYGAN KENDRA ANDHRA PRADESH?,"कृषी विज्ञान केंद्र, अमदलवलसा
+कृषी विज्ञान केंद्र
+अमदलावलसा - 532 185 श्रीकाकुलम जिल्हा
+फोन: ०८९४२ - २८६२१० ९९८९६२३८२२
+ईमेल: kvk_adv2006@yahoo.co.in kvkadv2014@gmail.com
+www.kvkamadalavalasa-angrau.org",2025-05-06T18:55:14.737,2025,5
+MAHARASHTRA,476,Doc,MAHARASHTRA,CHANDRAPUR,JIWATI,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked about Kisan Dhan Aarogyam Yojna ? ,"
+
+किसान धन आरोग्य योजना --PHONE NO1800 309 5532",2025-05-08T12:44:21.267,2025,5
+MAHARASHTRA,477,Doc,MAHARASHTRA,MUMBAI,MUMBAI,,HORTICULTURE,Vegetables,Drum Stick,Seeds and Planting Material,Farmer Ask About contact number DR BALASAHEB SAWANT KONKAN KRISHI VIDYAPEETH  ?,डॉ बाळासाहेब सावंत कोकण कृषी विद्यापीठ दापोली - ०२३५८  २८०२३८ /280558,2025-05-05T16:22:31.643,2025,5
+MAHARASHTRA,478,Doc,MAHARASHTRA,MUMBAI,MUMBAI,,AGRICULTURE,Others,Others,Government Schemes,ASKED ABOUT CONTACT OF PHYTOCYNETORY CERTIFICATE ?,"Sh. Gyaneshwar Banchhor, Deputy Director (Entomology)
+Directorate of Plant Protection Quarantine & Storage
+Old CGO Complex, NH-IV
+Faridabad, Haryana -121001
+Phone No. : 0129-2476329",2025-05-20T09:13:06.27,2025,5
+MAHARASHTRA,479,Doc,MAHARASHTRA,HINGOLI,HINGOLI,,AGRICULTURE,Oilseeds,Soybean (bhat),Fertilizer Use and Availability,FARMER ASKED ABOUT FERTILIZER MANAGEMENT IN SOYBEAN CROP?,सोयाबीन पिकाला 20 20 00 13 प्रति एकरी १ गोणी द्या ,2025-05-21T09:06:06.557,2025,5
+MAHARASHTRA,480,Doc,MAHARASHTRA,GONDIYA,TIRORA,,AGRICULTURE,Cereals,Paddy (Dhan),Crop Insurance,FARMER ASKED QUERY ABOUT PMFBY FOR RICE CROP?,"--शेतकरी महोदय पिक विमा संदर्भात अधिक माहितीसाठी खाली दिलेल्या संपर्क क्रमांकावर ती संपर्क साधावा धन्यवाद
+Company Name	UNIVERSAL SOMPO GENERAL INSURANCE COMPANY	Tollfree No.	14447
+Gondia	Tirora	Khemraj Katre	7770071581
+Gondia	Roshan Singh Lodhi	9329340118",2025-05-06T08:09:27.4,2025,5
+MAHARASHTRA,481,Doc,MAHARASHTRA,NANDURBAR,TALODA,,AGRICULTURE,Others,Others,Crop Insurance,asked about crop insurance,crop insurance -  14 447,2025-05-15T16:37:17.877,2025,5
+MAHARASHTRA,482,Doc,MAHARASHTRA,KOLHAPUR,0   ,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Nutrient Management,Farmers were asked how many days 20:20:00:13 crop would be available for sugarcane crop?,"नमस्कार सर, ऊस पिकाला 20:20:00:13 हे खत साधारणता आठ दिवसांमध्ये उपलब्ध होते धन्यवाद....!",2025-05-01T09:41:56.06,2025,5
+MAHARASHTRA,483,Doc,MAHARASHTRA,KOLHAPUR,SHAHUWADI,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Fertilizer Use and Availability,farmer asked about fertilizer spray for sugarcane crop ?,"ऊस पिकावरील पिवळेपणा नियंत्रणासाठी - १९ १९ १९ ६० ग्रॉम  + मायक्रोला 30 मिलि + रेडोमिल गोल्ड 30 ग्रॉम /15 लिटर पाण्यात फवारणी करावी.धन्यवाद 
+",2025-05-19T13:25:32.52,2025,5
+MAHARASHTRA,484,Doc,MAHARASHTRA,KOLHAPUR,GADHINGLAJ,,AGRICULTURE,Others,Others,Government Schemes,asked about farmer id agristack,फार्मर आयडी -   जवळील सीएससी सेन्टर ला भेट द्या ,2025-05-20T17:01:52.897,2025,5
+MAHARASHTRA,485,Doc,MAHARASHTRA,KOLHAPUR,CHANDGAD,,AGRICULTURE,Others,Others,Government Schemes,Farmers asked about technical difficulties they are facing while registering for Farmer ID?,नमस्कार फार्मर आयडी कार्ड काढण्यासाठी काही अडचण येत असेल तर पुढील संपर्कवर : ०२०-२५७१२७१२ संपर्क साधावा. धन्यवाद.!,2025-05-21T10:21:44.153,2025,5
+MAHARASHTRA,486,Doc,MAHARASHTRA,KOLHAPUR,HATKANGALE,,AGRICULTURE,Others,Others,Government Schemes,Asked for Maharashtra Agri Department Toll Free Number?,महाराष्ट्र शासन कृषी विभाग टोल फ्री क्रमांक 1800 233 4000  या क्रमांकावर संपर्क साधावा.,2025-05-22T17:25:58.51,2025,5
+MAHARASHTRA,487,Doc,MAHARASHTRA,LATUR,JALKOT,,AGRICULTURE,Others,Others,Government Schemes,farmer ask about information of agristack farmer registration,ॲग्री स्टॅग योजनेअंतर्गत शेतकरी नोंदणी करण्यासाठी सातबारा अद्यावत लागतो,2025-05-04T13:31:00.97,2025,5
+MAHARASHTRA,488,Doc,MAHARASHTRA,LATUR,NILANGA,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),	Plant Protection	,Farmer asks about control of stem borer on sugarcane crop?,"नमस्कार, ऊस पिकावरील खोडकिडीचे नियंत्रणासाठी आपण फेम 50 मिली 200 लिटर पाण्यामध्ये एकत्रित मिसळून फवारणी करावी. धन्यवाद!",2025-05-04T19:37:16.083,2025,5
+MAHARASHTRA,489,Doc,MAHARASHTRA,LATUR,NILANGA,,AGRICULTURE,Others,Others,Government Schemes,"farmer ask about Namo shetkari maha Samman Nidhi Yojana information ?
+","नमो शेतकरी सन्मान निधी योजनेची साईड आता बंद आहे त्यामुळे आपले स्टेटस चेक करता येत नाही धन्यवाद
+",2025-05-06T11:13:00.853,2025,5
+MAHARASHTRA,490,Doc,MAHARASHTRA,LATUR,NILANGA,,HORTICULTURE,Condiments and Spices,Coriander,Seeds and Planting Material,VARIETIES OF CORIANDER ?,कोथांबीर -वाण -सुगंधा सुधा न-६५ व्ही -१ व्ही -२ को -१ डी -९२ डी -९४  वाई  धना  जळगाव धना,2025-05-06T13:34:47.143,2025,5
+MAHARASHTRA,491,Doc,MAHARASHTRA,LATUR,AUSA,,HORTICULTURE,Condiments and Spices,Coriander,Nursery Management,Farmer asked about Spraying for coriander crop growth ?,कोथिंबीर फवारणी - १९:१९:१९ - ६० ग्रॅम +सुक्ष्म अन्नद्रव्ये 30 मिली /१५ लिटर पाण्यामध्ये घेऊन फवारणी करावी,2025-05-13T17:49:22.477,2025,5
+MAHARASHTRA,492,Doc,MAHARASHTRA,LATUR,,,HORTICULTURE,Fruits,Papaya,	Plant Protection	,Question asked due to pest infestation in papaya crop,पपई पिकामध्ये निंबोळी अर्क 30 लिटर पाण्यामध्ये १५  मिली घेऊन फवारणी करा . धन्यवाद. ,2025-05-18T11:37:49.607,2025,5
+MAHARASHTRA,493,Doc,MAHARASHTRA,NANDED,MAHUR,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about pm kisan samman nidhi next installment ?,"MH264861162
+आपल्याला पी एम किसान सन्मानित योजना चे सर्व हप्ते मिळालेले आहे धन्यवाद",2025-05-02T13:57:35.757,2025,5
+MAHARASHTRA,494,Doc,MAHARASHTRA,NANDED,HADGAON,,HORTICULTURE,Condiments and Spices,Turmeric,Cultural Practices,The farmer asked how to process the seeds of turmeric crop?,हळद पिकाची बीज प्रक्रिया करण्यासाठी ब्ल्यू कॉपर औषधाची हळदीच्या ढिगावर ती फवारणी करून सुकवून द्यावे धन्यवाद,2025-05-18T19:31:53.583,2025,5
+MAHARASHTRA,495,Doc,MAHARASHTRA,NANDED,HIMAYATNAGAR,,AGRICULTURE,Oilseeds,Soybean (bhat),Varieties,Farmer asked about varieties of soybean,"
+सोयाबीन -जाती - जे एस -३३५ ,डीएस २२८(फुले कल्याणी), जे.एस.९३०५ ,एमएयूएस ७१ (समृद्धी ) फुले अग्रणी 
+",2025-05-21T08:27:11.8,2025,5
+MAHARASHTRA,496,Doc,MAHARASHTRA,NANDED,HIMAYATNAGAR,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Varieties,Farmer asked about varieties of cotton ,"कापूस -जाती -डॉ ब्रेंट बाहुबली अजित - १५५ एमआरसी – ७३५१ ब्रह्मा मल्लिका  भक्ति अंकुर ०९ जॅकपॉट चाणक्य माउली 
+",2025-05-21T08:27:49.49,2025,5
+MAHARASHTRA,497,Doc,MAHARASHTRA,PUNE,BARAMATI,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT CONTACT NUMBER OF KVK BARAMATI ? ,"बारामती कृषी विज्ञान केंद्र संपर्क क्रमांक 9404254849, 02112 255 227",2025-05-05T09:49:01.54,2025,5
+MAHARASHTRA,498,Doc,MAHARASHTRA,PUNE,PURANDAR,,HORTICULTURE,Vegetables,Cucumber,Nursery Management,Farmer asked about contact no. for shade net vegetables cultivations  ?,"भाजीपाला लागवडीसाठी संपर्क क्रमांक , महात्मा फुले कृषी विद्यापीठ राहुरी अहमदनर -०२४२६  २४३३७३ ",2025-05-05T14:59:30.37,2025,5
+MAHARASHTRA,499,Doc,MAHARASHTRA,PUNE,DAUND,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),	Plant Protection	,Farmer asked About improved varieties of sugarcane crop ?,"ऊस पीक  थोडक्यात माहिती :
+सुधारित जाती : आडसाली : को ८६०३२(नीरा),कोएम०२६५,को-व्हीएसआय९८०५(शरद-1) या आहे. धन्यवाद.",2025-05-16T17:19:23.18,2025,5
+MAHARASHTRA,500,Doc,MAHARASHTRA,PUNE,BARAMATI,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about mukhyamantri helpline number?,"मुख्यमंत्री हेल्पलाइन संपर्क क्रमांक=1800 120 80 40 , धन्यवाद,
+फोन: ०२०-२६१२३६४८
+ईमेल: comm.agripune-mh@gov.in",2025-05-21T13:53:03.483,2025,5
+MAHARASHTRA,501,Doc,MAHARASHTRA,PUNE,JUNNAR,,AGRICULTURE,Others,Others,Government Schemes,ASKED ABOUT AGRISTACK CONTACT NUMBER ?,अ‍ॅग्रिस्टॅक संपर्क क्रमांक ०२० २५ ७१२ ७१२,2025-05-22T21:19:18.627,2025,5
+MAHARASHTRA,502,Doc,MAHARASHTRA,AURANGABAD,KANAND,,AGRICULTURE,Pulses,Bengal Gram (Gram/Chick Pea/Kabuli/Chana),Market Information, Asked for market price of Gram?,पुणे कृषी उत्पन्न बाजार समिती मधील हरभरा पिकाचे बाजार भाव आठ हजार रुपये प्रति क्विंटल आहेत,2025-05-04T15:11:54.963,2025,5
+MAHARASHTRA,503,Doc,MAHARASHTRA,AURANGABAD,GANGAPUR,,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),Cultural Practices,FARMER ASKED ABOUT SOWING TIME FOR KHARIP GROUNDNUT CROP ?,खरीप भुईमूग लागवड जून महिन्यामध्ये पाऊस पडल्यानंतर करावी. धन्यवाद...!,2025-05-13T20:24:15.887,2025,5
+MAHARASHTRA,504,Doc,MAHARASHTRA,AURANGABAD,GANGAPUR,,AGRICULTURE,Others,Others,Weather,farmer asked about  When will the monsoon arrive in Maharashtra?,हवामान खात्याच्या अंदाजानुसार मान्सून महाराष्ट्रात 6 जूनला दाखल होण्याची शक्यता आहे धन्यवाद !,2025-05-16T17:36:19.457,2025,5
+MAHARASHTRA,505,Doc,MAHARASHTRA,JALNA,AMBAD,,AGRICULTURE,Fiber Crops,Cotton (Kapas),Market Information,asked about Agricultural Produce Market Committee Manvat Cotton Market Price,कृषी उत्पन्न बाजार समिती मानवत कापुस बाजार भाव 7670 - 7890 रुपये प्रति क्विंटल,2025-05-05T17:50:08.81,2025,5
+MAHARASHTRA,506,Doc,MAHARASHTRA,BEED,DHARUR,,AGRICULTURE,Others,Others,Government Schemes,Farmer asked  did not receive money under crop insurance?,"पीक विमा बाबत माहितीसाठी पुढील क्रमांकावर संपर्क साधावा  -१४४४७  
+
+धन्यवाद...",2025-05-16T13:45:21.487,2025,5
+MAHARASHTRA,507,Doc,MAHARASHTRA,PARBHANI,PALAM,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT CONTACT NUMBER OF AGRICULTURE DEPARTMENT ?,संपर्क क्रमांक कृषी विभाग :- १८००२३३४००० .,2025-05-19T10:34:02.97,2025,5
+MAHARASHTRA,508,Doc,MAHARASHTRA,BEED,ASHTI,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT PHONE NO. OF RAHURI UNIVERSITY?,"महात्मा फुले कृषी विद्यापीठ राहुरी अहमदनर -०२४२६ - २४३३७३. 
+
+",2025-05-22T15:49:12.043,2025,5
+MAHARASHTRA,509,Doc,MAHARASHTRA,BEED,AMBAJOGAI,,AGRICULTURE,Oilseeds,Soybean (bhat),Fertilizer Use and Availability,Farmer asked about the the fertilizer dose for soybean?,सोयाबीन पिकासाठी खताचा डोस 20 20 13- ५० किलो + पोटॅश १० किलो + बेनसल्फ १० किलो पेरणी करताना द्यावा,2025-05-22T17:13:09.223,2025,5
+MAHARASHTRA,510,Doc,MAHARASHTRA,BEED,ASHTI,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about farmer id registration ? ,फार्मर आयडी रजिस्ट्रेशन करण्याकरिता जवळच्या आपल सरकार सेवा केंद्राला भेट द्या. धन्यवाद,2025-05-02T12:36:11.307,2025,5
+MAHARASHTRA,511,Doc,MAHARASHTRA,PARBHANI,JINTUR,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about pm kisan sanman nidhi yojna status?,पी एम किसान सन्मान निधी योजनेबाबत अधिक माहितीसाठी आपल्या तालुका कृषी अधिकारी यांची भेट घ्यावी,2025-05-07T13:25:37.66,2025,5
+MAHARASHTRA,512,Doc,MAHARASHTRA,BEED,ASHTI,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT  WATER RESOURCE DEPARTMENT NUMBER ?,"महाराष्ट्र जलसंपदा विभाग संपर्क क्र.
+टोल फ्री नंबर: 1800 120 8040",2025-05-08T11:02:22.837,2025,5
+MAHARASHTRA,513,Doc,MAHARASHTRA,BEED,GEORAI,,AGRICULTURE,Others,Others,Government Schemes,farmer asked helpline number for pokhara yojana ?,कृषि विभाग महाराष्ट्र शासन नानाजी देशमुख कृषि संजीवनी प्रकल्प (PoCRA) Phone: 022-22163352,2025-05-13T14:40:03.147,2025,5
+MAHARASHTRA,514,Doc,MAHARASHTRA,BEED,BEED,,HORTICULTURE,Vegetables,Tomato,Nutrient Management,asked about flowering stage nutrient for tomato crop ?,"टोमॅटो पिकाला फुल अवस्था मध्ये 12 61 00, तीन किलो प्रति एकर ठिबक मधून द्या .धन्यवाद.",2025-05-17T21:19:11.853,2025,5
+MAHARASHTRA,515,Doc,MAHARASHTRA,OSMANABAD,TULJAPUR,,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),Nutrient Management,Farmer asked about the stress after spray of herbicide in sugarcane crop ?, ऊस या पिकांमध्ये तननाशक फवारणीनंतर आपलं पिकाची वाढ होत नसली तर  फवारणी-  ताबा (TABA ) 40 मिली प्रति 20 लिटर पाणी घेऊन फवारणी करावी. ,2025-05-04T11:38:38.03,2025,5
+MAHARASHTRA,516,Doc,MAHARASHTRA,OSMANABAD,OMERGA,,HORTICULTURE,Vegetables,Chillies,	Plant Protection	,asked about leaf curl in chilli,spray virosol    - 12 61  0 - 80 gm + microla 30 ml / 15 lit water,2025-05-08T21:26:04.45,2025,5
+MAHARASHTRA,517,Doc,MAHARASHTRA,OSMANABAD,PARANDA,,HORTICULTURE,Fruits,Grape,Training and Exposure Visits,FARMER ASKED ABOUT GRAPES RESERACH CENTER CONTACT NUMBER ?,द्राक्ष संशोधन केंद्र मांजरी फार्म पुणे - 020 2695 6000.,2025-05-10T08:50:11.073,2025,5
+MAHARASHTRA,518,Doc,MAHARASHTRA,SANGLI,VALVA-ISLAMPUR,,HORTICULTURE,Vegetables,Tomato,Fertilizer Use and Availability,Fertilizer spray for growth IN TOMATO ? ,--ईसबियॉन ३० मिली /१५ लिटर पाण्यात घेवून फवारणी करावी  ,2025-05-15T08:13:36.243,2025,5
+MAHARASHTRA,519,Doc,MAHARASHTRA,SANGLI,SHIRALA,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT CONTACT NUMBER OF AGRICULTURE DEPARTMENT ?,"
+संपर्क क्रमांक कृषी विभाग :- १८००२३३४००० ",2025-05-21T11:19:00.093,2025,5
+MAHARASHTRA,520,Doc,MAHARASHTRA,NASIK,YEOLA,,AGRICULTURE,Others,Others,Crop Insurance,farmer asked about crop insurance?,--पिक विमा संदर्भात अधिक माहितीसाठी 14 447 या नंबर वरती कॉल करा धन्यवाद,2025-05-05T13:09:57.59,2025,5
+MAHARASHTRA,521,Doc,MAHARASHTRA,NASIK,MALEGAON,,AGRICULTURE,Others,Others,Government Schemes,"Farmer asked information about Prime Minister Kisan Samman Yojana?
+",प्रधानमंत्री किसान सम्मान निधी योजनेच्या अधिक माहितीसाठी संबंधित कृषी विभागाशी संपर्क साधावा. ,2025-05-10T13:39:27.383,2025,5
+MAHARASHTRA,522,Doc,MAHARASHTRA,NASIK,BAGLAN,,HORTICULTURE,Condiments and Spices,Coriander,	Plant Protection	,FARMER ASKED ABOUT WILT ATTACK ON CORIANDER CROP?,कोथिंबीर पिकासाठी एम ४५ ३०  ग्रॅम प्रति १५  लिटर पाण्यामध्ये घेऊन फवारणी करा धन्यवाद,2025-05-20T10:05:17.113,2025,5
+MAHARASHTRA,523,Doc,MAHARASHTRA,NASIK,NIPHAD,,AGRICULTURE,Others,Others,Government Schemes,Asked for Maharashtra Agri Department Toll Free Number?,महाराष्ट्र शासन कृषी विभाग टोल फ्री क्रमांक 1800 233 4000  या क्रमांकावर संपर्क साधावा.,2025-05-21T15:08:47.393,2025,5
+MAHARASHTRA,524,Doc,MAHARASHTRA,NASIK,MALEGAON,,HORTICULTURE,Vegetables,Tomato,Market Information,asked about tomato market,पिंपळगाव बसवंत	---	क्विंटल	153	300	1005	755,2025-05-22T15:13:21.323,2025,5
+MAHARASHTRA,525,Doc,MAHARASHTRA,NASIK,BAGLAN,,AGRICULTURE,Others,Others,Government Schemes,farmer asked about crop insurance details ? ,प्रधानमंत्री पिक विमा योजनेचे ओटीपी नसल्यामुळे पुढील माहिती दाखवत नाही धन्यवाद,2025-05-22T17:17:02.993,2025,5
+MAHARASHTRA,526,Doc,MAHARASHTRA,RAIGARH,KARJAT,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT AGRISTACK APP?,हेल्पलाइन क्रमांक 02025712712,2025-05-04T17:09:43.187,2025,5
+MAHARASHTRA,527,Doc,MAHARASHTRA,RAIGARH,PANVEL,,HORTICULTURE,Fruits,Mango,Cultural Practices,FARMER ASKED ABOUT INFROMATION OF PRUNING OF MANGO?,कालावधी नुसार आंबा पिकाची चटणी करू शकता.,2025-05-07T14:28:29.08,2025,5
+MAHARASHTRA,528,Doc,MAHARASHTRA,DHULE,SHINDKHEDE,,AGRICULTURE,Others,Others,Government Schemes,PM Kisan Cell Pune contact Number contact number?,PM Kisan Cell Pune contact Number  - 02025538755,2025-05-02T17:18:35.543,2025,5
+MAHARASHTRA,529,Doc,MAHARASHTRA,DHULE,SAKRI,,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),Market Information,asked about Agricultural Produce Market Committee Dondai's groundnut market price,14/05/2025 कृषी उत्पन्न बाजार समिती दोंडाईचा भुईमूग बाजार भाव 5051 - 6000 रुपये प्रति क्विंटल,2025-05-15T16:43:33.08,2025,5
+MAHARASHTRA,530,Doc,MAHARASHTRA,Mumbai Suburban,ANDHERI,,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED KISSAN CALL CENTER NUMBER ?,--नमस्कार साहेब किसान कनेक्ट कस्टमर नंबर पुढील प्रमाणे 1800 267 0997 धन्यवाद!,2025-05-18T09:24:03.867,2025,5
+MAHARASHTRA,531,Doc,MAHARASHTRA,WASHIM,KARANJA,,HORTICULTURE,Condiments and Spices,Turmeric,Market Information,Agricultural Produce Market Committee Hingoli Turmeric Market Price,09/05/2025 कृषी उत्पन्न बाजार समिती हिंगोली हळद बाजार भाव 10000 - 12500  रुपये प्रति क्विंटल,2025-05-12T16:31:04.193,2025,5
+MAHARASHTRA,532,Doc,MAHARASHTRA,WASHIM,MALEGAON,,AGRICULTURE,Others,Others,Crop Insurance,"
+Farmer asked about not receiving PMFBY 2024,  crop insurance claim benefit ?
+","प्रधानमंत्री फसल बीमा योजना संदर्भात अधिक माहितीसाठी 14 447 या नंबर वर संपर्क साधावा, धन्यवाद",2025-05-12T18:36:09.36,2025,5
+MAHARASHTRA,533,Doc,MAHARASHTRA,WASHIM,MANORA,,AGRICULTURE,Oilseeds,Soybean (bhat),Fertilizer Use and Availability,"FARMER ASKED QUERY ABOUT FERTILIZER DOSE OF SOYBEAN ?
+","सोबियन DAP 18:46 -65(किलो) प्रति एकर द्यावे. 
+  धन्यवाद.
+",2025-05-17T18:51:13.91,2025,5
+MAHARASHTRA,534,Doc,MAHARASHTRA,WASHIM,MANORA,,AGRICULTURE,Others,Others,Government Schemes,maharashtra agri department toll free number?,महाराष्ट्र शासन कृषी विभाग १८०० २३३ ४०००,2025-05-18T20:47:35.457,2025,5
+MAHARASHTRA,535,Doc,MAHARASHTRA,WASHIM,MANGRULPIR,,ANIMAL HUSBANDRY,Animal,Goat,"Animal Production (Piggery, Goatery, Sheep Farming etc.)",farmer asked about information of goat farm in phaltan dist. satara ,नमस्कार फलटण येथील शेळीपालन प्रशिक्षण केंद्र हे निमकर बोअर शेळीपालन प्रशिक्षण केंद्र लोणंद रोड फलटण जिल्हा सातारा संपर्क क्रमांक 098220 02088.    धन्यवाद,2025-05-21T19:34:17.5,2025,5
